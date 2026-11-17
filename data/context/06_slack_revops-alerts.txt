@@ -1,0 +1,100 @@
+#revops-alerts (HubSpot notifications channel, export)
+
+2025-10-01 08:00 HubSpot: User Thomas Brandt deactivated. 10 open deals still owned.
+2026-01-03 07:39 HubSpot: Workflow 'Copy company size to deal' had 432 errors (property empty)
+2026-01-04 09:07 HubSpot: Property 'industry' option added by Clara Vogt
+2026-01-09 07:32 HubSpot: Workflow 'Closed lost - re-engage after 6 months' enrolled 230 contacts
+2026-01-10 08:08 HubSpot: Daily digest: 26 workflow errors
+2026-01-15 18:02 HubSpot: Workflow 'Segment assignment' edited by Mia Lorenz
+2026-01-26 08:17 HubSpot: Daily digest: 94 workflow errors
+2026-01-28 08:53 HubSpot: Deal 'Copy company size' warning: company has no employee count
+2026-01-29 09:10 HubSpot: Form 'Demo request' had 431 submissions today
+2026-02-01 06:34 HubSpot: Workflow 'Closed lost - re-engage after 6 months' enrolled 64 contacts
+2026-02-05 09:19 HubSpot: List 'Unassigned MQLs' has 114 members
+2026-02-08 09:28 HubSpot: List 'Unassigned MQLs' has 473 members
+2026-02-10 09:19 HubSpot: List 'Unassigned MQLs' has 273 members
+2026-02-10 15:28 HubSpot: Workflow 'MQL scoring' edited by Clara Vogt
+2026-02-13 07:27 HubSpot: Calendly integration reconnected
+2026-02-15 08:40 HubSpot: Form 'Demo request' had 252 submissions today
+2026-02-18 06:01 HubSpot: Property 'industry' option added by Clara Vogt
+2026-02-20 09:00 HubSpot: Calendly integration reconnected
+2026-02-21 09:19 HubSpot: Outreach owner sync: 148 errors (owner not found)
+2026-02-23 08:02 HubSpot: List 'Unassigned MQLs' has 106 members
+2026-02-27 09:18 HubSpot: Form 'Demo request' had 367 submissions today
+2026-03-11 07:18 HubSpot: Workflow 'Copy company size to deal' had 219 errors (property empty)
+2026-03-12 07:34 HubSpot: Daily digest: 203 workflow errors
+2026-03-14 08:25 HubSpot: Deal 'Copy company size' warning: company has no employee count
+2026-03-14 22:10 HubSpot: Outreach owner sync: 412 errors (owner not found)
+2026-03-15 09:41 HubSpot: Workflow 'MQL routing v2' turned off by Mia Lorenz
+2026-03-19 08:56 HubSpot: Daily digest: 440 workflow errors
+2026-03-21 07:49 HubSpot: Deal 'Copy company size' warning: company has no employee count
+2026-03-22 07:19 HubSpot: Workflow 'Copy company size to deal' had 318 errors (property empty)
+2026-03-24 08:49 HubSpot: Form 'Demo request' had 116 submissions today
+2026-03-25 08:54 HubSpot: Daily digest: 223 workflow errors
+2026-03-26 09:05 HubSpot: Daily digest: 14 workflow errors
+2026-03-30 07:20 HubSpot: Outreach owner sync: 257 errors (owner not found)
+2026-03-31 07:20 HubSpot: Deal 'Copy company size' warning: company has no employee count
+2026-04-05 09:46 HubSpot: Calendly integration reconnected
+2026-04-06 09:46 HubSpot: Outreach owner sync: 432 errors (owner not found)
+2026-04-17 08:45 HubSpot: Form 'Demo request' had 436 submissions today
+2026-04-20 06:03 HubSpot: Property 'industry' option added by Clara Vogt
+2026-04-24 09:28 HubSpot: Daily digest: 119 workflow errors
+2026-04-25 08:54 HubSpot: Form 'Demo request' had 427 submissions today
+2026-04-26 08:06 HubSpot: Daily digest: 14 workflow errors
+2026-04-27 07:45 HubSpot: Workflow 'Copy company size to deal' had 276 errors (property empty)
+2026-05-03 09:51 HubSpot: Outreach owner sync: 4 errors (owner not found)
+2026-05-06 08:17 HubSpot: Calendly integration reconnected
+2026-05-08 17:18 HubSpot: Import 'PTS_Berlin_badge_scans.csv' completed. 180 contacts created. Lifecycle stage set on import.
+2026-05-09 08:39 HubSpot: Daily digest: 380 workflow errors
+2026-05-15 08:33 HubSpot: Workflow 'Closed lost - re-engage after 6 months' enrolled 473 contacts
+2026-05-16 07:20 HubSpot: Deal 'Copy company size' warning: company has no employee count
+2026-05-20 08:58 HubSpot: Daily digest: 386 workflow errors
+2026-05-29 09:13 HubSpot: Daily digest: 128 workflow errors
+2026-05-31 06:48 HubSpot: Outreach owner sync: 16 errors (owner not found)
+2026-06-04 08:35 HubSpot: Property 'industry' option added by Clara Vogt
+2026-06-08 06:28 HubSpot: List 'Unassigned MQLs' has 59 members
+2026-06-09 09:25 HubSpot: Outreach owner sync: 156 errors (owner not found)
+2026-06-15 08:49 HubSpot: Property 'industry' option added by Clara Vogt
+2026-06-16 07:02 HubSpot: Daily digest: 153 workflow errors
+2026-06-19 09:48 HubSpot: Deal 'Copy company size' warning: company has no employee count
+2026-06-21 08:46 HubSpot: List 'Unassigned MQLs' has 85 members
+2026-06-22 11:01 HubSpot: Import 'CFO_Forum_scans_final.csv' completed. 140 contacts created. Lifecycle stage set on import.
+2026-06-23 07:33 HubSpot: Deal 'Copy company size' warning: company has no employee count
+2026-06-25 08:30 HubSpot: Workflow 'Closed lost - re-engage after 6 months' enrolled 338 contacts
+2026-06-30 08:59 HubSpot: Workflow 'Copy company size to deal' had 392 errors (property empty)
+2026-07-13 08:02 HubSpot: Daily digest: 226 workflow errors
+2026-07-16 08:46 HubSpot: Property 'industry' option added by Clara Vogt
+2026-07-17 08:06 HubSpot: Deal 'Copy company size' warning: company has no employee count
+2026-07-19 07:54 HubSpot: Daily digest: 14 workflow errors
+2026-07-24 09:10 HubSpot: Form 'Demo request' had 18 submissions today
+2026-07-28 08:05 HubSpot: Daily digest: 215 workflow errors
+2026-07-29 09:13 HubSpot: Workflow 'Copy company size to deal' had 110 errors (property empty)
+2026-08-01 06:23 HubSpot: Form 'Demo request' had 379 submissions today
+2026-08-03 08:22 HubSpot: List 'Unassigned MQLs' has 92 members
+2026-08-09 08:35 HubSpot: Daily digest: 472 workflow errors
+2026-08-11 08:51 HubSpot: Property 'industry' option added by Clara Vogt
+2026-08-14 09:45 HubSpot: Property 'industry' option added by Clara Vogt
+2026-08-18 09:23 HubSpot: Deal 'Copy company size' warning: company has no employee count
+2026-08-19 08:59 HubSpot: Outreach owner sync: 251 errors (owner not found)
+2026-08-26 09:37 HubSpot: Calendly integration reconnected
+2026-08-30 07:39 HubSpot: Form 'Demo request' had 415 submissions today
+2026-09-05 07:20 HubSpot: Outreach owner sync: 366 errors (owner not found)
+2026-09-10 08:53 HubSpot: Property 'industry' option added by Clara Vogt
+2026-09-12 06:33 HubSpot: Daily digest: 97 workflow errors
+2026-09-17 09:19 HubSpot: Property 'industry' option added by Clara Vogt
+2026-09-18 08:38 HubSpot: Calendly integration reconnected
+2026-09-19 06:34 HubSpot: Daily digest: 14 workflow errors
+2026-09-22 08:30 HubSpot: Deal 'Copy company size' warning: company has no employee count
+2026-09-24 07:20 HubSpot: Property 'industry' option added by Clara Vogt
+2026-09-25 09:28 HubSpot: Workflow 'Closed lost - re-engage after 6 months' enrolled 327 contacts
+2026-09-26 14:33 HubSpot: Workflow 'Test - routing fix (draft)' created by Mia Lorenz
+2026-09-28 16:10 HubSpot: Import 'Boston_FLS_leads.csv' completed. 95 contacts created. Lifecycle stage set on import.
+2026-09-30 18:00 HubSpot: User Mia Lorenz deactivated
+2026-10-08 09:03 HubSpot: Calendly integration reconnected
+2026-10-13 09:37 HubSpot: Workflow 'Copy company size to deal' had 263 errors (property empty)
+2026-10-14 08:51 HubSpot: Outreach owner sync: 112 errors (owner not found)
+2026-10-16 06:10 HubSpot: Workflow 'Closed lost - re-engage after 6 months' enrolled 210 contacts
+2026-10-18 06:32 HubSpot: Daily digest: 14 workflow errors
+2026-10-21 09:24 HubSpot: Daily digest: 14 workflow errors
+2026-10-22 08:38 HubSpot: Property 'industry' option added by Clara Vogt
+2026-10-27 08:01 HubSpot: Daily digest: 14 workflow errors

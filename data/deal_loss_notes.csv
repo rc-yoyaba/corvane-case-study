@@ -1,0 +1,562 @@
+deal_id,deal_owner,note_date,note
+9800052,Felix Huber,2024-11-06,"ERP Umstellung zuerst, frühestens Q2."
+9800038,Brian Cole,2024-11-18,Lost on SAP integration. Everything else was a fit.
+9800033,Sophie Koch,2024-11-21,"No decision, status quo wins. Price came up too."
+9800163,Marie Lange,2024-12-04,"Chose Approvio, they already use its AP module."
+9800217,Thomas Brandt,2024-12-06,Value not clear enough to justify the price increase.
+9800009,Sophie Koch,2024-12-11,Spendara quoted about 30% under us and threw in onboarding.
+9800118,Sophie Koch,2024-12-11,"Our sponsor moved on, successor wants to re-evaluate everything."
+9800144,Brian Cole,2024-12-14,"Champion (Head of Finance) left the company, new CFO not engaged."
+9800267,Thomas Brandt,2024-12-18,"Internal priorities changed, project shelved. Also mentioned price."
+9800104,Thomas Brandt,2024-12-20,"Chose Approvio, they already use its AP module. Price came up too."
+9800089,Marie Lange,2024-12-21,Price came up but the real blocker is SAP. Procurement won't run two systems.
+9800185,Brian Cole,2024-12-22,"Timing. Reorg in finance, come back in 6 months. Also mentioned price."
+9800223,Sophie Koch,2024-12-25,"Internal priorities changed, project shelved."
+9800320,Sophie Koch,2024-12-25,"No decision, status quo wins."
+9800099,Felix Huber,2024-12-28,Budget eingefroren bis nächstes GJ.
+9800357,Jonas Braun,2024-12-29,Ohne zertifizierten SAP Connector kein Go von der IT.
+9800248,Felix Huber,2025-01-01,no response after demo
+9800094,Brian Cole,2025-01-05,"Champion (Head of Finance) left the company, new CFO not engaged."
+9800233,Brian Cole,2025-01-10,Lost on SAP integration. Everything else was a fit.
+9808824,Laura Steiner,2025-01-22,Price. Budget approved at roughly 70% of our quote.
+9800198,Brian Cole,2025-01-23,IT vetoed: no certified SAP connector. Product team says H2 at the earliest.
+9800553,Jonas Braun,2025-02-07,"Went dark after proposal, 6 follow-ups, no reply. Also mentioned price."
+9800465,Brian Cole,2025-02-08,Spendara quoted about 30% under us and threw in onboarding.
+9800755,Kevin Brooks,2025-02-12,Needs native SAP S/4HANA integration for PO matching. Not on roadmap.
+9800383,Felix Huber,2025-02-15,Keine Rückmeldung nach Demo.
+9800240,Jonas Braun,2025-02-16,"ERP Umstellung zuerst, frühestens Q2."
+9800353,Sophie Koch,2025-02-16,Could not get the CFO in a room. Parked.
+9808060,Eva Jansen,2025-02-17,Chose Spendara after a cheaper offer. Close call.
+9800285,Jonas Braun,2025-02-23,"SAP S/4HANA Anbindung fehlt, IT blockt."
+9800257,Brian Cole,2025-02-24,Ghosted after pricing call.
+9800471,Sophie Koch,2025-02-28,"Timing. Reorg in finance, come back in 6 months."
+9808522,David Zimmermann,2025-02-28,Chose Spendara after a cheaper offer. Close call.
+9800485,Marie Lange,2025-03-01,Ghosted after pricing call.
+9800854,Sophie Koch,2025-03-10,Could not get the CFO in a room. Parked.
+9800694,Brian Cole,2025-03-14,"Rolling out a new ERP first, not before next year."
+9800404,Felix Huber,2025-03-17,"Approvio, nutzen schon deren AP Modul."
+9800463,Thomas Brandt,2025-03-18,Needs native SAP S/4HANA integration for PO matching. Not on roadmap.
+9800805,Sophie Koch,2025-03-20,Stopped responding. Probably budget. Price came up too.
+9800401,Marie Lange,2025-03-22,Spendara. Their US team was faster and cheaper. Also mentioned price.
+9800808,Kevin Brooks,2025-03-28,"Lost to Spendara on price, they matched every feature they cared about."
+9800910,Kevin Brooks,2025-03-28,Stopped responding. Probably budget.
+9800798,Thomas Brandt,2025-04-02,Stopped responding. Probably budget.
+9800323,Brian Cole,2025-04-03,"Our sponsor moved on, successor wants to re-evaluate everything."
+9800622,Sophie Koch,2025-04-03,Ghosted after pricing call.
+9800846,Felix Huber,2025-04-03,"SAP S/4HANA Anbindung fehlt, IT blockt."
+9800505,Jonas Braun,2025-04-04,Price. Lost on the last call.
+9800043,Marie Lange,2025-04-06,Spendara quoted about 30% under us and threw in onboarding.
+9800667,Kevin Brooks,2025-04-11,"Champion (Head of Finance) left the company, new CFO not engaged. Also mentioned price."
+9808950,Eva Jansen,2025-04-12,"Procurement pushed back on the price, wanted multi-year discount."
+9800571,Thomas Brandt,2025-04-14,Lost on SAP integration. Everything else was a fit.
+9800591,Brian Cole,2025-04-15,"Lost to Spendara on price, they matched every feature they cared about. Price came up too."
+9800789,Brian Cole,2025-04-15,Stopped responding. Probably budget.
+9800609,Felix Huber,2025-04-16,Lost on SAP integration. Everything else was a fit. Price came up too.
+9801165,Felix Huber,2025-04-17,Needs native SAP S/4HANA integration for PO matching. Not on roadmap.
+9800985,Sophie Koch,2025-04-18,Chose Spendara after a cheaper offer. Close call.
+9800990,Kevin Brooks,2025-04-18,"Rolling out a new ERP first, not before next year. (price was also a topic)"
+9800897,Marie Lange,2025-04-25,Lost on SAP integration. Everything else was a fit.
+9800682,Sophie Koch,2025-04-26,Price. Budget approved at roughly 70% of our quote.
+9800728,Kevin Brooks,2025-04-26,Price. Lost on the last call.
+9800873,Felix Huber,2025-04-26,"Our sponsor moved on, successor wants to re-evaluate everything. Also mentioned price."
+9800530,Brian Cole,2025-04-28,"No decision, status quo wins."
+9800310,Thomas Brandt,2025-05-05,Spendara. Their US team was faster and cheaper.
+9800615,Thomas Brandt,2025-05-05,"Champion (Head of Finance) left the company, new CFO not engaged."
+9800879,Sophie Koch,2025-05-06,Price came up but the real blocker is SAP. Procurement won't run two systems.
+9809392,Laura Steiner,2025-05-06,"Champion (Head of Finance) left the company, new CFO not engaged."
+9809870,Grace Hughes,2025-05-08,"Champion (Head of Finance) left the company, new CFO not engaged."
+9801008,Kevin Brooks,2025-05-10,Could not get the CFO in a room. Parked. Also mentioned price.
+9810579,Grace Hughes,2025-05-11,"No decision, status quo wins."
+9808868,David Zimmermann,2025-05-12,Chose Spendara after a cheaper offer. Close call.
+9800918,Sarah Klein,2025-05-13,Stopped responding. Probably budget. (price was also a topic)
+9800491,Thomas Brandt,2025-05-17,IT vetoed: no certified SAP connector. Product team says H2 at the earliest.
+9800730,Sophie Koch,2025-05-20,"Budget frozen for this year, revisit Q2."
+9807032,Grace Hughes,2025-05-20,"Lost to Spendara on price, they matched every feature they cared about. Also mentioned price."
+9808810,Grace Hughes,2025-05-20,"No decision, status quo wins. Also mentioned price."
+9801208,Kevin Brooks,2025-05-22,Went with Approvio bundle deal.
+9800501,Brian Cole,2025-05-23,Price. Lost on the last call.
+9800829,Marie Lange,2025-05-23,Price came up but the real blocker is SAP. Procurement won't run two systems. (price was also a topic)
+9801173,Thomas Brandt,2025-05-24,Needs native SAP S/4HANA integration for PO matching. Not on roadmap.
+9800890,Brian Cole,2025-05-26,Value not clear enough to justify the price increase.
+9800677,Thomas Brandt,2025-05-29,IT vetoed: no certified SAP connector. Product team says H2 at the earliest.
+9801106,Felix Huber,2025-05-29,Status quo gewinnt.
+9801229,Marie Lange,2025-05-29,No response after demo. Price came up too.
+9801280,Felix Huber,2025-05-29,Ohne zertifizierten SAP Connector kein Go von der IT.
+9808183,Laura Steiner,2025-05-31,Value not clear enough to justify the price increase.
+9809516,Eva Jansen,2025-06-08,"No decision, status quo wins. (price was also a topic)"
+9800920,Julia Hartmann,2025-06-09,"Champion (Head of Finance) left the company, new CFO not engaged."
+9801129,Sarah Klein,2025-06-09,"Our sponsor moved on, successor wants to re-evaluate everything."
+9800823,Brian Cole,2025-06-10,Price. Lost on the last call.
+9801300,Thomas Brandt,2025-06-10,Went with Approvio bundle deal.
+9800956,Felix Huber,2025-06-16,"Spendara, deutlich günstiger."
+9801000,Jonas Braun,2025-06-16,Nach Angebot abgetaucht. 5x nachgefasst.
+9801363,Lukas Weber,2025-06-16,"Procurement pushed back on the price, wanted multi-year discount."
+9800638,Jonas Braun,2025-06-17,"ERP Umstellung zuerst, frühestens Q2."
+9801298,Kevin Brooks,2025-06-17,Could not get the CFO in a room. Parked.
+9801257,Kevin Brooks,2025-06-19,Could not get the CFO in a room. Parked.
+9800723,Thomas Brandt,2025-06-20,Needs native SAP S/4HANA integration for PO matching. Not on roadmap. (price was also a topic)
+9801463,Jonas Braun,2025-06-21,"Procurement pushed back on the price, wanted multi-year discount."
+9801219,Kevin Brooks,2025-06-22,IT vetoed: no certified SAP connector. Product team says H2 at the earliest.
+9801373,Thomas Brandt,2025-06-22,"Budget frozen for this year, revisit Q2."
+9813049,Grace Hughes,2025-06-23,"Champion (Head of Finance) left the company, new CFO not engaged."
+9801210,Jonas Braun,2025-06-24,Preis. Einkauf wollte 20% und Mehrjahresrabatt.
+9810960,Eva Jansen,2025-06-24,Chose Spendara after a cheaper offer. Close call.
+9801140,Kevin Brooks,2025-06-26,Lost on SAP integration. Everything else was a fit.
+9801150,Marie Lange,2025-06-26,"Went dark after proposal, 6 follow-ups, no reply."
+9801642,Kevin Brooks,2025-06-27,"Went dark after proposal, 6 follow-ups, no reply."
+9801067,Kevin Brooks,2025-06-30,Price. Lost on the last call.
+9801198,Sophie Koch,2025-06-30,"Budget frozen for this year, revisit Q2."
+9801055,Sophie Koch,2025-07-01,Needs native SAP S/4HANA integration for PO matching. Not on roadmap.
+9810139,Grace Hughes,2025-07-01,Price. Budget approved at roughly 70% of our quote.
+9801575,Lukas Weber,2025-07-02,Value not clear enough to justify the price increase.
+9801137,Jonas Braun,2025-07-06,"ERP Umstellung zuerst, frühestens Q2."
+9812179,Laura Steiner,2025-07-08,"Our sponsor moved on, successor wants to re-evaluate everything."
+9801417,Kevin Brooks,2025-07-09,Ghosted after pricing call. (price was also a topic)
+9801366,Kevin Brooks,2025-07-12,Ghosted after pricing call.
+9801618,Felix Huber,2025-07-13,"Approvio, nutzen schon deren AP Modul."
+9801572,Thomas Brandt,2025-07-14,Ghosted after pricing call.
+9812874,Grace Hughes,2025-07-14,Spendara. Their US team was faster and cheaper.
+9812725,David Zimmermann,2025-07-16,Value not clear enough to justify the price increase.
+9801242,Thomas Brandt,2025-07-18,"Budget frozen for this year, revisit Q2."
+9801561,Felix Huber,2025-07-18,"SAP S/4HANA Anbindung fehlt, IT blockt."
+9801290,Kevin Brooks,2025-07-20,Spendara quoted about 30% under us and threw in onboarding.
+9801546,Jonas Braun,2025-07-20,"Chose Approvio, they already use its AP module. Also mentioned price."
+9801393,Kevin Brooks,2025-07-24,Price. Lost on the last call.
+9810815,Laura Steiner,2025-07-30,"Our sponsor moved on, successor wants to re-evaluate everything. (price was also a topic)"
+9801447,Kevin Brooks,2025-08-01,"Budget frozen for this year, revisit Q2."
+9801665,Kevin Brooks,2025-08-01,Went with Approvio bundle deal.
+9801387,Marie Lange,2025-08-02,IT vetoed: no certified SAP connector. Product team says H2 at the earliest.
+9801584,Sophie Koch,2025-08-02,"Timing. Reorg in finance, come back in 6 months."
+9801837,Sophie Koch,2025-08-02,"Budget frozen for this year, revisit Q2."
+9801773,Kevin Brooks,2025-08-03,Needs native SAP S/4HANA integration for PO matching. Not on roadmap.
+9801916,Sophie Koch,2025-08-03,Decided to stay on spreadsheets for now. Price came up too.
+9808769,Laura Steiner,2025-08-05,"Champion (Head of Finance) left the company, new CFO not engaged."
+9800962,Thomas Brandt,2025-08-06,"Chose Approvio, they already use its AP module."
+9801864,Felix Huber,2025-08-06,Preis. Einkauf wollte 20% und Mehrjahresrabatt.
+9801724,Felix Huber,2025-08-07,"Chose Approvio, they already use its AP module."
+9801603,Marie Lange,2025-08-10,Needs native SAP S/4HANA integration for PO matching. Not on roadmap.
+9801114,Thomas Brandt,2025-08-11,No response after demo.
+9801303,Kevin Brooks,2025-08-15,Lost on SAP integration. Everything else was a fit.
+9801086,Sarah Klein,2025-08-16,Lost on SAP integration. Everything else was a fit.
+9801960,Thomas Brandt,2025-08-16,Ghosted after pricing call.
+9801340,Kevin Brooks,2025-08-22,Decided to stay on spreadsheets for now.
+9812568,Grace Hughes,2025-08-22,Spendara quoted about 30% under us and threw in onboarding.
+9801693,Lukas Weber,2025-08-23,lost on sap integration. everything else was a fit
+9810095,Eva Jansen,2025-08-24,Spendara quoted about 30% under us and threw in onboarding.
+9811434,Laura Steiner,2025-08-24,Could not get the CFO in a room. Parked.
+9800775,Kevin Brooks,2025-08-25,Ghosted after pricing call.
+9802049,Sophie Koch,2025-08-27,Decided to stay on spreadsheets for now.
+9806837,Laura Steiner,2025-08-28,Value not clear enough to justify the price increase.
+9801101,Marie Lange,2025-08-29,Lost on SAP integration. Everything else was a fit.
+9801095,Julia Hartmann,2025-09-05,Price came up but the real blocker is SAP. Procurement won't run two systems.
+9801490,Kevin Brooks,2025-09-05,No response after demo.
+9812713,David Zimmermann,2025-09-05,"Procurement pushed back on the price, wanted multi-year discount."
+9801629,Kevin Brooks,2025-09-07,"Timing. Reorg in finance, come back in 6 months."
+9801607,Megan Turner,2025-09-08,Stopped responding. Probably budget. Also mentioned price.
+9801929,Jonas Braun,2025-09-09,Ohne zertifizierten SAP Connector kein Go von der IT.
+9802002,Marie Lange,2025-09-09,"No decision, status quo wins. Price came up too."
+9801430,Kevin Brooks,2025-09-10,"Budget frozen for this year, revisit Q2."
+9801704,Sophie Koch,2025-09-10,Decided to stay on spreadsheets for now.
+9802136,Marie Lange,2025-09-10,Stopped responding. Probably budget.
+9802094,Lukas Weber,2025-09-12,lost on sap integration. everything else was a fit
+9801710,Megan Turner,2025-09-13,"Internal priorities changed, project shelved."
+9801518,Kevin Brooks,2025-09-14,"Rolling out a new ERP first, not before next year."
+9802059,Jonas Braun,2025-09-14,"Approvio, nutzen schon deren AP Modul."
+9807340,Laura Steiner,2025-09-15,"Our sponsor moved on, successor wants to re-evaluate everything."
+9801167,Julia Hartmann,2025-09-16,No response after demo. Also mentioned price.
+9801650,Sarah Klein,2025-09-16,"Lost to Spendara on price, they matched every feature they cared about."
+9801931,Megan Turner,2025-09-17,IT vetoed: no certified SAP connector. Product team says H2 at the earliest. Also mentioned price.
+9801828,Megan Turner,2025-09-18,"Budget frozen for this year, revisit Q2."
+9802082,Megan Turner,2025-09-20,Value not clear enough to justify the price increase.
+9808125,Max Becker,2025-09-24,Could not get the CFO in a room. Parked. Also mentioned price.
+9801800,Felix Huber,2025-09-25,"An Spendara verloren, 3 Monate gratis angeboten."
+9801683,Kevin Brooks,2025-09-26,"Timing. Reorg in finance, come back in 6 months."
+9801847,Marie Lange,2025-09-27,"Internal priorities changed, project shelved."
+9802013,Thomas Brandt,2025-09-27,"Our sponsor moved on, successor wants to re-evaluate everything. (price was also a topic)"
+9802338,Marie Lange,2025-09-27,Price. Lost on the last call.
+9802302,Thomas Brandt,2025-09-30,"Our sponsor moved on, successor wants to re-evaluate everything."
+9801506,Thomas Brandt,2025-10-01,"Rolling out a new ERP first, not before next year."
+9808490,Tom Richter,2025-10-01,Value not clear enough to justify the price increase.
+9812324,Laura Steiner,2025-10-01,Price. Budget approved at roughly 70% of our quote.
+9801262,Sarah Klein,2025-10-02,Price. Budget approved at roughly 70% of our quote.
+9802004,Felix Huber,2025-10-02,Decided to stay on spreadsheets for now.
+9801668,Thomas Brandt,2025-10-04,Went with Approvio bundle deal.
+9807434,Tom Richter,2025-10-07,"Procurement pushed back on the price, wanted multi-year discount."
+9813005,Grace Hughes,2025-10-07,"Our sponsor moved on, successor wants to re-evaluate everything."
+9801843,Jonas Braun,2025-10-08,Price came up but the real blocker is SAP. Procurement won't run two systems.
+9812640,Grace Hughes,2025-10-09,"No decision, status quo wins. Also mentioned price."
+9808204,Laura Steiner,2025-10-14,"Procurement pushed back on the price, wanted multi-year discount."
+9807012,Tom Richter,2025-10-15,"Lost to Spendara on price, they matched every feature they cared about."
+9802343,Felix Huber,2025-10-17,"ERP Umstellung zuerst, frühestens Q2."
+9801996,Megan Turner,2025-10-18,"Timing. Reorg in finance, come back in 6 months."
+9802351,Kevin Brooks,2025-10-18,Went with Approvio bundle deal.
+9801781,Sarah Klein,2025-10-19,Price came up but the real blocker is SAP. Procurement won't run two systems.
+9808074,Grace Hughes,2025-10-20,Price. Budget approved at roughly 70% of our quote.
+9801993,Julia Hartmann,2025-10-22,"Champion (Head of Finance) left the company, new CFO not engaged."
+9809668,Laura Steiner,2025-10-23,"Our sponsor moved on, successor wants to re-evaluate everything."
+9800747,Jonas Braun,2025-10-24,"Champion (Leiterin Finanzen) hat gekündigt, Nachfolger kein Interesse."
+9801762,Sophie Koch,2025-10-24,Could not get the CFO in a room. Parked.
+9801353,Julia Hartmann,2025-10-26,Ghosted after pricing call.
+9807003,Max Becker,2025-10-28,Price. Lost on the last call.
+9801858,Kevin Brooks,2025-10-29,Lost on SAP integration. Everything else was a fit.
+9806668,Tom Richter,2025-11-01,Value not clear enough to justify the price increase.
+9802272,Sophie Koch,2025-11-02,Stopped responding. Probably budget.
+9802445,Sophie Koch,2025-11-02,"No decision, status quo wins."
+9801673,Megan Turner,2025-11-04,"Chose Approvio, they already use its AP module."
+9802104,Sophie Koch,2025-11-06,Ghosted after pricing call. (price was also a topic)
+9802450,Marie Lange,2025-11-06,Price. Budget approved at roughly 70% of our quote.
+9802466,Kevin Brooks,2025-11-07,Ghosted after pricing call.
+9802121,Megan Turner,2025-11-11,Value not clear enough to justify the price increase.
+9802268,Lukas Weber,2025-11-11,"Budget frozen for this year, revisit Q2."
+9802386,Kevin Brooks,2025-11-14,IT vetoed: no certified SAP connector. Product team says H2 at the earliest.
+9802425,Kevin Brooks,2025-11-15,"Internal priorities changed, project shelved."
+9802628,Jonas Braun,2025-11-17,"Timing. Reorg in finance, come back in 6 months."
+9802459,Megan Turner,2025-11-18,"Timing. Reorg in finance, come back in 6 months."
+9802803,Megan Turner,2025-11-22,Lost on SAP integration. Everything else was a fit.
+9811663,Max Becker,2025-11-22,"Internal priorities changed, project shelved."
+9802189,Lukas Weber,2025-11-24,"Chose Approvio, they already use its AP module. Also mentioned price."
+9802165,Julia Hartmann,2025-11-26,Price. Budget approved at roughly 70% of our quote.
+9801378,Julia Hartmann,2025-11-27,Spendara quoted about 30% under us and threw in onboarding.
+9802772,Kevin Brooks,2025-11-28,Could not get the CFO in a room. Parked.
+9810370,David Zimmermann,2025-11-29,Could not get the CFO in a room. Parked.
+9811157,Laura Steiner,2025-11-29,Decided to stay on spreadsheets for now.
+9812484,Eva Jansen,2025-11-30,Value not clear enough to justify the price increase.
+9802312,Lukas Weber,2025-12-01,"Champion (Head of Finance) left the company, new CFO not engaged."
+9802264,Thomas Brandt,2025-12-05,IT vetoed: no certified SAP connector. Product team says H2 at the earliest.
+9802370,Thomas Brandt,2025-12-06,"Went dark after proposal, 6 follow-ups, no reply."
+9802520,Sophie Koch,2025-12-09,No response after demo.
+9802614,Megan Turner,2025-12-09,"Procurement pushed back on the price, wanted multi-year discount."
+9801986,Michael Carter,2025-12-11,Spendara quoted about 30% under us and threw in onboarding.
+9802685,Sophie Koch,2025-12-12,"Went dark after proposal, 6 follow-ups, no reply. Also mentioned price."
+9802669,Megan Turner,2025-12-13,Stopped responding. Probably budget.
+9802150,Megan Turner,2025-12-17,No response after demo. Price came up too.
+9802794,Felix Huber,2025-12-17,"Approvio, nutzen schon deren AP Modul."
+9802008,Julia Hartmann,2025-12-20,Went with Approvio bundle deal.
+9801907,Lukas Weber,2025-12-21,lost on sap integration. everything else was a fit
+9808017,Laura Steiner,2025-12-21,"Our sponsor moved on, successor wants to re-evaluate everything. (price was also a topic)"
+9802531,Marie Lange,2025-12-24,"Budget frozen for this year, revisit Q2. Also mentioned price."
+9802961,Jonas Braun,2025-12-26,Could not get the CFO in a room. Parked.
+9802714,Marie Lange,2025-12-31,Spendara. Their US team was faster and cheaper.
+9802527,Jonas Braun,2026-01-02,Preis. Einkauf wollte 20% und Mehrjahresrabatt.
+9802977,Lukas Weber,2026-01-03,Stopped responding. Probably budget.
+9813025,Grace Hughes,2026-01-03,Value not clear enough to justify the price increase.
+9802573,Jonas Braun,2026-01-06,Ohne zertifizierten SAP Connector kein Go von der IT.
+9802676,Kevin Brooks,2026-01-06,Decided to stay on spreadsheets for now.
+9802842,Megan Turner,2026-01-06,Price. Budget approved at roughly 70% of our quote.
+9802886,Marie Lange,2026-01-06,"Internal priorities changed, project shelved."
+9809554,Max Becker,2026-01-08,"Lost to Spendara on price, they matched every feature they cared about."
+9803033,Marie Lange,2026-01-09,"Champion (Head of Finance) left the company, new CFO not engaged."
+9802144,Kevin Brooks,2026-01-10,Needs native SAP S/4HANA integration for PO matching. Not on roadmap.
+9802275,Julia Hartmann,2026-01-10,"Rolling out a new ERP first, not before next year."
+9802942,Felix Huber,2026-01-10,Lost on SAP integration. Everything else was a fit.
+9802659,Lukas Weber,2026-01-11,"Procurement pushed back on the price, wanted multi-year discount."
+9802279,Megan Turner,2026-01-12,"No decision, status quo wins."
+9802569,Megan Turner,2026-01-16,IT vetoed: no certified SAP connector. Product team says H2 at the earliest.
+9801657,Julia Hartmann,2026-01-17,"Champion (Head of Finance) left the company, new CFO not engaged."
+9802762,Jonas Braun,2026-01-18,Budget eingefroren bis nächstes GJ.
+9802710,Kevin Brooks,2026-01-19,Lost on SAP integration. Everything else was a fit.
+9803008,Jonas Braun,2026-01-22,Keine Rückmeldung nach Demo.
+9801881,Megan Turner,2026-01-23,Went with Approvio bundle deal.
+9802736,Megan Turner,2026-01-23,Price came up but the real blocker is SAP. Procurement won't run two systems. Also mentioned price.
+9801892,Sarah Klein,2026-01-25,Price. Lost on the last call.
+9803134,Kevin Brooks,2026-01-25,No response after demo. Also mentioned price.
+9802811,Kevin Brooks,2026-01-27,Ghosted after pricing call.
+9802699,Jonas Braun,2026-02-02,Price came up but the real blocker is SAP. Procurement won't run two systems.
+9802825,Kevin Brooks,2026-02-03,"Internal priorities changed, project shelved."
+9802283,Jonas Braun,2026-02-04,"No decision, status quo wins."
+9803165,Lukas Weber,2026-02-04,"No decision, status quo wins."
+9802780,Sarah Klein,2026-02-05,Stopped responding. Probably budget.
+9802952,Lukas Weber,2026-02-06,Price. Budget approved at roughly 70% of our quote.
+9803125,Sophie Koch,2026-02-06,"Chose Approvio, they already use its AP module. Also mentioned price."
+9802931,Jonas Braun,2026-02-10,Needs native SAP S/4HANA integration for PO matching. Not on roadmap. Also mentioned price.
+9802655,Felix Huber,2026-02-11,Ohne zertifizierten SAP Connector kein Go von der IT.
+9802915,Sophie Koch,2026-02-12,"Rolling out a new ERP first, not before next year."
+9802513,Michael Carter,2026-02-13,"Rolling out a new ERP first, not before next year."
+9802380,Michael Carter,2026-02-15,Decided to stay on spreadsheets for now.
+9802974,Felix Huber,2026-02-15,IT vetoed: no certified SAP connector. Product team says H2 at the earliest.
+9803168,Sophie Koch,2026-02-15,They're 117 people and the CFO signs every PO himself. Not ready for approval workflows. Price came up too.
+9803283,Sophie Koch,2026-02-16,Ghosted after pricing call.
+9803064,Felix Huber,2026-02-17,Keine Rückmeldung nach Demo.
+9803026,Megan Turner,2026-02-21,Could not get the CFO in a room. Parked.
+9803357,Sophie Koch,2026-02-21,"Timing. Reorg in finance, come back in 6 months."
+9802892,Felix Huber,2026-02-24,Ohne zertifizierten SAP Connector kein Go von der IT.
+9803410,Kevin Brooks,2026-02-24,Price came up but the real blocker is SAP. Procurement won't run two systems. Also mentioned price.
+9803441,Lukas Weber,2026-02-24,"Rolling out a new ERP first, not before next year."
+9802631,Marie Lange,2026-02-26,"Chose Approvio, they already use its AP module. Also mentioned price."
+9803274,Lukas Weber,2026-02-27,"Went dark after proposal, 6 follow-ups, no reply."
+9811969,Grace Hughes,2026-03-01,"Lost to Spendara on price, they matched every feature they cared about."
+9803175,Megan Turner,2026-03-03,No response after demo.
+9803088,Megan Turner,2026-03-04,Stopped responding. Probably budget.
+9803614,Felix Huber,2026-03-04,"Eigentlich Self-Service Kunde, 69 Leute. Preis für das MM Paket viel zu hoch."
+9802900,Lukas Weber,2026-03-10,Price. Quote was more than they spend on their whole finance stack (137 employees).
+9803193,Marie Lange,2026-03-10,"Timing. Reorg in finance, come back in 6 months."
+9803292,Jonas Braun,2026-03-10,"Eigentlich Self-Service Kunde, 119 Leute. Preis für das MM Paket viel zu hoch."
+9803449,Sophie Koch,2026-03-14,"Too early for them. 91 employees, no procurement function, Excel works at their size."
+9803509,Sophie Koch,2026-03-14,Lost on SAP integration. Everything else was a fit.
+9810510,Hannah Fischer,2026-03-16,Could not get the CFO in a room. Parked.
+9803620,Lukas Weber,2026-03-17,price. quote was more than they spend on their whole finance stack (59 employees)
+9803023,Sarah Klein,2026-03-20,"Our sponsor moved on, successor wants to re-evaluate everything."
+9802858,Michael Carter,2026-03-21,Price. Lost on the last call.
+9803227,Megan Turner,2026-03-21,"Timing. Reorg in finance, come back in 6 months."
+9803637,Sophie Koch,2026-03-21,Price. Quote was more than they spend on their whole finance stack (79 employees).
+9808714,Tom Richter,2026-03-21,"Procurement pushed back on the price, wanted multi-year discount."
+9803580,Kevin Brooks,2026-03-22,"Owner-led business, no approval chain to automate. Should have been self-serve."
+9803672,Kevin Brooks,2026-03-22,"Too expensive for their size, asked twice if there was a smaller package."
+9803107,Sarah Klein,2026-03-23,"Timing. Reorg in finance, come back in 6 months. Also mentioned price."
+9803616,Kevin Brooks,2026-03-23,They're 136 people and the CFO signs every PO himself. Not ready for approval workflows.
+9803676,Megan Turner,2026-03-23,Went with Approvio bundle deal.
+9803538,Kevin Brooks,2026-03-24,Lost on SAP integration. Everything else was a fit.
+9803664,Felix Huber,2026-03-24,no response after demo
+9802115,Sarah Klein,2026-03-25,"Rolling out a new ERP first, not before next year."
+9802500,Sarah Klein,2026-03-25,Lost on SAP integration. Everything else was a fit.
+9802847,Sophie Koch,2026-03-26,They're 128 people and the CFO signs every PO himself. Not ready for approval workflows.
+9803649,Megan Turner,2026-03-26,"Owner-led business, no approval chain to automate. Should have been self-serve."
+9803692,Kevin Brooks,2026-03-27,"No decision, status quo wins. Also mentioned price."
+9803497,Megan Turner,2026-03-29,Price. They wanted the self-serve price with sales-led onboarding.
+9807165,Hannah Fischer,2026-03-30,"Champion (Head of Finance) left the company, new CFO not engaged."
+9803755,Lukas Weber,2026-03-31,"Too expensive for their size, asked twice if there was a smaller package."
+9803184,Kevin Brooks,2026-04-01,No response after demo.
+9803569,Sophie Koch,2026-04-01,"Nice team, wrong fit. 149 staff, one bookkeeper, no real pain."
+9803805,Sophie Koch,2026-04-01,"Rolling out a new ERP first, not before next year."
+9803431,Kevin Brooks,2026-04-02,"Rolling out a new ERP first, not before next year."
+9812350,Tom Richter,2026-04-02,"Our sponsor moved on, successor wants to re-evaluate everything."
+9803050,Sarah Klein,2026-04-05,"Rolling out a new ERP first, not before next year."
+9803818,Megan Turner,2026-04-05,"Liked the demo, but the quote for 156 employees was way off. They expected something like the self-serve plan."
+9803138,Marie Lange,2026-04-08,No response after demo.
+9802523,Sarah Klein,2026-04-09,"Our sponsor moved on, successor wants to re-evaluate everything."
+9803689,Lukas Weber,2026-04-09,Price. They wanted the self-serve price with sales-led onboarding.
+9803809,Jonas Braun,2026-04-09,"Nice team, wrong fit. 75 staff, one bookkeeper, no real pain. Also mentioned price."
+9803767,Jonas Braun,2026-04-10,"Owner-led business, no approval chain to automate. Should have been self-serve."
+9803918,Marie Lange,2026-04-10,"Too expensive for their size, asked twice if there was a smaller package."
+9803893,Lukas Weber,2026-04-11,"too expensive for their size, asked twice if there was a smaller package"
+9807667,Laura Steiner,2026-04-11,"Lost to Spendara on price, they matched every feature they cared about."
+9802545,Julia Hartmann,2026-04-13,Stopped responding. Probably budget.
+9803028,Julia Hartmann,2026-04-14,"Went dark after proposal, 6 follow-ups, no reply."
+9803348,Megan Turner,2026-04-14,"Internal priorities changed, project shelved."
+9803455,Jonas Braun,2026-04-16,"Too early for them. 111 employees, no procurement function, Excel works at their size."
+9803384,Megan Turner,2026-04-18,"Too expensive for their size, asked twice if there was a smaller package."
+9803327,Lukas Weber,2026-04-20,Needs native SAP S/4HANA integration for PO matching. Not on roadmap.
+9811551,Grace Hughes,2026-04-20,"Our sponsor moved on, successor wants to re-evaluate everything."
+9803473,Megan Turner,2026-04-21,Needs native SAP S/4HANA integration for PO matching. Not on roadmap.
+9803911,Jonas Braun,2026-04-21,"Zu klein. 116 MA, GF gibt jede Bestellung selbst frei."
+9803644,Jonas Braun,2026-04-22,Preis. Einkauf wollte 20% und Mehrjahresrabatt.
+9803114,Julia Hartmann,2026-04-23,"Champion (Head of Finance) left the company, new CFO not engaged."
+9803119,Michael Carter,2026-04-23,Price came up but the real blocker is SAP. Procurement won't run two systems.
+9803480,Felix Huber,2026-04-24,"Kein Einkauf, kein Freigabeprozess. Excel reicht ihnen noch."
+9803765,Megan Turner,2026-04-25,"Timing. Reorg in finance, come back in 6 months."
+9803900,Kevin Brooks,2026-04-25,Price. Quote was more than they spend on their whole finance stack (108 employees).
+9803565,Michael Carter,2026-04-26,No response after demo.
+9803652,Michael Carter,2026-04-26,Ghosted after pricing call. (price was also a topic)
+9803759,Sophie Koch,2026-04-26,"Rolling out a new ERP first, not before next year."
+9803553,Lukas Weber,2026-04-28,"Internal priorities changed, project shelved."
+9803694,Megan Turner,2026-04-29,"Liked the demo, but the quote for 96 employees was way off. They expected something like the self-serve plan."
+9803053,Julia Hartmann,2026-04-30,"Champion (Head of Finance) left the company, new CFO not engaged."
+9804037,Marie Lange,2026-04-30,"Liked the demo, but the quote for 115 employees was way off. They expected something like the self-serve plan. Price came up too."
+9803610,Megan Turner,2026-05-02,"Rolling out a new ERP first, not before next year."
+9803976,Kevin Brooks,2026-05-04,Went with Approvio bundle deal. Price came up too.
+9804071,Felix Huber,2026-05-04,Nach Angebot abgetaucht. 5x nachgefasst.
+9803207,Lukas Weber,2026-05-05,They're 151 people and the CFO signs every PO himself. Not ready for approval workflows.
+9803843,Kevin Brooks,2026-05-05,"Nice team, wrong fit. 173 staff, one bookkeeper, no real pain."
+9803421,Michael Carter,2026-05-06,"Timing. Reorg in finance, come back in 6 months."
+9803437,Sarah Klein,2026-05-06,Decided to stay on spreadsheets for now.
+9803921,Felix Huber,2026-05-06,price. quote was more than they spend on their whole finance stack (140 employees)
+9803865,Sophie Koch,2026-05-07,"Too early for them. 186 employees, no procurement function, Excel works at their size."
+9803105,Megan Turner,2026-05-11,Stopped responding. Probably budget.
+9804020,Jonas Braun,2026-05-11,Stopped responding. Probably budget. Also mentioned price.
+9804198,Megan Turner,2026-05-16,"Nice team, wrong fit. 123 staff, one bookkeeper, no real pain."
+9804150,Megan Turner,2026-05-17,Price. Quote was more than they spend on their whole finance stack (112 employees).
+9804115,Michael Carter,2026-05-18,"Internal priorities changed, project shelved."
+9807179,Eva Jansen,2026-05-18,Price. Budget approved at roughly 70% of our quote.
+9804263,Jonas Braun,2026-05-20,"Procurement pushed back on the price, wanted multi-year discount."
+9804749,Oliver Bakker,2026-05-21,Price. They wanted the self-serve price with sales-led onboarding.
+9803987,Felix Huber,2026-05-22,"Keine Entscheidung, Projekt verschoben."
+9804089,Sophie Koch,2026-05-22,"Too early for them. 68 employees, no procurement function, Excel works at their size."
+9803944,Sophie Koch,2026-05-23,"Liked the demo, but the quote for 88 employees was way off. They expected something like the self-serve plan."
+9803145,Sarah Klein,2026-05-24,"Budget frozen for this year, revisit Q2."
+9804011,Julia Hartmann,2026-05-24,Needs native SAP S/4HANA integration for PO matching. Not on roadmap.
+9804575,Oliver Bakker,2026-05-24,Ghosted after pricing call.
+9803794,Lukas Weber,2026-05-26,it vetoed: no certified sap connector. product team says h2 at the earliest
+9804355,Jonas Braun,2026-05-27,"Nice team, wrong fit. 71 staff, one bookkeeper, no real pain."
+9804360,Marie Lange,2026-05-28,They're 85 people and the CFO signs every PO himself. Not ready for approval workflows. Price came up too.
+9803974,Megan Turner,2026-05-29,"Too expensive for their size, asked twice if there was a smaller package."
+9804338,Oliver Bakker,2026-05-29,"Too early for them. 197 employees, no procurement function, Excel works at their size."
+9804524,Marie Lange,2026-05-29,"Owner-led business, no approval chain to automate. Should have been self-serve. Price came up too."
+9804479,Megan Turner,2026-05-30,"Nice team, wrong fit. 79 staff, one bookkeeper, no real pain."
+9803180,Jonas Braun,2026-05-31,"Nice team, wrong fit. 188 staff, one bookkeeper, no real pain."
+9803716,Kevin Brooks,2026-05-31,Decided to stay on spreadsheets for now.
+9804139,Marie Lange,2026-05-31,"Liked the demo, but the quote for 51 employees was way off. They expected something like the self-serve plan."
+9803811,Marie Lange,2026-06-02,Price. Quote was more than they spend on their whole finance stack (56 employees).
+9802636,Julia Hartmann,2026-06-03,"Timing. Reorg in finance, come back in 6 months."
+9804439,Megan Turner,2026-06-04,Stopped responding. Probably budget.
+9803298,Marie Lange,2026-06-05,Needs native SAP S/4HANA integration for PO matching. Not on roadmap. Also mentioned price.
+9804144,Felix Huber,2026-06-05,"Zu klein. 82 MA, GF gibt jede Bestellung selbst frei."
+9804242,Sophie Koch,2026-06-05,"Timing. Reorg in finance, come back in 6 months."
+9803681,Kevin Brooks,2026-06-09,"Chose Approvio, they already use its AP module."
+9804121,Lukas Weber,2026-06-09,"No decision, status quo wins."
+9804427,Oliver Bakker,2026-06-09,"Lost to Spendara on price, they matched every feature they cared about. Also mentioned price."
+9804516,Jonas Braun,2026-06-09,Price. Quote was more than they spend on their whole finance stack (55 employees).
+9804549,Megan Turner,2026-06-09,Price. Quote was more than they spend on their whole finance stack (161 employees).
+9804960,Felix Huber,2026-06-09,"SAP S/4HANA Anbindung fehlt, IT blockt."
+9803413,Megan Turner,2026-06-10,Needs native SAP S/4HANA integration for PO matching. Not on roadmap.
+9804208,Julia Hartmann,2026-06-10,Spendara. Their US team was faster and cheaper.
+9804311,Lukas Weber,2026-06-10,Went with Approvio bundle deal.
+9812897,Eva Jansen,2026-06-10,"Champion (Head of Finance) left the company, new CFO not engaged."
+9804280,Oliver Bakker,2026-06-11,Lost on SAP integration. Everything else was a fit. Price came up too.
+9804703,Lukas Weber,2026-06-11,They're 158 people and the CFO signs every PO himself. Not ready for approval workflows.
+9809933,Tom Richter,2026-06-12,Could not get the CFO in a room. Parked.
+9803778,Michael Carter,2026-06-13,Needs native SAP S/4HANA integration for PO matching. Not on roadmap.
+9804780,Felix Huber,2026-06-13,"Eigentlich Self-Service Kunde, 152 Leute. Preis für das MM Paket viel zu hoch."
+9810469,Tom Richter,2026-06-13,Could not get the CFO in a room. Parked.
+9804671,Felix Huber,2026-06-14,Price. They wanted the self-serve price with sales-led onboarding.
+9804798,Megan Turner,2026-06-15,No response after demo.
+9803722,Julia Hartmann,2026-06-16,"Timing. Reorg in finance, come back in 6 months."
+9804661,Megan Turner,2026-06-17,They're 136 people and the CFO signs every PO himself. Not ready for approval workflows.
+9804611,Sophie Koch,2026-06-20,"Owner-led business, no approval chain to automate. Should have been self-serve. Price came up too."
+9804776,Kevin Brooks,2026-06-20,"Too early for them. 108 employees, no procurement function, Excel works at their size."
+9804501,Kevin Brooks,2026-06-21,"Procurement pushed back on the price, wanted multi-year discount."
+9804789,Lukas Weber,2026-06-21,"too early for them. 163 employees, no procurement function, excel works at their size"
+9804062,Kevin Brooks,2026-06-22,Spendara quoted about 30% under us and threw in onboarding.
+9804947,Kevin Brooks,2026-06-23,Ghosted after pricing call.
+9803771,Marie Lange,2026-06-25,"Internal priorities changed, project shelved."
+9804172,Kevin Brooks,2026-06-26,Price. They wanted the self-serve price with sales-led onboarding.
+9804329,Sophie Koch,2026-06-27,Decided to stay on spreadsheets for now. (price was also a topic)
+9804941,Jonas Braun,2026-06-27,Nach Angebot abgetaucht. 5x nachgefasst.
+9804812,Felix Huber,2026-06-28,"nice team, wrong fit. 86 staff, one bookkeeper, no real pain"
+9804837,Jonas Braun,2026-06-28,Price. They wanted the self-serve price with sales-led onboarding.
+9804877,Oliver Bakker,2026-06-28,"Procurement pushed back on the price, wanted multi-year discount."
+9804301,Kevin Brooks,2026-06-29,Chose Spendara after a cheaper offer. Close call.
+9804895,Felix Huber,2026-06-30,Keine Rückmeldung nach Demo.
+9803846,Julia Hartmann,2026-07-01,Could not get the CFO in a room. Parked. Price came up too.
+9808685,Laura Steiner,2026-07-01,Decided to stay on spreadsheets for now. Price came up too.
+9805054,Oliver Bakker,2026-07-02,"Procurement pushed back on the price, wanted multi-year discount."
+9804801,Marie Lange,2026-07-03,Price. Lost on the last call.
+9805192,Oliver Bakker,2026-07-05,"Timing. Reorg in finance, come back in 6 months."
+9810722,Hannah Fischer,2026-07-06,"No decision, status quo wins. (price was also a topic)"
+9803884,Megan Turner,2026-07-07,"No decision, status quo wins."
+9803824,Felix Huber,2026-07-08,"no decision, status quo wins"
+9805045,Marie Lange,2026-07-08,"Liked the demo, but the quote for 139 employees was way off. They expected something like the self-serve plan."
+9804796,Jonas Braun,2026-07-09,"Chose Approvio, they already use its AP module."
+9805280,Kevin Brooks,2026-07-09,"Rolling out a new ERP first, not before next year."
+9805232,Lukas Weber,2026-07-10,Price. They wanted the self-serve price with sales-led onboarding.
+9805328,Megan Turner,2026-07-10,"Owner-led business, no approval chain to automate. Should have been self-serve."
+9804126,Sophie Koch,2026-07-11,IT vetoed: no certified SAP connector. Product team says H2 at the earliest.
+9804653,Kevin Brooks,2026-07-11,"Rolling out a new ERP first, not before next year."
+9803997,Sophie Koch,2026-07-12,Price. Budget approved at roughly 70% of our quote.
+9804380,Lukas Weber,2026-07-12,lost on sap integration. everything else was a fit
+9804585,Lukas Weber,2026-07-13,price. quote was more than they spend on their whole finance stack (56 employees)
+9804371,Felix Huber,2026-07-14,could not get the cfo in a room. parked
+9804721,Megan Turner,2026-07-14,Could not get the CFO in a room. Parked.
+9810948,Tom Richter,2026-07-16,Spendara. Their US team was faster and cheaper.
+9804441,Kevin Brooks,2026-07-18,"Nice team, wrong fit. 81 staff, one bookkeeper, no real pain. Price came up too."
+9804477,Michael Carter,2026-07-18,Spendara quoted about 30% under us and threw in onboarding.
+9804729,Michael Carter,2026-07-18,Ghosted after pricing call. Price came up too.
+9805412,Kevin Brooks,2026-07-19,Price. Quote was more than they spend on their whole finance stack (94 employees).
+9804349,Kevin Brooks,2026-07-20,"Too expensive for their size, asked twice if there was a smaller package."
+9805312,Julia Hartmann,2026-07-20,Needs native SAP S/4HANA integration for PO matching. Not on roadmap.
+9804492,Sarah Klein,2026-07-21,Chose Spendara after a cheaper offer. Close call.
+9805287,Megan Turner,2026-07-21,Ghosted after pricing call.
+9804273,Marie Lange,2026-07-23,IT vetoed: no certified SAP connector. Product team says H2 at the earliest.
+9811204,Laura Steiner,2026-07-23,Price. Lost on the last call.
+9803950,Megan Turner,2026-07-24,Spendara. Their US team was faster and cheaper.
+9804713,Julia Hartmann,2026-07-24,IT vetoed: no certified SAP connector. Product team says H2 at the earliest.
+9810888,David Zimmermann,2026-07-24,Chose Spendara after a cheaper offer. Close call.
+9805062,Oliver Bakker,2026-07-25,Price. Lost on the last call.
+9804054,Julia Hartmann,2026-07-27,No response after demo.
+9804541,Kevin Brooks,2026-07-27,"Owner-led business, no approval chain to automate. Should have been self-serve."
+9805420,Marie Lange,2026-07-27,Price. Quote was more than they spend on their whole finance stack (158 employees).
+9805248,Jonas Braun,2026-07-29,Keine Rückmeldung nach Demo.
+9804987,Megan Turner,2026-07-30,"Budget frozen for this year, revisit Q2."
+9805159,Oliver Bakker,2026-07-30,Chose Spendara after a cheaper offer. Close call.
+9804933,Sophie Koch,2026-07-31,"Went dark after proposal, 6 follow-ups, no reply."
+9805363,Jonas Braun,2026-08-04,Zu teuer im Vergleich zum Budget.
+9805164,Megan Turner,2026-08-05,"Timing. Reorg in finance, come back in 6 months. Price came up too."
+9805092,Kevin Brooks,2026-08-06,Spendara. Their US team was faster and cheaper.
+9805390,Lukas Weber,2026-08-06,"too early for them. 88 employees, no procurement function, excel works at their size"
+9804862,Lukas Weber,2026-08-07,they're 162 people and the cfo signs every po himself. not ready for approval workflows
+9804993,Lukas Weber,2026-08-07,"Rolling out a new ERP first, not before next year."
+9805084,Oliver Bakker,2026-08-07,Chose Spendara after a cheaper offer. Close call.
+9805198,Sophie Koch,2026-08-07,IT vetoed: no certified SAP connector. Product team says H2 at the earliest.
+9805268,Felix Huber,2026-08-07,"Kein Einkauf, kein Freigabeprozess. Excel reicht ihnen noch."
+9804136,Jonas Braun,2026-08-08,"ERP Umstellung zuerst, frühestens Q2."
+9805008,Oliver Bakker,2026-08-09,Lost on SAP integration. Everything else was a fit.
+9804601,Kevin Brooks,2026-08-10,Spendara quoted about 30% under us and threw in onboarding.
+9803047,Michael Carter,2026-08-11,"Timing. Reorg in finance, come back in 6 months."
+9805430,Kevin Brooks,2026-08-12,"Timing. Reorg in finance, come back in 6 months."
+9805456,Jonas Braun,2026-08-14,"Nice team, wrong fit. 70 staff, one bookkeeper, no real pain."
+9805022,Kevin Brooks,2026-08-16,"Rolling out a new ERP first, not before next year. (price was also a topic)"
+9810538,Hannah Fischer,2026-08-16,Spendara quoted about 30% under us and threw in onboarding.
+9804334,Megan Turner,2026-08-19,They're 141 people and the CFO signs every PO himself. Not ready for approval workflows.
+9803601,Sarah Klein,2026-08-20,Value not clear enough to justify the price increase.
+9805214,Marie Lange,2026-08-20,IT vetoed: no certified SAP connector. Product team says H2 at the earliest. Price came up too.
+9804417,Marie Lange,2026-08-21,Price came up but the real blocker is SAP. Procurement won't run two systems.
+9804904,Megan Turner,2026-08-21,Spendara. Their US team was faster and cheaper.
+9812368,Max Becker,2026-08-22,"Internal priorities changed, project shelved."
+9812398,Grace Hughes,2026-08-22,"Internal priorities changed, project shelved."
+9804510,Sophie Koch,2026-08-25,Lost on SAP integration. Everything else was a fit.
+9804552,Kevin Brooks,2026-08-25,"Lost to Spendara on price, they matched every feature they cared about."
+9810350,David Zimmermann,2026-08-25,Value not clear enough to justify the price increase.
+9805592,Oliver Bakker,2026-08-26,They're 111 people and the CFO signs every PO himself. Not ready for approval workflows. Also mentioned price.
+9805641,Megan Turner,2026-08-26,"Rolling out a new ERP first, not before next year."
+9803161,Julia Hartmann,2026-08-27,"Champion (Head of Finance) left the company, new CFO not engaged."
+9805621,Kevin Brooks,2026-08-27,"Liked the demo, but the quote for 146 employees was way off. They expected something like the self-serve plan."
+9805186,Lukas Weber,2026-08-28,"Liked the demo, but the quote for 189 employees was way off. They expected something like the self-serve plan."
+9805575,Oliver Bakker,2026-08-28,"Too expensive for their size, asked twice if there was a smaller package."
+9805658,Lukas Weber,2026-08-28,They're 69 people and the CFO signs every PO himself. Not ready for approval workflows.
+9805695,Jonas Braun,2026-08-29,"Internal priorities changed, project shelved."
+9805134,Megan Turner,2026-08-31,Spendara quoted about 30% under us and threw in onboarding.
+9805230,Felix Huber,2026-08-31,"ERP Umstellung zuerst, frühestens Q2."
+9804866,Sophie Koch,2026-09-02,Price. Budget approved at roughly 70% of our quote.
+9805577,Felix Huber,2026-09-03,"Champion (Leiterin Finanzen) hat gekündigt, Nachfolger kein Interesse."
+9805408,Jonas Braun,2026-09-04,Went with Approvio bundle deal.
+9812540,Laura Steiner,2026-09-04,"Internal priorities changed, project shelved. (price was also a topic)"
+9807342,Laura Steiner,2026-09-05,"Procurement pushed back on the price, wanted multi-year discount."
+9806826,Max Becker,2026-09-07,"Champion (Head of Finance) left the company, new CFO not engaged."
+9812506,Tom Richter,2026-09-07,"Our sponsor moved on, successor wants to re-evaluate everything."
+9804886,Marie Lange,2026-09-08,"Internal priorities changed, project shelved."
+9805722,Oliver Bakker,2026-09-08,"Budget frozen for this year, revisit Q2."
+9805472,Megan Turner,2026-09-09,"Too expensive for their size, asked twice if there was a smaller package."
+9804462,Oliver Bakker,2026-09-10,Chose Spendara after a cheaper offer. Close call.
+9807965,Laura Steiner,2026-09-10,"Internal priorities changed, project shelved."
+9804471,Kevin Brooks,2026-09-11,"Lost to Spendara on price, they matched every feature they cared about."
+9805689,Kevin Brooks,2026-09-11,"Liked the demo, but the quote for 86 employees was way off. They expected something like the self-serve plan."
+9805795,Felix Huber,2026-09-11,"Eigentlich Self-Service Kunde, 92 Leute. Preis für das MM Paket viel zu hoch."
+9804638,Jonas Braun,2026-09-12,Price. They wanted the self-serve price with sales-led onboarding.
+9806764,Hannah Fischer,2026-09-13,Price. Budget approved at roughly 70% of our quote.
+9805737,Lukas Weber,2026-09-16,"nice team, wrong fit. 82 staff, one bookkeeper, no real pain"
+9805875,Felix Huber,2026-09-17,"too expensive for their size, asked twice if there was a smaller package"
+9803867,Jonas Braun,2026-09-18,"No decision, status quo wins."
+9805354,Oliver Bakker,2026-09-20,Lost on SAP integration. Everything else was a fit.
+9805783,Kevin Brooks,2026-09-20,Price. Quote was more than they spend on their whole finance stack (104 employees).
+9805800,Oliver Bakker,2026-09-22,"Too early for them. 163 employees, no procurement function, Excel works at their size. Price came up too."
+9805317,Kevin Brooks,2026-09-24,"Internal priorities changed, project shelved."
+9805671,Sophie Koch,2026-09-24,"Owner-led business, no approval chain to automate. Should have been self-serve."
+9808495,Grace Hughes,2026-09-24,Price. Lost on the last call.
+9805584,Lukas Weber,2026-09-25,They're 135 people and the CFO signs every PO himself. Not ready for approval workflows.
+9805810,Sophie Koch,2026-09-26,Price. They wanted the self-serve price with sales-led onboarding.
+9804842,Marie Lange,2026-09-28,Went with Approvio bundle deal. Also mentioned price.
+9807812,Max Becker,2026-09-30,"Champion (Head of Finance) left the company, new CFO not engaged. Also mentioned price."
+9806980,Eva Jansen,2026-10-01,"Internal priorities changed, project shelved."
+9812644,Tom Richter,2026-10-01,Spendara. Their US team was faster and cheaper.
+9811237,Eva Jansen,2026-10-04,"Internal priorities changed, project shelved. (price was also a topic)"
+9805017,Jonas Braun,2026-10-05,"Keine Entscheidung, Projekt verschoben."
+9806057,Oliver Bakker,2026-10-05,"Our sponsor moved on, successor wants to re-evaluate everything."
+9806136,Felix Huber,2026-10-05,"Budget frozen for this year, revisit Q2."
+9812089,Max Becker,2026-10-09,Spendara. Their US team was faster and cheaper.
+9805678,Megan Turner,2026-10-10,"Internal priorities changed, project shelved."
+9805959,Sophie Koch,2026-10-10,"Timing. Reorg in finance, come back in 6 months."
+9803463,Julia Hartmann,2026-10-11,"Went dark after proposal, 6 follow-ups, no reply."
+9805753,Oliver Bakker,2026-10-12,Price. Quote was more than they spend on their whole finance stack (197 employees).
+9806143,Oliver Bakker,2026-10-12,"Our sponsor moved on, successor wants to re-evaluate everything."
+9805564,Marie Lange,2026-10-14,"Internal priorities changed, project shelved. Price came up too."
+9805760,Megan Turner,2026-10-14,"Too early for them. 197 employees, no procurement function, Excel works at their size."
+9806108,Megan Turner,2026-10-14,"Too early for them. 52 employees, no procurement function, Excel works at their size."
+9805729,Megan Turner,2026-10-15,Stopped responding. Probably budget.
+9805797,Lukas Weber,2026-10-15,they're 119 people and the cfo signs every po himself. not ready for approval workflows
+9806212,Oliver Bakker,2026-10-15,"Nice team, wrong fit. 92 staff, one bookkeeper, no real pain. (price was also a topic)"
+9810456,Max Becker,2026-10-15,"Procurement pushed back on the price, wanted multi-year discount."
+9806220,Kevin Brooks,2026-10-18,Price. Quote was more than they spend on their whole finance stack (71 employees).
+9805372,Felix Huber,2026-10-21,"budget frozen for this year, revisit q2"
+9805763,Jonas Braun,2026-10-21,They're 85 people and the CFO signs every PO himself. Not ready for approval workflows. Also mentioned price.
+9806217,Jonas Braun,2026-10-24,"Too expensive for their size, asked twice if there was a smaller package."
+9807647,Hannah Fischer,2026-10-24,Price. Budget approved at roughly 70% of our quote.
+9806247,Kevin Brooks,2026-10-27,They're 151 people and the CFO signs every PO himself. Not ready for approval workflows.

@@ -1,0 +1,1156 @@
+stripe_customer_id,customer_name,email_domain,plan,mrr,currency,start_date,status,canceled_at,cancel_reason
+cus_8593434943,Penninemobility GmbH & Co. KG,penninemobility.de,Starter Monthly,149,EUR,2024-01-01,canceled,2024-03-01,Switched to Approvio
+cus_1050212308,Cobaltfoods Inc.,cobaltfoods.com,Starter Monthly,161,USD,2024-01-03,canceled,2026-09-19,Too expensive after the price change
+cus_3236523054,Zuidfin AG,zuidfin.de,Growth Monthly,449,EUR,2024-01-03,active,,
+cus_5997690627,Keystonelog GmbH & Co. KG,keystonelog.de,Starter Monthly,149,EUR,2024-01-04,active,,
+cus_1945743539,Tidalbase Corp.,tidalbase.com,Starter Annual,139,USD,2024-01-04,canceled,2024-01-04,Not using it enough
+cus_4613045109,Moselworks,moselworks.com,Growth Monthly,485,USD,2024-01-05,canceled,2024-11-30,Budget cuts
+cus_6908661251,Helixmotion,,Growth Monthly,449,EUR,2024-01-06,active,,
+cus_2450794236,Penninemed,penninemed.co.uk,Starter Annual,111,GBP,2024-01-06,active,,
+cus_7718648845,Maplepartners B.V.,,Growth Annual,399,EUR,2024-01-06,active,,
+cus_5879856633,Lindendata,,Growth Annual,431,USD,2024-01-08,canceled,2024-04-07,
+cus_8860896928,Waldware N.V.,waldware.nl,Starter Monthly,149,EUR,2024-01-08,canceled,2024-09-04,Too expensive after the price change
+cus_2184821448,Orbitstack SE,orbitstack.de,Starter Monthly,149,EUR,2024-01-08,canceled,2024-02-07,
+cus_6208049321,Lagofield,lagofield.de,Starter Monthly,149,EUR,2024-01-10,active,,
+cus_2745778076,Harborpartners SE,harborpartners.de,Starter Monthly,149,EUR,2024-01-10,active,,
+cus_8880308367,Isarbau AG,isarbau.de,Starter Annual,129,EUR,2024-01-13,canceled,2024-11-08,Switched to Approvio
+cus_2131254981,Tidalogate GmbH & Co. KG,tidalogate.de,Growth Annual,399,EUR,2024-01-14,active,,
+cus_4359435124,Neckarbase,neckarbase.com,Starter Monthly,161,USD,2024-01-16,canceled,2026-02-04,Zu teuer geworden
+cus_2338067697,Pinehealth AG,pinehealth.ch,Growth Monthly,449,EUR,2024-01-17,past_due,,
+cus_4527915545,Harborfin,harborfin.co.uk,Growth Annual,1029,GBP,2024-01-17,canceled,2026-08-04,Zu teuer geworden
+cus_8677690455,Bergdata SE,bergdata.de,Growth Monthly,449,EUR,2024-01-17,active,,
+cus_1177387396,Oakicraft,oakicraft.ch,Growth Monthly,898,EUR,2024-01-17,past_due,,
+cus_9275568490,Polderline AG,polderline.at,Starter Monthly,149,EUR,2024-01-22,canceled,2025-01-16,Not using it enough
+cus_3417363482,Blauerstack B.V.,blauerstack.nl,Starter Annual,129,EUR,2024-01-22,active,,
+cus_3529722842,Havenotrade LLC,havenotrade.com,Growth Monthly,485,USD,2024-01-23,active,,
+cus_7795167042,Cobaltenergy GmbH,cobaltenergy.de,Starter Annual,129,EUR,2024-01-23,canceled,2025-12-13,
+cus_3492240597,Berghealth GmbH,berghealth.de,Growth Annual,399,EUR,2024-01-23,active,,
+cus_5715469205,Havenmed SA,havenmed.ch,Starter Monthly,149,EUR,2024-01-23,canceled,2024-03-23,
+cus_1441791257,Nimbushub B.V.,nimbushub.nl,Starter Annual,129,EUR,2024-01-23,active,,
+cus_5500555555,Sterlingdata GmbH,sterlingdata.de,Starter Monthly,149,EUR,2024-01-24,active,,
+cus_7857591403,Isarisystems GmbH & Co. KG,isarisystems.de,Starter Annual,129,EUR,2024-01-25,active,,
+cus_4885404415,Avonmetall Inc.,avonmetall.com,Starter Monthly,161,USD,2024-01-26,past_due,,
+cus_5919223833,Bergenmotion AG,,Growth Monthly,449,EUR,2024-01-26,past_due,,
+cus_6502682436,Copperbau Ltd,,Starter Monthly,128,GBP,2024-01-28,active,,
+cus_2796154159,Sterlingfield GmbH,sterlingfield.de,Growth Annual,399,EUR,2024-01-28,past_due,,
+cus_1082908918,Nordoware Ltd,nordoware.co.uk,Starter Monthly,128,GBP,2024-02-01,canceled,2024-02-01,Switched to Approvio
+cus_7721530987,Oakaretail AG,oakaretail.de,Growth Annual,1197,EUR,2024-02-03,canceled,2024-04-03,Switched to Approvio
+cus_9468264605,Merseylog GmbH & Co. KG,merseylog.de,Growth Monthly,898,EUR,2024-02-03,canceled,2024-09-30,Zu teuer geworden
+cus_2765555823,Bodenseeerconsult Corp.,,Growth Annual,431,USD,2024-02-03,canceled,2024-04-03,
+cus_6059246507,Helixlog GmbH,helixlog.de,Growth Monthly,449,EUR,2024-02-04,active,,
+cus_1491252492,Rheinencloud,rheinencloud.co.uk,Growth Annual,343,GBP,2024-02-04,active,,
+cus_6092086810,Pennineware LLC,pennineware.com,Growth Monthly,485,USD,2024-02-04,active,,
+cus_7184081579,Mainfoods,mainfoods.de,Starter Monthly,149,EUR,2024-02-05,active,,
+cus_6517550019,Tidalfoods,tidalfoods.de,Growth Monthly,449,EUR,2024-02-05,active,,
+cus_5788555371,Elbatrade SE,elbatrade.de,Growth Monthly,449,EUR,2024-02-05,canceled,2026-07-24,Switched to Approvio
+cus_8763867233,Kraftotech GmbH,kraftotech.de,Starter Annual,129,EUR,2024-02-05,canceled,2026-02-24,
+cus_7235018433,Deltapartners,deltapartners.nl,Growth Annual,399,EUR,2024-02-06,canceled,2026-02-25,Zu teuer geworden
+cus_5503290134,Penninemed,penninemed.co.uk,Growth Monthly,386,GBP,2024-02-07,canceled,2025-06-01,Switched to Approvio
+cus_4509880905,Spreemobility,spreemobility.ch,Growth Monthly,449,EUR,2024-02-08,active,,
+cus_8852461027,Kessellogic GmbH,kessellogic.de,Growth Monthly,449,EUR,2024-02-08,canceled,2025-11-29,Budget cuts
+cus_1619102426,Sterlingilog GmbH,sterlingilog.de,Starter Monthly,149,EUR,2024-02-10,active,,
+cus_7803851035,Bodenseemetall GmbH,bodenseemetall.de,Growth Annual,399,EUR,2024-02-12,canceled,2025-02-06,Not using it enough
+cus_1408250458,Thamesform Ltd,thamesform.co.uk,Starter Annual,111,GBP,2024-02-13,active,,
+cus_5300556525,Sterlingplast GmbH,sterlingplast.de,Growth Annual,399,EUR,2024-02-13,canceled,2025-09-05,Zu teuer geworden
+cus_7916377643,Graniteaworks,graniteaworks.de,Growth Monthly,449,EUR,2024-02-14,canceled,2025-05-09,Switched to Approvio
+cus_2551897569,Lumentech GmbH,lumentech.de,Starter Monthly,149,EUR,2024-02-16,active,,
+cus_5507445970,Bodenseefin Inc.,bodenseefin.com,Growth Monthly,970,USD,2024-02-17,canceled,2026-07-06,Not using it enough
+cus_9854728270,Ostfield,ostfield.ch,Growth Monthly,449,EUR,2024-02-19,canceled,2025-03-15,
+cus_9766195790,Junipercraft,junipercraft.at,Growth Annual,798,EUR,2024-02-19,active,,
+cus_7995703999,Unionlog,,Starter Annual,129,EUR,2024-02-21,canceled,2026-03-12,Renewal price too high
+cus_9573888212,Summitware GmbH,summitware.at,Growth Monthly,1347,EUR,2024-02-23,active,,
+cus_4872779039,Deltaenprint AG,deltaenprint.de,Starter Annual,129,EUR,2024-02-24,active,,
+cus_6948846404,Hafenosoft,hafenosoft.ch,Growth Monthly,1347,EUR,2024-02-24,canceled,2025-11-15,Switched to Approvio
+cus_8251565665,Willowcloud,willowcloud.nl,Growth Annual,399,EUR,2024-02-25,canceled,2025-06-19,Zu teuer geworden
+cus_3935458288,Prismalog LLC,prismalog.com,Starter Annual,139,USD,2024-02-27,canceled,2024-04-27,Switched to Approvio
+cus_9076838336,Irontech,irontech.at,Growth Annual,399,EUR,2024-03-01,canceled,2024-10-27,Switched to Approvio
+cus_7141646551,Maingate AG,maingate.de,Growth Annual,1197,EUR,2024-03-01,canceled,2025-03-26,Company closed
+cus_7798613279,Moseltec SE,moseltec.de,Starter Annual,129,EUR,2024-03-02,active,,
+cus_3631017291,Eicharetail Inc.,eicharetail.com,Growth Monthly,970,USD,2024-03-02,active,,
+cus_5568109701,Hafenhealth Corp.,hafenhealth.com,Starter Annual,139,USD,2024-03-02,active,,
+cus_3847866832,Saxonenplast Corp.,saxonenplast.com,Growth Monthly,485,USD,2024-03-02,active,,
+cus_4200173529,Deltaconsult SE,deltaconsult.de,Growth Annual,399,EUR,2024-03-03,active,,
+cus_6261621508,Steinmotion,steinmotion.com,Starter Annual,139,USD,2024-03-03,active,,
+cus_7436006205,Oakmed,oakmed.de,Growth Monthly,449,EUR,2024-03-04,active,,
+cus_2318963856,Orbitplast Corp.,,Growth Annual,431,USD,2024-03-05,active,,
+cus_4745241661,Bodenseeerconsult Corp.,bodenseeerconsult.com,Growth Monthly,485,USD,2024-03-05,active,,
+cus_1698429219,Zuidmobility,zuidmobility.de,Growth Monthly,449,EUR,2024-03-06,canceled,2025-12-26,Company closed
+cus_4548913216,Havenbau SA,,Growth Monthly,449,EUR,2024-03-06,canceled,2025-11-26,Zu teuer geworden
+cus_4870316488,Saxonenergy B.V.,saxonenergy.nl,Growth Monthly,449,EUR,2024-03-06,active,,
+cus_9875015925,Nimbusiconsult GmbH,,Starter Annual,129,EUR,2024-03-07,canceled,2026-04-26,Not using it enough
+cus_5274395758,Zuidfoods AG,zuidfoods.de,Growth Annual,1197,EUR,2024-03-09,active,,
+cus_5898107059,Eichcraft Inc.,,Growth Monthly,485,USD,2024-03-09,active,,
+cus_7995665234,Juniperlogic,juniperlogic.ch,Starter Monthly,149,EUR,2024-03-12,canceled,2026-04-01,
+cus_9979363617,Prismacloud AG,prismacloud.de,Growth Monthly,1347,EUR,2024-03-12,canceled,2025-10-03,Zu teuer geworden
+cus_2520574334,Havenstack,havenstack.co.uk,Starter Annual,111,GBP,2024-03-13,active,,
+cus_4455684111,Merseyhub Group plc,merseyhub.co.uk,Starter Annual,111,GBP,2024-03-14,canceled,2025-04-08,Moved to our ERP's built-in approvals
+cus_5411550436,Zuidware AG,,Growth Annual,399,EUR,2024-03-16,active,,
+cus_3364118859,Graudata LLC,graudata.com,Growth Monthly,485,USD,2024-03-17,active,,
+cus_4785028271,Isarplast Ltd,isarplast.co.uk,Growth Annual,686,GBP,2024-03-20,active,,
+cus_8355784424,Prismaline GmbH,prismaline.de,Growth Monthly,449,EUR,2024-03-21,active,,
+cus_7220571387,Tannpartners GmbH,tannpartners.at,Starter Monthly,149,EUR,2024-03-22,active,,
+cus_7102988456,Avonabau Ltd,avonabau.co.uk,Starter Annual,111,GBP,2024-03-23,active,,
+cus_7406248561,Oaklogic,oaklogic.de,Starter Monthly,149,EUR,2024-03-24,canceled,2026-04-13,
+cus_1459165984,Dijkworks SA,dijkworks.ch,Starter Annual,129,EUR,2024-03-25,canceled,2025-05-19,Budget cuts
+cus_9112473792,Unionametall AG,unionametall.de,Growth Annual,399,EUR,2024-03-27,canceled,2024-03-27,
+cus_4772392726,Rheinologic GmbH,rheinologic.de,Starter Annual,129,EUR,2024-03-27,active,,
+cus_7603483480,Waldmed,waldmed.com,Growth Monthly,485,USD,2024-03-28,active,,
+cus_5789872904,Graulogic,graulogic.at,Growth Annual,399,EUR,2024-03-28,canceled,2026-04-17,Zu teuer geworden
+cus_7435586213,Polderline AG,polderline.at,Starter Monthly,149,EUR,2024-04-01,active,,
+cus_6012872811,Unioniprint,,Growth Monthly,1347,EUR,2024-04-04,active,,
+cus_5322247156,Merseytec,merseytec.nl,Growth Annual,399,EUR,2024-04-05,canceled,2025-01-30,Budget cuts
+cus_3631166751,Uniontech GmbH,,Growth Annual,399,EUR,2024-04-05,active,,
+cus_6238698300,Sterlingersystems GmbH & Co. KG,,Starter Monthly,149,EUR,2024-04-05,canceled,2024-09-02,Switched to Approvio
+cus_1344185631,Thamesgate,thamesgate.com,Starter Monthly,161,USD,2024-04-06,active,,
+cus_9210898405,Deltastack,deltastack.com,Starter Monthly,161,USD,2024-04-07,active,,
+cus_9111750841,Waldimotion GmbH & Co. KG,waldimotion.de,Growth Monthly,449,EUR,2024-04-07,active,,
+cus_4684667789,Eichifoods AG,eichifoods.ch,Growth Annual,1197,EUR,2024-04-08,active,,
+cus_9819956941,Ardentcraft GmbH,,Growth Annual,399,EUR,2024-04-10,active,,
+cus_6744766698,Avonlog Ltd,avonlog.co.uk,Starter Annual,111,GBP,2024-04-11,canceled,2024-10-08,
+cus_5291438088,Havenprint Ltd,havenprint.co.uk,Starter Monthly,128,GBP,2024-04-11,canceled,2024-07-10,Budget cuts
+cus_7481123523,Waldcraft AG,waldcraft.de,Starter Monthly,149,EUR,2024-04-11,canceled,2025-07-05,
+cus_8391870400,Sterlingfoods GmbH & Co. KG,sterlingfoods.de,Growth Annual,399,EUR,2024-04-12,active,,
+cus_5995307997,Unionretail,unionretail.de,Starter Monthly,149,EUR,2024-04-12,canceled,2024-11-08,
+cus_6365945878,Neckarmobility,neckarmobility.de,Starter Monthly,149,EUR,2024-04-14,active,,
+cus_9652073047,Eichmed Ltd,,Starter Annual,111,GBP,2024-04-15,canceled,2025-07-09,Company closed
+cus_2946267897,Tanngate GmbH & Co. KG,tanngate.de,Starter Annual,129,EUR,2024-04-16,active,,
+cus_2332055829,Havencloud SE,havencloud.de,Growth Annual,399,EUR,2024-04-16,active,,
+cus_7964879806,Falkstack Ltd,falkstack.co.uk,Growth Annual,343,GBP,2024-04-16,past_due,,
+cus_8016813857,Cobaltdata B.V.,cobaltdata.nl,Growth Monthly,1347,EUR,2024-04-18,active,,
+cus_1409235953,Oaktrade AG,,Starter Monthly,149,EUR,2024-04-18,active,,
+cus_9996341040,Amstelpartners LLC,,Starter Monthly,161,USD,2024-04-20,active,,
+cus_2358622209,Thamesfoods SE,thamesfoods.de,Growth Monthly,449,EUR,2024-04-20,active,,
+cus_3658253947,Lumentech,,Starter Annual,129,EUR,2024-04-20,active,,
+cus_3814313970,Hafensystems B.V.,hafensystems.nl,Growth Monthly,898,EUR,2024-04-21,canceled,2024-04-21,Too expensive after the price change
+cus_6691894590,Lumentrade B.V.,lumentrade.nl,Growth Annual,399,EUR,2024-04-23,canceled,2024-05-23,
+cus_2148066101,Isarware GmbH,isarware.ch,Growth Annual,399,EUR,2024-04-23,active,,
+cus_7450970587,Lindencraft AG,lindencraft.ch,Starter Monthly,149,EUR,2024-04-23,active,,
+cus_6063219833,Blauerfoods GmbH,,Growth Monthly,449,EUR,2024-04-24,canceled,2025-05-19,Budget cuts
+cus_9851008959,Ruhritec AG,ruhritec.ch,Starter Annual,129,EUR,2024-04-24,canceled,2024-09-21,Moved to our ERP's built-in approvals
+cus_6850292816,Tannprint,,Growth Annual,798,EUR,2024-04-24,active,,
+cus_7191155793,Merseyprint GmbH,merseyprint.de,Growth Annual,399,EUR,2024-04-26,canceled,2025-12-17,Too expensive after the price change
+cus_2515331973,Moselmetall Corp.,,Growth Annual,862,USD,2024-04-27,canceled,2025-09-19,Too expensive after the price change
+cus_4351552481,Saxonstack,saxonstack.de,Starter Annual,129,EUR,2024-04-27,active,,
+cus_9583533879,Willowgate,willowgate.de,Starter Monthly,149,EUR,2024-04-28,active,,
+cus_1126499588,Pioneercraft,pioneercraft.de,Growth Annual,399,EUR,2024-05-02,active,,
+cus_5275511202,Deltahealth LLC,deltahealth.com,Growth Monthly,485,USD,2024-05-02,active,,
+cus_6507436417,Falkaretail GmbH,falkaretail.de,Starter Monthly,149,EUR,2024-05-02,active,,
+cus_2267994652,Ruhrenergy,ruhrenergy.co.uk,Growth Monthly,386,GBP,2024-05-02,active,,
+cus_9324150857,Fjordenlog,fjordenlog.com,Growth Monthly,485,USD,2024-05-04,active,,
+cus_4950491642,Orbithealth GmbH,,Growth Annual,399,EUR,2024-05-04,canceled,2026-08-22,Company closed
+cus_2813657248,Tidalbase Corp.,tidalbase.com,Growth Monthly,485,USD,2024-05-08,active,,
+cus_8594522345,Sterlingware LLC,sterlingware.com,Growth Annual,431,USD,2024-05-08,active,,
+cus_7924711099,Hafenofoods GmbH & Co. KG,hafenofoods.de,Growth Annual,1197,EUR,2024-05-09,active,,
+cus_7094334848,Fjordmetall GmbH & Co. KG,fjordmetall.de,Starter Monthly,149,EUR,2024-05-09,active,,
+cus_4698573645,Cobaltplast,cobaltplast.at,Growth Annual,399,EUR,2024-05-09,canceled,2026-04-29,
+cus_7371701808,Isaramed Ltd,isaramed.co.uk,Growth Monthly,386,GBP,2024-05-10,canceled,2025-04-05,
+cus_7810793788,Quarrycraft Inc.,quarrycraft.com,Starter Monthly,161,USD,2024-05-12,active,,
+cus_7167199785,Havenosystems Ltd,havenosystems.co.uk,Starter Annual,111,GBP,2024-05-13,canceled,2025-03-09,Switched to Approvio
+cus_4155243533,Tidalofield Inc.,,Growth Monthly,1455,USD,2024-05-14,canceled,2026-10-01,Too expensive after the price change
+cus_1481074061,Pioneerfield Ltd,pioneerfield.co.uk,Growth Annual,343,GBP,2024-05-14,canceled,2026-06-03,Zu teuer geworden
+cus_6472712301,Zuidtrade,zuidtrade.co.uk,Growth Annual,343,GBP,2024-05-14,active,,
+cus_4041856129,Vistaenstack,vistaenstack.de,Growth Annual,399,EUR,2024-05-15,canceled,2025-03-11,Too expensive after the price change
+cus_6987817577,Ridgeenergy Ltd,ridgeenergy.co.uk,Growth Monthly,1158,GBP,2024-05-15,active,,
+cus_3388200081,Falkfin Inc.,falkfin.com,Growth Monthly,970,USD,2024-05-16,active,,
+cus_2211633825,Havenbau SA,havenbau.ch,Growth Monthly,449,EUR,2024-05-16,canceled,2025-04-11,Company closed
+cus_6938492018,Summiterconsult GmbH & Co. KG,summiterconsult.de,Growth Monthly,449,EUR,2024-05-17,active,,
+cus_6663390095,Zuidtrade Group plc,,Growth Monthly,386,GBP,2024-05-17,active,,
+cus_6313347292,Neckaramobility AG,,Growth Monthly,449,EUR,2024-05-17,active,,
+cus_2022430368,Neckarlog,neckarlog.de,Starter Annual,129,EUR,2024-05-19,active,,
+cus_4045838125,Lumenbase Group plc,lumenbase.co.uk,Starter Monthly,128,GBP,2024-05-20,active,,
+cus_1257343486,Rheinotrade,rheinotrade.at,Starter Monthly,149,EUR,2024-05-20,active,,
+cus_3388581150,Lichtiworks GmbH & Co. KG,lichtiworks.de,Growth Monthly,449,EUR,2024-05-20,active,,
+cus_3128631760,Isarenergy Inc.,isarenergy.com,Growth Annual,1293,USD,2024-05-20,active,,
+cus_3394242120,Tannconsult,tannconsult.de,Starter Annual,129,EUR,2024-05-21,active,,
+cus_3612075005,Bergenline Ltd,bergenline.co.uk,Starter Annual,111,GBP,2024-05-21,active,,
+cus_1190562277,Graniteenergy GmbH & Co. KG,,Starter Monthly,149,EUR,2024-05-22,canceled,2026-04-12,Moved to our ERP's built-in approvals
+cus_2940315312,Oakmed AG,oakmed.de,Growth Monthly,449,EUR,2024-05-23,active,,
+cus_6422828081,Vekterenergy Inc.,vekterenergy.com,Growth Annual,431,USD,2024-05-23,active,,
+cus_9718968699,Alpenbau AG,alpenbau.de,Starter Monthly,149,EUR,2024-05-24,active,,
+cus_1360206788,Elblogic AG,elblogic.de,Growth Monthly,449,EUR,2024-05-24,active,,
+cus_1863476637,Deltaisystems,deltaisystems.de,Growth Monthly,449,EUR,2024-05-24,canceled,2026-03-15,Too expensive after the price change
+cus_2681488428,Moselcraft SE,moselcraft.de,Growth Annual,399,EUR,2024-05-26,canceled,2024-08-24,Budget cuts
+cus_1819717607,Thamesomed GmbH & Co. KG,thamesomed.de,Starter Annual,129,EUR,2024-05-27,canceled,2025-05-22,Too expensive after the price change
+cus_7676986888,Pioneerstack Ltd,pioneerstack.co.uk,Growth Annual,343,GBP,2024-05-28,canceled,2026-05-18,Switched to Approvio
+cus_9636444109,Nordstack,nordstack.nl,Growth Monthly,449,EUR,2024-05-28,active,,
+cus_2081624098,Ostconsult GmbH,ostconsult.de,Starter Annual,129,EUR,2024-05-28,active,,
+cus_4291667795,Unionerfield GmbH,unionerfield.de,Starter Annual,129,EUR,2024-06-01,active,,
+cus_5987861630,Thamespartners Ltd,thamespartners.co.uk,Growth Annual,343,GBP,2024-06-01,canceled,2026-06-21,Too expensive after the price change
+cus_6240732876,Penninepoint Corp.,,Starter Annual,139,USD,2024-06-01,canceled,2026-09-19,Switched to Approvio
+cus_5956841048,Tannmed SE,tannmed.de,Growth Monthly,898,EUR,2024-06-04,canceled,2024-09-02,Switched to Approvio
+cus_2718606023,Spreetrade Ltd,spreetrade.co.uk,Starter Annual,111,GBP,2024-06-05,canceled,2026-06-25,
+cus_4144030705,Orbitmed,orbitmed.com,Growth Annual,431,USD,2024-06-05,canceled,2025-05-01,Budget cuts
+cus_4162198217,Merseyenlog Group plc,merseyenlog.co.uk,Growth Monthly,386,GBP,2024-06-06,active,,
+cus_4297520585,Willowtech N.V.,willowtech.nl,Growth Annual,1197,EUR,2024-06-06,active,,
+cus_1129298715,Pineenenergy GmbH,pineenenergy.de,Growth Annual,399,EUR,2024-06-06,canceled,2026-06-26,Zu teuer geworden
+cus_2870662436,Lagofield GmbH & Co. KG,lagofield.de,Starter Annual,129,EUR,2024-06-06,active,,
+cus_2383508970,Willowdata N.V.,,Growth Monthly,449,EUR,2024-06-06,canceled,2026-01-27,Company closed
+cus_3749735995,Brightform GmbH,brightform.de,Growth Monthly,449,EUR,2024-06-08,active,,
+cus_2697115128,Sonncraft GmbH,sonncraft.de,Starter Monthly,149,EUR,2024-06-09,active,,
+cus_4741500874,Orbitamotion Ltd,orbitamotion.co.uk,Growth Annual,343,GBP,2024-06-09,canceled,2026-06-29,Zu teuer geworden
+cus_6771576738,Hafenosoft SA,,Growth Annual,798,EUR,2024-06-09,active,,
+cus_8566773276,Helixiconsult,helixiconsult.com,Growth Monthly,485,USD,2024-06-10,canceled,2024-09-08,Switched to Approvio
+cus_8057158098,Bergsystems GmbH & Co. KG,bergsystems.de,Starter Annual,129,EUR,2024-06-10,canceled,2025-02-05,Company closed
+cus_3424964255,Thamesohub,thamesohub.de,Starter Monthly,149,EUR,2024-06-10,canceled,2025-05-06,Budget cuts
+cus_4270425561,Ruhrretail SE,ruhrretail.de,Starter Monthly,149,EUR,2024-06-11,canceled,2026-06-01,Not using it enough
+cus_1635617362,Penninecraft,,Starter Annual,129,EUR,2024-06-12,active,,
+cus_3458503600,Ruhrhub GmbH,ruhrhub.de,Growth Annual,399,EUR,2024-06-12,canceled,2026-10-30,Budget cuts
+cus_8985298458,Lindendata Inc.,lindendata.com,Growth Monthly,485,USD,2024-06-13,canceled,2025-10-06,Switched to Approvio
+cus_6863790317,Pioneerware,pioneerware.de,Growth Annual,399,EUR,2024-06-14,active,,
+cus_6597555739,Poldersystems,poldersystems.de,Growth Monthly,898,EUR,2024-06-15,active,,
+cus_3743074150,Amstellogic Group plc,,Growth Annual,1029,GBP,2024-06-15,canceled,2024-10-13,Moved to our ERP's built-in approvals
+cus_9023173985,Summitbase GmbH & Co. KG,,Starter Annual,129,EUR,2024-06-15,active,,
+cus_4435811337,Merseylog GmbH & Co. KG,merseylog.de,Growth Monthly,1347,EUR,2024-06-16,active,,
+cus_4265343871,Vektasystems LLC,,Growth Annual,431,USD,2024-06-17,canceled,2026-02-07,Company closed
+cus_4054233736,Prismaline GmbH,,Starter Monthly,149,EUR,2024-06-17,past_due,,
+cus_4853826378,Neckartec GmbH,,Growth Annual,399,EUR,2024-06-18,active,,
+cus_5337415699,Lindenpartners,,Growth Annual,399,EUR,2024-06-18,active,,
+cus_9813153929,Saxoncraft GmbH & Co. KG,saxoncraft.de,Growth Annual,399,EUR,2024-06-21,past_due,,
+cus_4850059652,Pioneerdata GmbH,pioneerdata.de,Growth Annual,399,EUR,2024-06-21,active,,
+cus_5595948403,Polderbau GmbH,,Starter Monthly,149,EUR,2024-06-22,active,,
+cus_3270507912,Brighthealth Corp.,brighthealth.com,Starter Annual,139,USD,2024-06-23,canceled,2026-06-13,
+cus_4242079554,Copperenmotion,copperenmotion.de,Growth Monthly,449,EUR,2024-06-24,active,,
+cus_6715667938,Summitlog,summitlog.ch,Starter Annual,129,EUR,2024-06-25,active,,
+cus_8707691118,Eichform GmbH,,Growth Monthly,449,EUR,2024-06-25,active,,
+cus_2296166824,Helixmed,,Growth Monthly,1158,GBP,2024-06-25,active,,
+cus_3486242994,Uniontec Corp.,uniontec.com,Starter Annual,139,USD,2024-06-26,canceled,2026-09-14,Switched to Approvio
+cus_5612504995,Ardentgate Group plc,ardentgate.co.uk,Growth Monthly,386,GBP,2024-06-27,canceled,2025-10-20,Zu teuer geworden
+cus_1062680870,Pioneerenergy GmbH & Co. KG,pioneerenergy.de,Starter Annual,129,EUR,2024-06-28,active,,
+cus_3001848803,Unionbau LLC,unionbau.com,Growth Monthly,485,USD,2024-07-02,active,,
+cus_3178134068,Tanngate,tanngate.de,Starter Annual,129,EUR,2024-07-03,active,,
+cus_9140365138,Pineenenergy GmbH,,Growth Monthly,449,EUR,2024-07-05,active,,
+cus_8773312055,Moselretail GmbH,moselretail.de,Growth Monthly,1347,EUR,2024-07-05,active,,
+cus_7407353117,Steinworks SE,,Growth Annual,1197,EUR,2024-07-05,active,,
+cus_8120225930,Dijkomotion GmbH,dijkomotion.de,Starter Annual,129,EUR,2024-07-07,active,,
+cus_7464504466,Willowenbau SA,willowenbau.ch,Growth Monthly,449,EUR,2024-07-09,canceled,2025-09-02,
+cus_8113941473,Juniperline,juniperline.de,Starter Annual,129,EUR,2024-07-09,active,,
+cus_7450985953,Moselohealth AG,,Starter Annual,129,EUR,2024-07-11,canceled,2025-09-04,Not using it enough
+cus_1714632539,Moselenform AG,moselenform.ch,Growth Monthly,898,EUR,2024-07-14,active,,
+cus_5772299557,Sterlingotech Inc.,sterlingotech.com,Growth Annual,431,USD,2024-07-14,active,,
+cus_7359700077,Lichtatrade Group plc,lichtatrade.co.uk,Starter Monthly,128,GBP,2024-07-14,active,,
+cus_2780099466,Poldermotion Ltd,,Growth Annual,343,GBP,2024-07-16,canceled,2026-08-05,Moved to our ERP's built-in approvals
+cus_3544417015,Tannmobility AG,tannmobility.de,Growth Annual,399,EUR,2024-07-16,canceled,2024-07-16,
+cus_3217547984,Neckarmobility,neckarmobility.de,Starter Annual,129,EUR,2024-07-17,canceled,2026-10-05,Budget cuts
+cus_6846264809,Granitebau Inc.,granitebau.com,Growth Monthly,485,USD,2024-07-18,active,,
+cus_8919426889,Amstelsoft,amstelsoft.com,Starter Monthly,161,USD,2024-07-18,past_due,,
+cus_6035234253,Avoniware SA,avoniware.ch,Starter Monthly,149,EUR,2024-07-18,past_due,,
+cus_9688442101,Neckartrade,neckartrade.de,Growth Monthly,449,EUR,2024-07-19,active,,
+cus_7157535932,Spreedata,spreedata.de,Growth Annual,399,EUR,2024-07-19,active,,
+cus_9602090575,Spreeenbau,spreeenbau.de,Growth Annual,798,EUR,2024-07-19,active,,
+cus_5198491130,Thamesbau B.V.,thamesbau.nl,Starter Monthly,149,EUR,2024-07-20,canceled,2024-08-19,Budget cuts
+cus_1951425106,Steinprint N.V.,steinprint.nl,Growth Annual,1197,EUR,2024-07-20,canceled,2024-08-19,
+cus_5500845663,Graupoint,graupoint.de,Starter Monthly,149,EUR,2024-07-21,active,,
+cus_4180518751,Isarplast Ltd,isarplast.co.uk,Growth Annual,343,GBP,2024-07-21,canceled,2025-04-17,Not using it enough
+cus_1337966068,Eichsoft GmbH & Co. KG,eichsoft.de,Starter Monthly,149,EUR,2024-07-22,active,,
+cus_1712054172,Juniperertech LLC,juniperertech.com,Growth Monthly,485,USD,2024-07-22,canceled,2025-11-14,Not using it enough
+cus_9203825722,Isarerform,,Starter Monthly,149,EUR,2024-07-23,canceled,2026-10-11,Too expensive after the price change
+cus_4535037321,Unionline GmbH & Co. KG,unionline.de,Growth Annual,798,EUR,2024-08-02,canceled,2024-10-31,Zu teuer geworden
+cus_3019484640,Thamessoft Corp.,thamessoft.com,Starter Annual,139,USD,2024-08-03,canceled,2025-03-01,Budget cuts
+cus_7974273041,Lindencraft AG,lindencraft.ch,Growth Monthly,449,EUR,2024-08-03,active,,
+cus_1018888238,Ruhrdata Corp.,ruhrdata.com,Starter Annual,139,USD,2024-08-03,canceled,2025-03-31,Switched to Approvio
+cus_4700412500,Fjordfoods Corp.,fjordfoods.com,Growth Annual,1293,USD,2024-08-03,active,,
+cus_4489394283,Vekttrade Inc.,vekttrade.com,Starter Annual,139,USD,2024-08-04,active,,
+cus_4117789781,Harborosoft,harborosoft.de,Growth Monthly,449,EUR,2024-08-04,active,,
+cus_9120286404,Orbithub SA,orbithub.ch,Growth Annual,1197,EUR,2024-08-05,active,,
+cus_7398764068,Blauconsult Inc.,,Growth Monthly,485,USD,2024-08-06,active,,
+cus_6312544070,Summitdata,summitdata.co.uk,Starter Monthly,128,GBP,2024-08-08,active,,
+cus_7718235563,Juniperlogic SA,juniperlogic.ch,Starter Annual,129,EUR,2024-08-08,canceled,2025-12-31,
+cus_1249026706,Fjordform GmbH,fjordform.de,Growth Monthly,449,EUR,2024-08-09,active,,
+cus_3500207222,Merseymotion GmbH,merseymotion.de,Starter Annual,129,EUR,2024-08-11,active,,
+cus_5861103887,Moselmotion GmbH,moselmotion.de,Growth Annual,798,EUR,2024-08-12,active,,
+cus_9955184947,Merseytec,,Starter Annual,129,EUR,2024-08-13,active,,
+cus_3590933965,Brightcraft AG,brightcraft.ch,Growth Annual,399,EUR,2024-08-14,canceled,2025-04-11,
+cus_3827001287,Dijkpartners B.V.,,Starter Annual,129,EUR,2024-08-17,canceled,2026-08-07,
+cus_4363468779,Quarryhealth Ltd,quarryhealth.co.uk,Growth Annual,686,GBP,2024-08-18,canceled,2026-04-10,Not using it enough
+cus_5577931223,Pinedata SE,pinedata.de,Growth Annual,399,EUR,2024-08-20,active,,
+cus_2491311126,Ardentertrade,ardentertrade.de,Growth Monthly,449,EUR,2024-08-20,active,,
+cus_5284818162,Penninestack GmbH,penninestack.ch,Starter Annual,129,EUR,2024-08-23,active,,
+cus_7913374130,Willowdata N.V.,willowdata.nl,Starter Monthly,149,EUR,2024-08-25,active,,
+cus_9511084030,Falkitech SE,,Growth Annual,399,EUR,2024-08-26,active,,
+cus_5685832317,Polderostack N.V.,polderostack.nl,Starter Annual,129,EUR,2024-08-27,active,,
+cus_2519489721,Waldofin AG,waldofin.de,Starter Monthly,149,EUR,2024-09-01,canceled,2025-12-25,Switched to Approvio
+cus_1415579024,Grauprint N.V.,grauprint.nl,Growth Monthly,898,EUR,2024-09-02,active,,
+cus_8836219536,Eichmed Ltd,eichmed.co.uk,Growth Monthly,386,GBP,2024-09-02,canceled,2025-03-01,Zu teuer geworden
+cus_9650325441,Fjordenlog Corp.,fjordenlog.com,Starter Monthly,161,USD,2024-09-03,active,,
+cus_4015741828,Mainencloud,mainencloud.de,Starter Monthly,149,EUR,2024-09-04,canceled,2024-09-04,
+cus_9922904327,Sonnfield,sonnfield.at,Growth Annual,399,EUR,2024-09-06,canceled,2025-02-03,
+cus_9238342942,Alpenretail,,Starter Monthly,149,EUR,2024-09-06,active,,
+cus_9900848664,Moselcraft SE,moselcraft.de,Growth Annual,399,EUR,2024-09-06,canceled,2025-03-05,Too expensive after the price change
+cus_6567190992,Graulogic GmbH,graulogic.at,Starter Annual,129,EUR,2024-09-06,canceled,2025-12-30,Not using it enough
+cus_3765119751,Pinecloud,pinecloud.at,Starter Monthly,149,EUR,2024-09-08,active,,
+cus_9474480697,Graniteprint,graniteprint.nl,Starter Annual,129,EUR,2024-09-09,canceled,2025-04-07,Budget cuts
+cus_1281791186,Prismalog LLC,,Starter Monthly,161,USD,2024-09-09,active,,
+cus_1394597708,Dijksystems Corp.,dijksystems.com,Starter Annual,139,USD,2024-09-09,canceled,2024-09-09,Moved to our ERP's built-in approvals
+cus_5258752028,Alpenprint GmbH & Co. KG,alpenprint.de,Starter Annual,129,EUR,2024-09-10,canceled,2026-05-03,Zu teuer geworden
+cus_9318491902,Grauhub Inc.,grauhub.com,Starter Monthly,161,USD,2024-09-10,past_due,,
+cus_4364430846,Elbmed Ltd,elbmed.co.uk,Growth Monthly,386,GBP,2024-09-11,active,,
+cus_3083862848,Zuidostack GmbH,zuidostack.at,Growth Annual,399,EUR,2024-09-11,canceled,2025-09-06,Switched to Approvio
+cus_6927638821,Brightenpoint,brightenpoint.com,Starter Annual,139,USD,2024-09-13,canceled,2025-02-10,Zu teuer geworden
+cus_2679172738,Rheinsystems SE,,Growth Monthly,449,EUR,2024-09-13,active,,
+cus_1464900062,Isarplast,isarplast.co.uk,Growth Annual,343,GBP,2024-09-13,canceled,2026-01-06,
+cus_5516678106,Summitamed SE,,Starter Annual,129,EUR,2024-09-14,canceled,2024-12-13,
+cus_5826147095,Sonnfoods Ltd,sonnfoods.co.uk,Growth Annual,343,GBP,2024-09-14,canceled,2026-08-05,Not using it enough
+cus_3804964177,Prismasystems Ltd,prismasystems.co.uk,Growth Annual,686,GBP,2024-09-14,active,,
+cus_5519856677,Saxonplast,saxonplast.de,Starter Annual,129,EUR,2024-09-14,active,,
+cus_7814176924,Hafenistack AG,hafenistack.de,Growth Monthly,449,EUR,2024-09-14,active,,
+cus_9759520827,Granitelog Group plc,granitelog.co.uk,Growth Monthly,386,GBP,2024-09-15,canceled,2026-10-05,Too expensive after the price change
+cus_6279017790,Juniperlog Inc.,juniperlog.com,Growth Monthly,485,USD,2024-09-15,canceled,2026-04-08,Budget cuts
+cus_7038826795,Ridgesystems GmbH & Co. KG,,Growth Monthly,449,EUR,2024-09-15,active,,
+cus_3520770664,Coppererplast GmbH,coppererplast.de,Starter Monthly,149,EUR,2024-09-15,canceled,2026-10-05,Company closed
+cus_4835121402,Oakmobility GmbH & Co. KG,oakmobility.de,Growth Annual,798,EUR,2024-09-16,active,,
+cus_8199996991,Isarerform B.V.,isarerform.nl,Growth Annual,399,EUR,2024-09-16,active,,
+cus_6919460769,Falkaretail,falkaretail.de,Starter Annual,129,EUR,2024-09-17,canceled,2025-03-16,Zu teuer geworden
+cus_9046005903,Rheinstack LLC,,Growth Annual,431,USD,2024-09-18,active,,
+cus_3633947153,Thamespartners Ltd,thamespartners.co.uk,Growth Monthly,386,GBP,2024-09-21,active,,
+cus_1560079126,Kiellogic,kiellogic.at,Growth Annual,399,EUR,2024-09-21,active,,
+cus_4842335412,Zuidmobility,zuidmobility.de,Growth Annual,399,EUR,2024-09-22,active,,
+cus_6512328141,Lagocloud AG,lagocloud.de,Growth Monthly,898,EUR,2024-09-23,active,,
+cus_5774715316,Lichtconsult GmbH,lichtconsult.de,Starter Monthly,149,EUR,2024-09-26,active,,
+cus_7457995187,Oakprint,oakprint.at,Starter Annual,129,EUR,2024-09-28,active,,
+cus_1112930135,Helixonstack Inc.,helixonstack.com,Growth Annual,1293,USD,2024-10-01,canceled,2026-05-24,
+cus_4863712331,Hafenistack AG,hafenistack.de,Growth Monthly,449,EUR,2024-10-03,canceled,2026-03-27,Too expensive after the price change
+cus_4932009205,Willowometall GmbH,willowometall.de,Starter Annual,129,EUR,2024-10-06,active,,
+cus_6063531066,Quarryenform GmbH,quarryenform.at,Starter Monthly,149,EUR,2024-10-09,active,,
+cus_9271035341,Pennineerpoint Inc.,pennineerpoint.com,Growth Annual,431,USD,2024-10-10,canceled,2024-11-09,Too expensive after the price change
+cus_4239715136,Bodenseeafin GmbH,bodenseeafin.at,Growth Annual,399,EUR,2024-10-10,canceled,2026-09-30,Zu teuer geworden
+cus_4853612362,Sonnbau,sonnbau.de,Growth Monthly,1347,EUR,2024-10-11,active,,
+cus_7988461654,Quarrylogic,quarrylogic.de,Starter Monthly,149,EUR,2024-10-12,canceled,2026-03-06,Zu teuer geworden
+cus_5462142545,Grausoft,grausoft.com,Starter Monthly,161,USD,2024-10-14,canceled,2025-12-08,
+cus_4875447239,Thamesworks Inc.,thamesworks.com,Growth Monthly,485,USD,2024-10-15,active,,
+cus_7555261751,Keystoneretail,keystoneretail.com,Starter Annual,139,USD,2024-10-16,active,,
+cus_8345158763,Nimbusertrade N.V.,nimbusertrade.nl,Growth Monthly,898,EUR,2024-10-16,active,,
+cus_5592007610,Zuidmetall,zuidmetall.de,Growth Annual,1197,EUR,2024-10-17,active,,
+cus_4835339487,Ironconsult GmbH,,Growth Monthly,1347,EUR,2024-10-19,canceled,2026-02-11,
+cus_3926337886,Nimbusologic,nimbusologic.nl,Growth Monthly,449,EUR,2024-10-20,canceled,2026-03-14,Not using it enough
+cus_4403958105,Pennineform,pennineform.nl,Starter Monthly,149,EUR,2024-10-22,active,,
+cus_2589955004,Cobaltplast GmbH,cobaltplast.at,Growth Annual,399,EUR,2024-10-22,canceled,2025-12-16,Budget cuts
+cus_1213139303,Lichtatrade Group plc,lichtatrade.co.uk,Growth Monthly,386,GBP,2024-10-23,active,,
+cus_5223736574,Copperafoods,copperafoods.com,Growth Annual,431,USD,2024-10-23,active,,
+cus_9043494655,Thamesfield Inc.,thamesfield.com,Growth Annual,431,USD,2024-10-23,canceled,2026-10-13,Zu teuer geworden
+cus_4789569935,Isarisystems GmbH & Co. KG,isarisystems.de,Growth Monthly,449,EUR,2024-10-25,canceled,2024-11-24,Too expensive after the price change
+cus_6231155993,Keystonecloud,keystonecloud.nl,Starter Monthly,149,EUR,2024-10-25,past_due,,
+cus_3004137009,Hafenplast AG,hafenplast.at,Growth Annual,399,EUR,2024-10-25,active,,
+cus_9171189529,Ostfield,ostfield.ch,Growth Monthly,449,EUR,2024-10-26,canceled,2025-06-23,
+cus_9171740506,Lichtofoods AG,lichtofoods.ch,Growth Monthly,449,EUR,2024-10-26,active,,
+cus_5787764453,Nordtech SE,nordtech.de,Growth Annual,399,EUR,2024-10-29,canceled,2026-03-23,Zu teuer geworden
+cus_6485931001,Brightsystems GmbH,brightsystems.ch,Growth Annual,399,EUR,2024-10-30,canceled,2025-06-27,Too expensive after the price change
+cus_5597092835,Willowstack,willowstack.com,Growth Monthly,485,USD,2024-10-30,canceled,2025-10-25,Not using it enough
+cus_8088059075,Prismalogic GmbH,prismalogic.de,Starter Monthly,149,EUR,2024-10-31,active,,
+cus_6343966499,Thamesform,thamesform.co.uk,Starter Monthly,128,GBP,2024-11-01,active,,
+cus_8924800181,Ironofin GmbH & Co. KG,ironofin.de,Growth Annual,399,EUR,2024-11-02,active,,
+cus_2855736588,Bodenseeerconsult Corp.,bodenseeerconsult.com,Starter Monthly,161,USD,2024-11-02,active,,
+cus_7516925035,Blaufoods,,Growth Annual,399,EUR,2024-11-03,canceled,2025-07-31,
+cus_6581500332,Ardentmed,ardentmed.co.uk,Growth Monthly,386,GBP,2024-11-04,active,,
+cus_5462031751,Unionofield GmbH,unionofield.de,Growth Monthly,449,EUR,2024-11-04,active,,
+cus_3398165310,Kielplast,,Starter Annual,139,USD,2024-11-04,canceled,2026-04-28,
+cus_8071669452,Dijkplast GmbH,dijkplast.de,Starter Monthly,149,EUR,2024-11-05,past_due,,
+cus_8796773460,Graniteenergy,graniteenergy.de,Starter Annual,129,EUR,2024-11-05,active,,
+cus_1849062781,Helixgate AG,helixgate.at,Starter Monthly,149,EUR,2024-11-06,active,,
+cus_8873049334,Juniperlog Inc.,juniperlog.com,Growth Annual,431,USD,2024-11-06,active,,
+cus_2294784060,Summithealth,,Growth Annual,798,EUR,2024-11-08,canceled,2025-10-04,
+cus_7830515514,Nordworks Inc.,nordworks.com,Starter Annual,139,USD,2024-11-08,canceled,2026-04-02,Switched to Approvio
+cus_4821139346,Prismalogic,,Starter Monthly,149,EUR,2024-11-09,active,,
+cus_6209847721,Kraftware GmbH,kraftware.ch,Starter Annual,129,EUR,2024-11-12,active,,
+cus_1010400027,Helixodata N.V.,helixodata.nl,Starter Monthly,149,EUR,2024-11-12,active,,
+cus_7173700761,Copperdata,copperdata.com,Growth Annual,431,USD,2024-11-13,canceled,2025-01-12,Moved to our ERP's built-in approvals
+cus_2783904840,Neckarenline,,Growth Annual,399,EUR,2024-11-13,canceled,2026-06-06,
+cus_2351459458,Graniteenstack GmbH,graniteenstack.de,Starter Annual,129,EUR,2024-11-13,active,,
+cus_4119068169,Havenhub,havenhub.de,Growth Monthly,449,EUR,2024-11-15,active,,
+cus_7960955809,Ostmed,,Growth Annual,431,USD,2024-11-16,canceled,2025-02-14,Budget cuts
+cus_3952005472,Willowdata N.V.,willowdata.nl,Starter Monthly,149,EUR,2024-11-18,active,,
+cus_7582564717,Waldcloud GmbH,waldcloud.de,Growth Annual,798,EUR,2024-11-19,active,,
+cus_3188315760,Kielastack GmbH,kielastack.at,Growth Monthly,898,EUR,2024-11-19,active,,
+cus_6073075788,Quarryomotion N.V.,quarryomotion.nl,Growth Monthly,898,EUR,2024-11-20,active,,
+cus_8206368877,Amstelcraft GmbH,amstelcraft.ch,Growth Annual,399,EUR,2024-11-20,active,,
+cus_5822234967,Ruhrcloud,ruhrcloud.ch,Growth Annual,399,EUR,2024-11-21,active,,
+cus_6008056856,Oakiline LLC,oakiline.com,Growth Annual,431,USD,2024-11-22,active,,
+cus_2394206906,Lumenprint N.V.,lumenprint.nl,Growth Monthly,449,EUR,2024-11-23,canceled,2025-11-18,Moved to our ERP's built-in approvals
+cus_7844493374,Pioneercraft,pioneercraft.de,Starter Annual,129,EUR,2024-11-25,canceled,2024-12-25,Moved to our ERP's built-in approvals
+cus_1383283391,Kielenprint,,Growth Annual,399,EUR,2024-11-26,active,,
+cus_9754359558,Sonnconsult,sonnconsult.nl,Growth Annual,399,EUR,2024-11-26,canceled,2026-03-21,Not using it enough
+cus_9845696849,Harborconsult GmbH,harborconsult.de,Starter Annual,129,EUR,2024-11-26,canceled,2025-03-26,Too expensive after the price change
+cus_2190382675,Pioneercloud Inc.,pioneercloud.com,Growth Annual,862,USD,2024-11-26,canceled,2025-12-21,Switched to Approvio
+cus_3825710707,Rheinline Ltd,rheinline.co.uk,Growth Monthly,386,GBP,2024-11-26,active,,
+cus_9866062204,Neckarstack GmbH,neckarstack.ch,Growth Annual,399,EUR,2024-11-27,active,,
+cus_5916327734,Bergtech LLC,bergtech.com,Growth Monthly,1455,USD,2024-11-29,active,,
+cus_8231358696,Amstelpartners,amstelpartners.com,Starter Annual,139,USD,2024-11-29,active,,
+cus_9136401590,Willowenbau SA,,Growth Monthly,449,EUR,2024-11-29,active,,
+cus_7509726303,Nimbuscraft Inc.,nimbuscraft.com,Growth Annual,431,USD,2024-11-30,active,,
+cus_8548492472,Rheinhealth Inc.,rheinhealth.com,Growth Monthly,1455,USD,2024-12-01,active,,
+cus_5911107882,Oakhub GmbH & Co. KG,oakhub.de,Growth Monthly,449,EUR,2024-12-04,canceled,2025-05-03,Not using it enough
+cus_9554678947,Sonngate Ltd,sonngate.co.uk,Growth Annual,343,GBP,2024-12-05,active,,
+cus_1852229025,Maplemotion,,Starter Annual,111,GBP,2024-12-08,active,,
+cus_7054389290,Spreeobau,spreeobau.de,Growth Monthly,898,EUR,2024-12-09,canceled,2024-12-09,Budget cuts
+cus_7186917930,Elbsystems GmbH & Co. KG,,Growth Monthly,449,EUR,2024-12-09,active,,
+cus_3235599523,Mainhub,mainhub.at,Growth Annual,399,EUR,2024-12-09,active,,
+cus_3978985210,Lichtware GmbH,lichtware.de,Growth Annual,1197,EUR,2024-12-09,canceled,2025-05-08,
+cus_6351266141,Sonnfoods Ltd,sonnfoods.co.uk,Starter Annual,111,GBP,2024-12-10,canceled,2026-03-05,Budget cuts
+cus_1042764997,Falkfield,falkfield.de,Starter Monthly,149,EUR,2024-12-10,active,,
+cus_8253106814,Ironcloud GmbH,ironcloud.ch,Growth Annual,399,EUR,2024-12-10,canceled,2025-12-05,
+cus_8710223639,Keystonecraft,keystonecraft.com,Growth Monthly,1455,USD,2024-12-11,active,,
+cus_4313033895,Ostmed LLC,ostmed.com,Growth Monthly,485,USD,2024-12-11,active,,
+cus_7656528492,Havenenergy SE,,Starter Annual,129,EUR,2024-12-14,active,,
+cus_6183536599,Keystoneencloud GmbH,,Starter Monthly,149,EUR,2024-12-16,active,,
+cus_1854241987,Falkifin Inc.,falkifin.com,Growth Annual,431,USD,2024-12-17,past_due,,
+cus_1263832142,Isarsoft GmbH,isarsoft.ch,Growth Monthly,898,EUR,2024-12-19,active,,
+cus_1305272215,Spreetrade,spreetrade.co.uk,Growth Monthly,386,GBP,2024-12-20,active,,
+cus_4524699771,Copperline,copperline.co.uk,Growth Monthly,772,GBP,2024-12-21,active,,
+cus_2239200666,Steinbase Ltd,steinbase.co.uk,Growth Annual,343,GBP,2024-12-27,active,,
+cus_8579375939,Merseytec B.V.,merseytec.nl,Starter Monthly,149,EUR,2024-12-27,past_due,,
+cus_6398225464,Penninetrade Ltd,,Growth Monthly,386,GBP,2024-12-27,canceled,2025-06-25,Zu teuer geworden
+cus_4459479679,Moselerline,moselerline.de,Starter Annual,129,EUR,2024-12-29,active,,
+cus_6507803717,Elbconsult GmbH & Co. KG,elbconsult.de,Growth Monthly,449,EUR,2024-12-30,active,,
+cus_9133250094,Havenlog LLC,havenlog.com,Growth Monthly,485,USD,2024-12-30,canceled,2025-06-28,Zu teuer geworden
+cus_7807901080,Vekttec GmbH,vekttec.de,Starter Monthly,149,EUR,2024-12-30,active,,
+cus_6261588131,Amsteltec,amsteltec.nl,Starter Annual,129,EUR,2024-12-31,canceled,2026-06-24,Company closed
+cus_8274196404,Harbortech Group plc,harbortech.co.uk,Growth Annual,343,GBP,2024-12-31,canceled,2025-03-31,Not using it enough
+cus_7506170170,Willowfoods Inc.,willowfoods.com,Growth Monthly,485,USD,2024-12-31,canceled,2026-01-25,Company closed
+cus_4487475988,Pinesystems,pinesystems.com,Growth Monthly,1455,USD,2025-01-02,active,,
+cus_7785281089,Willowometall GmbH,willowometall.de,Growth Monthly,449,EUR,2025-01-04,active,,
+cus_3578146222,Amstelenlog Inc.,amstelenlog.com,Growth Monthly,485,USD,2025-01-04,active,,
+cus_5334730482,Harborgate,harborgate.nl,Growth Monthly,1347,EUR,2025-01-06,active,,
+cus_6160126870,Zuidtec SE,zuidtec.de,Starter Monthly,149,EUR,2025-01-06,active,,
+cus_6204177743,Zuidaworks AG,zuidaworks.de,Growth Monthly,449,EUR,2025-01-09,active,,
+cus_4091462700,Spreehub GmbH,spreehub.de,Starter Annual,129,EUR,2025-01-10,active,,
+cus_3744767129,Kielenprint,kielenprint.at,Growth Annual,1197,EUR,2025-01-11,canceled,2025-09-08,Moved to our ERP's built-in approvals
+cus_4284056230,Steinsoft Ltd,steinsoft.co.uk,Growth Annual,343,GBP,2025-01-11,active,,
+cus_1120364030,Summitform Inc.,summitform.com,Growth Annual,431,USD,2025-01-13,active,,
+cus_7392859721,Sonnform Inc.,,Starter Monthly,161,USD,2025-01-13,canceled,2025-03-14,Moved to our ERP's built-in approvals
+cus_9850229893,Juniperfin GmbH,juniperfin.de,Growth Annual,399,EUR,2025-01-13,canceled,2025-12-09,Budget cuts
+cus_5791794152,Lumensystems Group plc,lumensystems.co.uk,Starter Annual,111,GBP,2025-01-14,canceled,2026-02-08,Renewal price too high
+cus_7936801918,Mainmed,mainmed.ch,Growth Monthly,449,EUR,2025-01-14,active,,
+cus_5532851934,Summitmotion GmbH,summitmotion.de,Starter Monthly,149,EUR,2025-01-14,active,,
+cus_6636864177,Neckartec,neckartec.at,Starter Annual,129,EUR,2025-01-14,canceled,2026-08-07,
+cus_6687798258,Hafenfin N.V.,,Starter Annual,129,EUR,2025-01-14,active,,
+cus_8723886600,Waldimotion GmbH & Co. KG,waldimotion.de,Growth Annual,798,EUR,2025-01-15,active,,
+cus_9045433703,Graniteermed SE,graniteermed.de,Growth Monthly,449,EUR,2025-01-15,active,,
+cus_7284751770,Lichtiline,lichtiline.de,Growth Monthly,449,EUR,2025-01-15,active,,
+cus_3978105775,Merseyicloud GmbH,merseyicloud.de,Growth Monthly,449,EUR,2025-01-16,active,,
+cus_2508874476,Sonnprint Inc.,sonnprint.com,Growth Monthly,1455,USD,2025-01-16,canceled,2026-09-08,Not using it enough
+cus_3207308888,Eichlogic GmbH,eichlogic.de,Starter Annual,129,EUR,2025-01-16,active,,
+cus_5985634590,Deltastack Inc.,deltastack.com,Growth Annual,431,USD,2025-01-16,active,,
+cus_2804005978,Irondata GmbH,irondata.de,Growth Annual,798,EUR,2025-01-16,active,,
+cus_3350043454,Juniperdata GmbH,juniperdata.at,Growth Annual,1197,EUR,2025-01-18,past_due,,
+cus_2609932560,Lumenpartners,lumenpartners.de,Growth Monthly,1347,EUR,2025-01-20,active,,
+cus_5894725918,Isarimobility Corp.,isarimobility.com,Growth Annual,1293,USD,2025-01-21,past_due,,
+cus_8221464307,Sterlinghealth Inc.,sterlinghealth.com,Growth Annual,862,USD,2025-01-21,active,,
+cus_7359664290,Osttec GmbH,osttec.de,Growth Annual,1197,EUR,2025-01-22,active,,
+cus_3404227065,Keystoneenergy,keystoneenergy.de,Growth Monthly,1347,EUR,2025-01-23,active,,
+cus_6214065360,Ridgebau GmbH & Co. KG,ridgebau.de,Starter Monthly,149,EUR,2025-01-25,canceled,2025-01-25,
+cus_9833871092,Nimbusodata GmbH & Co. KG,,Growth Monthly,449,EUR,2025-01-25,active,,
+cus_6936561910,Coppermotion,,Growth Annual,1197,EUR,2025-01-27,active,,
+cus_3513828806,Havenware SE,havenware.de,Growth Monthly,449,EUR,2025-01-27,active,,
+cus_2801670879,Deltaatrade AG,deltaatrade.at,Growth Monthly,449,EUR,2025-01-29,active,,
+cus_6783711570,Deltafin,deltafin.com,Growth Annual,431,USD,2025-01-29,canceled,2025-04-29,
+cus_8063567900,Vektmed,vektmed.ch,Growth Annual,399,EUR,2025-01-30,active,,
+cus_8679462418,Waldmetall GmbH,waldmetall.at,Starter Annual,129,EUR,2025-01-30,active,,
+cus_1479145655,Spreelogic,spreelogic.de,Starter Annual,129,EUR,2025-01-30,active,,
+cus_5756982874,Hafenertec GmbH,hafenertec.de,Starter Annual,129,EUR,2025-02-01,active,,
+cus_8561597754,Lindenpoint AG,lindenpoint.at,Growth Annual,399,EUR,2025-02-01,active,,
+cus_4359858397,Bodenseebau,bodenseebau.nl,Growth Monthly,449,EUR,2025-02-01,active,,
+cus_8387113196,Maplemobility GmbH,maplemobility.de,Growth Annual,798,EUR,2025-02-02,active,,
+cus_8199681227,Waldtech,waldtech.de,Starter Annual,129,EUR,2025-02-02,active,,
+cus_1073244510,Elblog GmbH,,Starter Annual,129,EUR,2025-02-02,canceled,2026-01-28,Zu teuer geworden
+cus_6473276713,Pineware Group plc,,Growth Annual,343,GBP,2025-02-04,active,,
+cus_4868008397,Kraftiform Corp.,kraftiform.com,Starter Annual,139,USD,2025-02-06,active,,
+cus_4854134680,Orbitfoods GmbH,orbitfoods.de,Growth Annual,399,EUR,2025-02-07,active,,
+cus_7076437626,Deltadata SE,deltadata.de,Growth Monthly,898,EUR,2025-02-09,active,,
+cus_3943649204,Kielahealth,,Growth Monthly,449,EUR,2025-02-12,canceled,2025-05-13,Too expensive after the price change
+cus_5896208876,Brightbase,brightbase.de,Growth Monthly,449,EUR,2025-02-12,active,,
+cus_6317208198,Avonmotion,,Growth Annual,1197,EUR,2025-02-13,active,,
+cus_3249625376,Nimbustec AG,nimbustec.at,Growth Monthly,1347,EUR,2025-02-14,canceled,2025-04-15,
+cus_7245812001,Mainline,mainline.ch,Growth Monthly,449,EUR,2025-02-15,canceled,2025-05-16,
+cus_1714773983,Vektpartners Inc.,vektpartners.com,Growth Monthly,485,USD,2025-02-16,active,,
+cus_2591169983,Ironfield Inc.,ironfield.com,Growth Monthly,970,USD,2025-02-16,canceled,2025-11-13,Switched to Approvio
+cus_4315540108,Brightlog,brightlog.de,Growth Monthly,898,EUR,2025-02-18,active,,
+cus_9828385395,Isarbau AG,isarbau.de,Starter Monthly,149,EUR,2025-02-18,active,,
+cus_6297985166,Isarisystems GmbH & Co. KG,isarisystems.de,Starter Monthly,149,EUR,2025-02-18,active,,
+cus_8239524499,Kraftenretail Ltd,kraftenretail.co.uk,Growth Annual,1029,GBP,2025-02-19,canceled,2025-11-16,
+cus_4847307056,Neckarpartners,,Growth Annual,431,USD,2025-02-19,active,,
+cus_8075533871,Quarrydata Ltd,quarrydata.co.uk,Starter Monthly,128,GBP,2025-02-20,canceled,2025-11-17,Switched to Approvio
+cus_7970638188,Ostfin SE,ostfin.de,Growth Annual,399,EUR,2025-02-21,active,,
+cus_3563161216,Merseylog GmbH & Co. KG,merseylog.de,Growth Monthly,449,EUR,2025-02-21,canceled,2025-05-22,Budget cuts
+cus_9731275691,Zuidmed AG,zuidmed.de,Growth Annual,399,EUR,2025-02-21,canceled,2026-09-14,
+cus_5221210824,Steinform,,Growth Annual,399,EUR,2025-02-22,canceled,2026-05-18,
+cus_8267717976,Orbitstack,orbitstack.de,Starter Monthly,149,EUR,2025-02-22,active,,
+cus_4181535660,Polderware,polderware.com,Growth Annual,431,USD,2025-02-23,active,,
+cus_3826139291,Ironretail GmbH,ironretail.de,Growth Monthly,449,EUR,2025-02-23,active,,
+cus_2230415274,Tannfoods LLC,,Starter Monthly,161,USD,2025-02-24,canceled,2026-03-21,Renewal price too high
+cus_3557548325,Helixersystems,helixersystems.de,Growth Annual,399,EUR,2025-02-26,active,,
+cus_7499182022,Moselretail GmbH,moselretail.de,Growth Annual,1197,EUR,2025-02-27,active,,
+cus_4219806630,Eichline AG,eichline.de,Starter Monthly,149,EUR,2025-02-28,canceled,2025-11-25,Moved to our ERP's built-in approvals
+cus_6637885074,Amstelerfoods,amstelerfoods.com,Starter Monthly,161,USD,2025-03-01,canceled,2026-03-26,Zu teuer geworden
+cus_7356887407,Fjordcloud,fjordcloud.de,Growth Annual,399,EUR,2025-03-04,active,,
+cus_9570208251,Nordworks Inc.,nordworks.com,Starter Monthly,161,USD,2025-03-09,active,,
+cus_4734644940,Merseyretail Inc.,merseyretail.com,Growth Annual,431,USD,2025-03-10,canceled,2025-07-08,Zu teuer geworden
+cus_5144895035,Kraftsoft AG,kraftsoft.de,Growth Annual,399,EUR,2025-03-12,canceled,2026-08-04,Too expensive after the price change
+cus_8498352432,Kesselmetall,kesselmetall.de,Growth Monthly,898,EUR,2025-03-14,active,,
+cus_9628888938,Unionofield GmbH,unionofield.de,Growth Monthly,449,EUR,2025-03-14,active,,
+cus_6640740291,Lindenfin,,Growth Monthly,449,EUR,2025-03-14,active,,
+cus_9138558422,Tidalerstack Group plc,tidalerstack.co.uk,Growth Annual,343,GBP,2025-03-14,canceled,2026-04-08,Renewal price too high
+cus_4331799129,Avonodata GmbH & Co. KG,avonodata.de,Growth Annual,1197,EUR,2025-03-16,active,,
+cus_8088224197,Falksoft GmbH,falksoft.de,Starter Monthly,149,EUR,2025-03-16,active,,
+cus_3169783854,Lagoerfoods SE,lagoerfoods.de,Growth Annual,798,EUR,2025-03-17,active,,
+cus_1191351483,Sterlinggate,sterlinggate.co.uk,Growth Annual,343,GBP,2025-03-17,active,,
+cus_9900436170,Rheinstack,,Starter Annual,139,USD,2025-03-17,active,,
+cus_2806966961,Coppertrade Ltd,coppertrade.co.uk,Starter Annual,111,GBP,2025-03-18,active,,
+cus_9449048499,Kraftmetall GmbH,kraftmetall.de,Growth Annual,399,EUR,2025-03-18,canceled,2025-03-18,Zu teuer geworden
+cus_2701899716,Amsteltech B.V.,amsteltech.nl,Growth Monthly,449,EUR,2025-03-18,canceled,2026-04-12,Zu teuer geworden
+cus_8033107942,Summitamed,summitamed.de,Starter Monthly,149,EUR,2025-03-19,active,,
+cus_6945248932,Dijkisystems Inc.,dijkisystems.com,Growth Annual,431,USD,2025-03-20,canceled,2026-04-14,Too expensive after the price change
+cus_3451375689,Uniongate,uniongate.de,Growth Annual,399,EUR,2025-03-21,active,,
+cus_4579458484,Neckarastack,neckarastack.de,Growth Annual,399,EUR,2025-03-21,active,,
+cus_7474247177,Rheinoenergy GmbH,,Starter Monthly,149,EUR,2025-03-21,active,,
+cus_3949716723,Sterlingpartners SE,sterlingpartners.de,Growth Monthly,898,EUR,2025-03-22,active,,
+cus_4414186471,Saxonprint GmbH & Co. KG,saxonprint.de,Growth Annual,399,EUR,2025-03-23,active,,
+cus_3736762020,Waldimotion,waldimotion.de,Growth Annual,798,EUR,2025-03-25,canceled,2026-03-20,Zu teuer geworden
+cus_1214611703,Granitebase,granitebase.com,Starter Monthly,161,USD,2025-03-25,past_due,,
+cus_9436424446,Alpencloud GmbH,alpencloud.de,Starter Annual,129,EUR,2025-03-26,active,,
+cus_8230947984,Spreeobau,spreeobau.de,Growth Annual,399,EUR,2025-03-28,active,,
+cus_4399129694,Ruhrfield AG,ruhrfield.de,Starter Annual,129,EUR,2025-03-28,active,,
+cus_8595051850,Penninecloud Corp.,penninecloud.com,Growth Annual,431,USD,2025-03-28,active,,
+cus_2319403222,Rheintrade AG,rheintrade.de,Growth Monthly,449,EUR,2025-03-28,active,,
+cus_6731954073,Lagosystems GmbH & Co. KG,lagosystems.de,Growth Annual,1197,EUR,2025-03-29,canceled,2025-12-24,Too expensive after the price change
+cus_6822041475,Sterlinghub,sterlinghub.com,Starter Monthly,161,USD,2025-03-29,active,,
+cus_3560677140,Nordconsult AG,nordconsult.at,Growth Annual,399,EUR,2025-03-29,canceled,2026-05-23,Too expensive after the price change
+cus_4685105268,Alpenprint,alpenprint.de,Growth Annual,399,EUR,2025-03-29,active,,
+cus_8006297455,Avonhealth Inc.,,Growth Annual,431,USD,2025-03-30,active,,
+cus_4893207820,Willowenmetall,willowenmetall.de,Growth Annual,399,EUR,2025-04-02,canceled,2025-10-29,Company closed
+cus_3840872271,Lumenlogic,lumenlogic.co.uk,Growth Annual,343,GBP,2025-04-02,active,,
+cus_4450752463,Lindenenergy B.V.,lindenenergy.nl,Growth Annual,399,EUR,2025-04-05,active,,
+cus_8267471773,Quarrytrade GmbH & Co. KG,quarrytrade.de,Growth Annual,798,EUR,2025-04-07,active,,
+cus_9355600427,Nimbusbau Inc.,nimbusbau.com,Growth Annual,431,USD,2025-04-07,active,,
+cus_3198967609,Oakcloud GmbH,oakcloud.de,Growth Monthly,449,EUR,2025-04-07,active,,
+cus_4218251169,Sonnprint,sonnprint.com,Growth Annual,431,USD,2025-04-07,canceled,2026-05-02,Renewal price too high
+cus_4066753421,Alpensystems SE,alpensystems.de,Starter Annual,129,EUR,2025-04-08,active,,
+cus_4016004105,Thamesihealth GmbH,thamesihealth.de,Starter Monthly,149,EUR,2025-04-08,active,,
+cus_3977816707,Oakomobility GmbH,oakomobility.de,Growth Monthly,449,EUR,2025-04-09,canceled,2025-10-06,Company closed
+cus_3094402382,Neckaramobility AG,neckaramobility.de,Growth Monthly,449,EUR,2025-04-10,active,,
+cus_1364924437,Ridgeocloud GmbH & Co. KG,ridgeocloud.de,Growth Annual,399,EUR,2025-04-10,canceled,2026-09-02,
+cus_7454287544,Thamesohub AG,thamesohub.de,Starter Monthly,149,EUR,2025-04-10,canceled,2025-11-06,Too expensive after the price change
+cus_6311772668,Juniperlog Inc.,juniperlog.com,Starter Annual,139,USD,2025-04-13,canceled,2026-03-09,Moved to our ERP's built-in approvals
+cus_4762896102,Lumenbau SE,,Starter Monthly,149,EUR,2025-04-13,active,,
+cus_3110692681,Ruhrfield,,Starter Monthly,149,EUR,2025-04-14,canceled,2026-02-08,Company closed
+cus_9620495266,Deltadata SE,deltadata.de,Growth Monthly,898,EUR,2025-04-15,canceled,2026-08-08,
+cus_9182904126,Waldtech GmbH & Co. KG,,Starter Annual,129,EUR,2025-04-15,canceled,2025-12-11,Zu teuer geworden
+cus_1617042380,Moselsystems,moselsystems.de,Growth Annual,1197,EUR,2025-04-16,active,,
+cus_9730681494,Isarbase GmbH,isarbase.at,Starter Annual,129,EUR,2025-04-18,active,,
+cus_3624186766,Cobaltofoods GmbH,cobaltofoods.de,Starter Monthly,149,EUR,2025-04-18,active,,
+cus_3297347052,Summitoretail Inc.,summitoretail.com,Starter Monthly,161,USD,2025-04-21,active,,
+cus_4136640695,Falkdata,falkdata.de,Growth Annual,399,EUR,2025-04-21,active,,
+cus_7058526993,Orbittec,orbittec.com,Growth Annual,431,USD,2025-04-21,active,,
+cus_1939662615,Thamesworks Inc.,,Growth Monthly,970,USD,2025-04-22,canceled,2025-05-22,Company closed
+cus_8965376780,Lumenologic,lumenologic.com,Starter Monthly,161,USD,2025-04-22,active,,
+cus_2804285839,Summitoretail Inc.,,Growth Annual,431,USD,2025-04-24,canceled,2026-05-19,Too expensive after the price change
+cus_7759767076,Bodenseeerconsult Corp.,bodenseeerconsult.com,Starter Monthly,161,USD,2025-04-24,active,,
+cus_6184810450,Brighttrade,brighttrade.de,Growth Monthly,449,EUR,2025-04-25,canceled,2026-03-21,Switched to Approvio
+cus_9578478616,Sterlingdata GmbH,,Growth Annual,399,EUR,2025-04-25,active,,
+cus_1831585143,Merseystack GmbH,merseystack.de,Starter Annual,129,EUR,2025-04-25,past_due,,
+cus_3038382359,Deltapoint GmbH,,Growth Monthly,1347,EUR,2025-04-25,active,,
+cus_2385553341,Fjordprint B.V.,fjordprint.nl,Growth Annual,399,EUR,2025-04-26,active,,
+cus_9368044852,Granitebase Inc.,,Starter Monthly,161,USD,2025-04-26,active,,
+cus_3076104513,Penninefield Corp.,penninefield.com,Starter Monthly,161,USD,2025-04-28,active,,
+cus_3486865056,Thamesdata B.V.,thamesdata.nl,Growth Annual,399,EUR,2025-05-01,active,,
+cus_5947370424,Ardentform,,Growth Annual,431,USD,2025-05-02,active,,
+cus_1984540990,Ruhrfield,,Growth Monthly,449,EUR,2025-05-02,active,,
+cus_7800656833,Elbstack,elbstack.com,Growth Monthly,485,USD,2025-05-03,active,,
+cus_7223260654,Lumentrade B.V.,,Growth Monthly,449,EUR,2025-05-05,active,,
+cus_8785786265,Dijklog GmbH,dijklog.at,Growth Monthly,1347,EUR,2025-05-06,canceled,2026-10-28,Budget cuts
+cus_6821639217,Sterlinghealth,sterlinghealth.com,Growth Annual,1293,USD,2025-05-07,active,,
+cus_6418920600,Ironware AG,ironware.de,Starter Annual,129,EUR,2025-05-08,active,,
+cus_6414644329,Grauhub,grauhub.com,Starter Monthly,161,USD,2025-05-12,active,,
+cus_4994608323,Mapleform GmbH,mapleform.de,Growth Annual,399,EUR,2025-05-14,canceled,2025-07-13,Too expensive after the price change
+cus_7318499746,Elbpartners GmbH & Co. KG,elbpartners.de,Growth Annual,1197,EUR,2025-05-18,active,,
+cus_4657018986,Sterlingamobility GmbH & Co. KG,sterlingamobility.de,Starter Annual,129,EUR,2025-05-18,active,,
+cus_6485382383,Steinpoint LLC,steinpoint.com,Growth Monthly,1455,USD,2025-05-19,active,,
+cus_2035691265,Ruhrcraft GmbH,ruhrcraft.ch,Starter Annual,129,EUR,2025-05-19,canceled,2025-07-18,
+cus_2311325642,Deltaenergy AG,deltaenergy.de,Growth Monthly,449,EUR,2025-05-19,active,,
+cus_6790991978,Maplehealth AG,,Growth Annual,1197,EUR,2025-05-19,active,,
+cus_3337570107,Pioneerdata GmbH,pioneerdata.de,Growth Monthly,449,EUR,2025-05-21,canceled,2026-10-13,Zu teuer geworden
+cus_2501655297,Summitmotion GmbH,summitmotion.de,Growth Monthly,449,EUR,2025-05-21,canceled,2025-11-17,
+cus_9504257073,Unionline GmbH & Co. KG,unionline.de,Growth Annual,399,EUR,2025-05-22,active,,
+cus_2695802167,Ruhrtrade AG,ruhrtrade.de,Growth Annual,1197,EUR,2025-05-22,active,,
+cus_5701925681,Lindenitrade SE,lindenitrade.de,Growth Annual,1197,EUR,2025-05-22,canceled,2026-05-17,Company closed
+cus_9528815048,Moselibase GmbH,moselibase.de,Growth Monthly,898,EUR,2025-05-23,active,,
+cus_2808766502,Harborplast Inc.,,Growth Annual,431,USD,2025-05-24,active,,
+cus_1532083212,Alpenhub,alpenhub.de,Growth Annual,399,EUR,2025-05-24,canceled,2025-07-23,Switched to Approvio
+cus_8659208041,Sterlinggate,sterlinggate.co.uk,Starter Annual,111,GBP,2025-05-24,active,,
+cus_6162463172,Hafenbase AG,hafenbase.ch,Growth Monthly,449,EUR,2025-05-24,active,,
+cus_6265085791,Eichergate GmbH,eichergate.de,Growth Annual,1197,EUR,2025-05-25,canceled,2025-08-23,
+cus_7390600248,Vistagate,vistagate.de,Starter Annual,129,EUR,2025-05-26,canceled,2026-09-18,Too expensive after the price change
+cus_9962272215,Neckarhealth GmbH,neckarhealth.ch,Starter Monthly,149,EUR,2025-05-28,active,,
+cus_2506086362,Tannlogic,tannlogic.nl,Growth Monthly,449,EUR,2025-05-29,active,,
+cus_8736240522,Unionstack GmbH,unionstack.at,Growth Monthly,1347,EUR,2025-05-29,canceled,2025-07-28,Too expensive after the price change
+cus_3518805943,Nordsoft GmbH,nordsoft.de,Starter Annual,129,EUR,2025-05-30,active,,
+cus_9075864046,Prismapoint AG,prismapoint.ch,Growth Annual,399,EUR,2025-05-30,active,,
+cus_2821310327,Ridgeafield N.V.,,Growth Annual,399,EUR,2025-05-31,active,,
+cus_4883668662,Alpeniworks,alpeniworks.de,Growth Annual,399,EUR,2025-06-01,active,,
+cus_6538135221,Moselmed GmbH,moselmed.de,Starter Annual,129,EUR,2025-06-01,canceled,2025-10-29,Too expensive after the price change
+cus_2825126931,Polderenergy GmbH & Co. KG,polderenergy.de,Starter Annual,129,EUR,2025-06-01,canceled,2026-01-27,
+cus_7674068377,Juniperatech GmbH,juniperatech.at,Growth Monthly,1347,EUR,2025-06-02,canceled,2026-02-27,Moved to our ERP's built-in approvals
+cus_9835549345,Ostenprint AG,ostenprint.de,Growth Monthly,449,EUR,2025-06-02,canceled,2026-01-28,Moved to our ERP's built-in approvals
+cus_9481043000,Quarryplast N.V.,quarryplast.nl,Growth Monthly,449,EUR,2025-06-02,canceled,2026-10-25,Not using it enough
+cus_4519869124,Sterlingersystems GmbH & Co. KG,sterlingersystems.de,Starter Annual,129,EUR,2025-06-04,active,,
+cus_7622492993,Saxonstack GmbH & Co. KG,,Starter Monthly,149,EUR,2025-06-04,canceled,2026-03-01,
+cus_6568869743,Neckaristack Ltd,,Growth Annual,343,GBP,2025-06-07,active,,
+cus_4308440843,Summitipartners,summitipartners.de,Growth Monthly,449,EUR,2025-06-08,active,,
+cus_4346614087,Krafttec SA,,Growth Monthly,449,EUR,2025-06-09,active,,
+cus_9695788645,Blauhub B.V.,,Growth Monthly,898,EUR,2025-06-10,canceled,2026-06-05,Company closed
+cus_8812174638,Blaubase Ltd,blaubase.co.uk,Growth Monthly,386,GBP,2025-06-10,active,,
+cus_2439986661,Tannplast Inc.,tannplast.com,Starter Annual,139,USD,2025-06-10,active,,
+cus_7464461405,Summitbau,summitbau.at,Growth Annual,1197,EUR,2025-06-11,active,,
+cus_2348361697,Summitiware,summitiware.de,Growth Annual,399,EUR,2025-06-11,active,,
+cus_4875527480,Rheinbau Ltd,rheinbau.co.uk,Growth Monthly,386,GBP,2025-06-12,active,,
+cus_1275143663,Elbpartners,elbpartners.de,Growth Annual,1197,EUR,2025-06-13,active,,
+cus_8892500994,Brightlog AG,,Growth Monthly,1347,EUR,2025-06-13,canceled,2026-08-07,Moved to our ERP's built-in approvals
+cus_5858760777,Saxonmed N.V.,saxonmed.nl,Growth Monthly,449,EUR,2025-06-13,active,,
+cus_9407209774,Ardentware AG,,Growth Annual,798,EUR,2025-06-13,canceled,2026-03-10,Zu teuer geworden
+cus_3781904918,Elbfield LLC,elbfield.com,Growth Monthly,485,USD,2025-06-13,canceled,2026-03-10,Zu teuer geworden
+cus_6651473462,Sonnenergy Inc.,sonnenergy.com,Growth Annual,862,USD,2025-06-15,active,,
+cus_6724672643,Steinbau,steinbau.com,Growth Annual,862,USD,2025-06-15,canceled,2025-11-12,Zu teuer geworden
+cus_2193614868,Unionofield GmbH,unionofield.de,Growth Annual,399,EUR,2025-06-18,active,,
+cus_6238457149,Neckaraform GmbH,neckaraform.at,Growth Monthly,449,EUR,2025-06-19,active,,
+cus_1356872701,Polderbau GmbH,polderbau.de,Starter Monthly,149,EUR,2025-06-21,active,,
+cus_8694037898,Ironlogic GmbH,ironlogic.at,Growth Annual,399,EUR,2025-06-21,active,,
+cus_6205908241,Kraftdata,kraftdata.de,Starter Monthly,149,EUR,2025-06-21,canceled,2025-11-18,Not using it enough
+cus_2429702611,Rheinalog LLC,,Growth Monthly,1455,USD,2025-06-22,active,,
+cus_2415388930,Amstelmotion GmbH & Co. KG,amstelmotion.de,Growth Annual,798,EUR,2025-06-24,active,,
+cus_2362928826,Blauaform GmbH,blauaform.at,Growth Annual,399,EUR,2025-06-25,canceled,2026-01-21,Switched to Approvio
+cus_3575488335,Ardentmotion,ardentmotion.co.uk,Growth Monthly,386,GBP,2025-06-25,canceled,2026-02-20,Zu teuer geworden
+cus_3426120370,Nordpartners AG,nordpartners.ch,Growth Annual,399,EUR,2025-06-25,active,,
+cus_6304019206,Saxonhealth AG,saxonhealth.de,Starter Annual,129,EUR,2025-06-26,canceled,2025-06-26,
+cus_2921095206,Ridgetech,ridgetech.co.uk,Growth Annual,343,GBP,2025-06-26,active,,
+cus_6405560563,Prismahub,prismahub.ch,Growth Monthly,1347,EUR,2025-06-26,active,,
+cus_4331831285,Steinohub,,Growth Monthly,898,EUR,2025-06-27,canceled,2026-08-21,Company closed
+cus_5624048961,Ardenterdata SE,ardenterdata.de,Starter Annual,129,EUR,2025-06-29,active,,
+cus_3016136486,Lagooprint SA,lagooprint.ch,Growth Annual,798,EUR,2025-06-30,active,,
+cus_9528260091,Helixprint Group plc,helixprint.co.uk,Growth Annual,686,GBP,2025-06-30,canceled,2026-09-23,
+cus_7830133447,Helixmotion SA,helixmotion.ch,Starter Annual,129,EUR,2025-07-01,past_due,,
+cus_3690840329,Oaklogic GmbH,,Growth Monthly,449,EUR,2025-07-02,active,,
+cus_2696756499,Unionerware SE,unionerware.de,Starter Monthly,149,EUR,2025-07-02,canceled,2025-08-31,Budget cuts
+cus_8796471991,Polderhealth GmbH,polderhealth.de,Growth Monthly,449,EUR,2025-07-04,active,,
+cus_8037072979,Kesselatec,,Starter Monthly,128,GBP,2025-07-04,canceled,2025-12-01,
+cus_3421851774,Vistaametall,vistaametall.at,Growth Annual,399,EUR,2025-07-04,active,,
+cus_3341058202,Lichtmobility,,Growth Annual,399,EUR,2025-07-04,active,,
+cus_4010536294,Isarisystems GmbH & Co. KG,isarisystems.de,Growth Monthly,449,EUR,2025-07-06,active,,
+cus_2315063892,Willowenbau SA,willowenbau.ch,Growth Annual,399,EUR,2025-07-06,active,,
+cus_7356351770,Zuidfield Inc.,zuidfield.com,Growth Monthly,485,USD,2025-07-07,active,,
+cus_9635307749,Isarbase GmbH,,Growth Monthly,449,EUR,2025-07-08,canceled,2025-10-06,Zu teuer geworden
+cus_2081936598,Ruhrfield AG,ruhrfield.de,Starter Annual,129,EUR,2025-07-11,canceled,2026-07-06,
+cus_4559000374,Penninetech AG,penninetech.de,Growth Monthly,449,EUR,2025-07-11,active,,
+cus_1151553696,Pennineaplast AG,pennineaplast.at,Starter Annual,129,EUR,2025-07-11,active,,
+cus_9111021198,Vistapartners,vistapartners.at,Growth Monthly,898,EUR,2025-07-12,past_due,,
+cus_2177628471,Rheinencloud Group plc,rheinencloud.co.uk,Starter Annual,111,GBP,2025-07-12,active,,
+cus_9228649566,Ridgeplast GmbH,ridgeplast.de,Starter Monthly,149,EUR,2025-07-15,active,,
+cus_9196270118,Ostenprint AG,,Growth Annual,399,EUR,2025-07-16,canceled,2026-05-12,Not using it enough
+cus_3584425540,Hafencraft GmbH & Co. KG,hafencraft.de,Growth Annual,399,EUR,2025-07-20,active,,
+cus_8294834208,Fjordmetall,fjordmetall.de,Starter Monthly,149,EUR,2025-07-24,active,,
+cus_4176516294,Steinworks SE,steinworks.de,Growth Monthly,449,EUR,2025-07-25,canceled,2026-04-21,Moved to our ERP's built-in approvals
+cus_7721224897,Orbitacloud,,Growth Monthly,485,USD,2025-07-26,active,,
+cus_3753041979,Maplefoods SE,maplefoods.de,Starter Annual,129,EUR,2025-07-27,active,,
+cus_2824668779,Moselfoods,moselfoods.com,Growth Annual,431,USD,2025-07-29,active,,
+cus_6391346264,Deltaform,deltaform.de,Growth Annual,399,EUR,2025-07-30,active,,
+cus_8933505170,Dijkcraft GmbH,dijkcraft.at,Growth Annual,1197,EUR,2025-07-30,active,,
+cus_2051217943,Nordworks Inc.,nordworks.com,Starter Monthly,161,USD,2025-07-30,canceled,2026-05-26,Too expensive after the price change
+cus_9007860871,Zuidostack,zuidostack.at,Growth Annual,399,EUR,2025-08-01,active,,
+cus_3166031141,Graniteenstack GmbH,graniteenstack.de,Growth Monthly,449,EUR,2025-08-02,canceled,2026-01-29,Company closed
+cus_2784083557,Unioncloud Corp.,unioncloud.com,Growth Monthly,970,USD,2025-08-03,canceled,2026-01-30,Budget cuts
+cus_1548706120,Ironpartners GmbH & Co. KG,,Growth Monthly,449,EUR,2025-08-04,active,,
+cus_8562641254,Mainerhub Corp.,,Starter Monthly,161,USD,2025-08-05,past_due,,
+cus_4346645470,Avonicraft GmbH,avonicraft.ch,Growth Annual,399,EUR,2025-08-06,active,,
+cus_9714213506,Bergenmotion,bergenmotion.at,Starter Annual,129,EUR,2025-08-08,active,,
+cus_1925575375,Avonfoods GmbH & Co. KG,avonfoods.de,Growth Monthly,1347,EUR,2025-08-09,active,,
+cus_3796400407,Bodenseeretail SE,bodenseeretail.de,Growth Annual,399,EUR,2025-08-10,active,,
+cus_6143098748,Kesselform Corp.,kesselform.com,Growth Monthly,485,USD,2025-08-10,active,,
+cus_1333508181,Sterlingware LLC,sterlingware.com,Starter Annual,139,USD,2025-08-11,active,,
+cus_8538421599,Ardentcloud Ltd,ardentcloud.co.uk,Growth Annual,343,GBP,2025-08-11,active,,
+cus_8455440086,Helixfield,helixfield.de,Growth Monthly,449,EUR,2025-08-11,canceled,2026-01-08,Company closed
+cus_3389006223,Tidalfield,tidalfield.de,Growth Monthly,1347,EUR,2025-08-15,canceled,2026-03-13,Company closed
+cus_7463816797,Ruhrmetall GmbH,,Growth Annual,399,EUR,2025-08-16,canceled,2026-01-13,Switched to Approvio
+cus_5163404781,Falkensystems SE,falkensystems.de,Growth Annual,399,EUR,2025-08-16,active,,
+cus_9597878452,Waldcraft AG,waldcraft.de,Growth Annual,399,EUR,2025-08-19,active,,
+cus_2621539809,Kraftstack,kraftstack.co.uk,Growth Monthly,386,GBP,2025-08-20,active,,
+cus_8486230303,Granitebau,granitebau.com,Starter Annual,139,USD,2025-08-23,active,,
+cus_8033410308,Spreehub GmbH,,Starter Annual,129,EUR,2025-08-23,canceled,2025-08-23,Moved to our ERP's built-in approvals
+cus_6025222403,Rheinamed GmbH,rheinamed.de,Starter Annual,129,EUR,2025-08-23,active,,
+cus_7933113045,Norderplast Ltd,norderplast.co.uk,Growth Monthly,386,GBP,2025-08-26,active,,
+cus_5971118785,Mainencloud,,Growth Monthly,449,EUR,2025-08-27,active,,
+cus_5154688104,Amstelenergy SE,amstelenergy.de,Starter Monthly,149,EUR,2025-08-28,active,,
+cus_5609832149,Keystonelog GmbH & Co. KG,keystonelog.de,Growth Annual,399,EUR,2025-08-28,canceled,2026-06-24,Budget cuts
+cus_2001408132,Vistaconsult GmbH,vistaconsult.ch,Growth Monthly,449,EUR,2025-08-29,canceled,2026-02-25,Too expensive after the price change
+cus_1562449227,Avonodata,avonodata.de,Growth Annual,399,EUR,2025-08-30,active,,
+cus_1869290851,Isarsoft,isarsoft.ch,Growth Monthly,449,EUR,2025-08-31,canceled,2025-11-29,Zu teuer geworden
+cus_9503754153,Fjordasoft,,Growth Annual,399,EUR,2025-08-31,active,,
+cus_2066521056,Avonconsult LLC,avonconsult.com,Growth Annual,431,USD,2025-09-05,active,,
+cus_3828569909,Havenmed SA,havenmed.ch,Growth Monthly,449,EUR,2025-09-06,canceled,2026-09-01,
+cus_7305366010,Dijkworks SA,,Growth Monthly,449,EUR,2025-09-06,active,,
+cus_3949466234,Falkifin Inc.,,Starter Annual,139,USD,2025-09-07,active,,
+cus_5747530843,Thamespartners Ltd,thamespartners.co.uk,Starter Monthly,128,GBP,2025-09-07,active,,
+cus_8311119461,Blauhub B.V.,blauhub.nl,Growth Annual,399,EUR,2025-09-08,active,,
+cus_4523250358,Moselerline GmbH & Co. KG,moselerline.de,Growth Annual,399,EUR,2025-09-08,past_due,,
+cus_2997728217,Summitbase GmbH & Co. KG,summitbase.de,Starter Monthly,149,EUR,2025-09-09,canceled,2026-09-04,Moved to our ERP's built-in approvals
+cus_9308105551,Kraftretail Inc.,,Starter Monthly,161,USD,2025-09-13,active,,
+cus_9973072063,Sterlingsystems AG,sterlingsystems.de,Growth Monthly,449,EUR,2025-09-15,active,,
+cus_7343103774,Pioneerware,pioneerware.de,Growth Annual,399,EUR,2025-09-15,active,,
+cus_3916903567,Saxonbase Ltd,saxonbase.co.uk,Growth Monthly,386,GBP,2025-09-16,canceled,2026-09-11,Too expensive after the price change
+cus_6573758733,Vistaaline GmbH,vistaaline.de,Growth Monthly,1347,EUR,2025-09-17,past_due,,
+cus_9758145144,Ridgefin,ridgefin.com,Starter Monthly,161,USD,2025-09-17,active,,
+cus_8207696025,Ostoline Inc.,ostoline.com,Growth Annual,431,USD,2025-09-17,active,,
+cus_6205131027,Oakertrade Ltd,oakertrade.co.uk,Growth Annual,343,GBP,2025-09-19,canceled,2025-12-18,Budget cuts
+cus_6389077909,Sonncraft GmbH,sonncraft.de,Starter Monthly,149,EUR,2025-09-19,canceled,2026-09-14,Budget cuts
+cus_8502188809,Orbitlog GmbH,orbitlog.de,Starter Annual,129,EUR,2025-09-19,active,,
+cus_9035534495,Tannretail,,Growth Monthly,898,EUR,2025-09-20,active,,
+cus_2187042467,Ironmetall GmbH,ironmetall.de,Growth Annual,1197,EUR,2025-09-20,canceled,2026-04-18,Company closed
+cus_3496793051,Neckarabau GmbH,neckarabau.at,Starter Annual,129,EUR,2025-09-20,canceled,2026-04-18,Zu teuer geworden
+cus_2576160214,Penninemed Ltd,penninemed.co.uk,Starter Annual,111,GBP,2025-09-20,active,,
+cus_7546360394,Deltaenergy AG,deltaenergy.de,Starter Monthly,149,EUR,2025-09-21,active,,
+cus_2896614774,Keystonefoods AG,keystonefoods.de,Starter Monthly,149,EUR,2025-09-21,active,,
+cus_7495379482,Isarbau AG,isarbau.de,Growth Monthly,449,EUR,2025-09-21,canceled,2026-09-16,Moved to our ERP's built-in approvals
+cus_4514669310,Quarryfoods,quarryfoods.ch,Starter Monthly,149,EUR,2025-09-21,active,,
+cus_2085177280,Tannenergy GmbH,tannenergy.de,Growth Monthly,449,EUR,2025-09-23,active,,
+cus_3315448801,Prismaenergy Ltd,prismaenergy.co.uk,Growth Annual,343,GBP,2025-09-26,canceled,2026-03-25,
+cus_8255732065,Willowmetall AG,willowmetall.de,Growth Monthly,1347,EUR,2025-09-27,canceled,2026-03-26,Switched to Approvio
+cus_6474331234,Pennineodata B.V.,pennineodata.nl,Starter Monthly,149,EUR,2025-09-27,active,,
+cus_9687222640,Kesselgate LLC,,Starter Annual,139,USD,2025-09-27,active,,
+cus_4479655747,Berghub AG,berghub.de,Starter Monthly,149,EUR,2025-09-28,active,,
+cus_4933509876,Merseypoint Ltd,merseypoint.co.uk,Starter Monthly,128,GBP,2025-09-28,canceled,2026-09-23,
+cus_6960170531,Kesselhealth,kesselhealth.de,Growth Annual,399,EUR,2025-09-28,active,,
+cus_7170423345,Elbtrade AG,elbtrade.ch,Growth Annual,399,EUR,2025-09-29,active,,
+cus_1909334967,Amstelpoint GmbH,amstelpoint.de,Starter Annual,129,EUR,2025-09-30,active,,
+cus_5726648601,Oakocraft LLC,oakocraft.com,Growth Annual,431,USD,2025-09-30,active,,
+cus_2131904509,Mapleform GmbH,mapleform.de,Growth Monthly,449,EUR,2025-09-30,active,,
+cus_1461304708,Moselmotion GmbH,moselmotion.de,Growth Monthly,449,EUR,2025-10-02,active,,
+cus_2260350133,Amstelobase,amstelobase.nl,Growth Annual,399,EUR,2025-10-05,active,,
+cus_5451430153,Cobaltplast GmbH,cobaltplast.at,Starter Annual,129,EUR,2025-10-05,active,,
+cus_8966632789,Isarbase,isarbase.at,Growth Monthly,449,EUR,2025-10-06,canceled,2026-03-05,
+cus_1298703070,Thamesware Inc.,thamesware.com,Starter Annual,139,USD,2025-10-09,active,,
+cus_3480122745,Nimbusodata GmbH & Co. KG,,Growth Monthly,449,EUR,2025-10-10,active,,
+cus_2738765528,Thamesohub AG,,Starter Annual,129,EUR,2025-10-10,active,,
+cus_5928211092,Maplemobility GmbH,maplemobility.de,Growth Annual,798,EUR,2025-10-12,active,,
+cus_6615840938,Ruhrware GmbH,ruhrware.de,Starter Annual,129,EUR,2025-10-14,canceled,2025-11-13,Too expensive after the price change
+cus_3871161301,Steinbase,,Growth Monthly,1158,GBP,2025-10-15,active,,
+cus_2671269100,Ridgehub Ltd,ridgehub.co.uk,Starter Annual,111,GBP,2025-10-17,active,,
+cus_8796498841,Ironcloud,ironcloud.ch,Growth Annual,399,EUR,2025-10-18,canceled,2026-06-15,Too expensive after the price change
+cus_6832874646,Polderfield GmbH,,Starter Monthly,149,EUR,2025-10-18,active,,
+cus_8831215125,Steinconsult,steinconsult.co.uk,Growth Annual,343,GBP,2025-10-19,canceled,2025-10-19,
+cus_1636838449,Pioneererdata Ltd,pioneererdata.co.uk,Growth Annual,1029,GBP,2025-10-22,active,,
+cus_4980643746,Orbitacloud,orbitacloud.com,Starter Annual,139,USD,2025-10-22,active,,
+cus_7409611522,Amstelitech GmbH,,Starter Annual,129,EUR,2025-10-22,active,,
+cus_8062423094,Sonnlog,sonnlog.at,Starter Annual,129,EUR,2025-10-22,active,,
+cus_6112660604,Willowerfield N.V.,willowerfield.nl,Growth Annual,399,EUR,2025-10-22,canceled,2026-03-21,
+cus_1265796785,Pinefin,pinefin.co.uk,Growth Monthly,386,GBP,2025-10-23,active,,
+cus_8428451359,Tidalenergy AG,tidalenergy.de,Growth Monthly,898,EUR,2025-10-24,active,,
+cus_4235641213,Nordsystems GmbH,nordsystems.de,Growth Monthly,449,EUR,2025-10-25,active,,
+cus_4494805096,Kraftenretail Ltd,kraftenretail.co.uk,Growth Annual,686,GBP,2025-10-25,canceled,2026-09-20,Not using it enough
+cus_8028668814,Pioneerlog Ltd,pioneerlog.co.uk,Growth Monthly,386,GBP,2025-10-26,canceled,2025-11-25,Too expensive after the price change
+cus_9437335914,Oakfin GmbH,oakfin.de,Starter Monthly,149,EUR,2025-10-26,canceled,2026-07-23,Zu teuer geworden
+cus_1444798553,Avonhub AG,,Growth Annual,399,EUR,2025-10-27,active,,
+cus_2678067039,Bodenseeretail,bodenseeretail.de,Growth Monthly,449,EUR,2025-10-29,active,,
+cus_7216977305,Ironfin Ltd,ironfin.co.uk,Growth Annual,343,GBP,2025-10-31,active,,
+cus_6417728099,Kraftpoint AG,kraftpoint.de,Growth Monthly,1347,EUR,2025-10-31,active,,
+cus_8126144171,Deltahealth LLC,deltahealth.com,Growth Annual,431,USD,2025-11-01,active,,
+cus_8227771747,Dijkomotion GmbH,dijkomotion.de,Starter Annual,129,EUR,2025-11-02,canceled,2025-12-02,Company closed
+cus_5284478407,Hafenbase AG,hafenbase.ch,Growth Annual,399,EUR,2025-11-02,active,,
+cus_3881896701,Willowenergy Ltd,willowenergy.co.uk,Starter Annual,111,GBP,2025-11-03,active,,
+cus_8780681736,Uniontec Corp.,,Starter Annual,139,USD,2025-11-04,active,,
+cus_7305357870,Isarplast,,Growth Monthly,386,GBP,2025-11-05,active,,
+cus_8975277515,Summitiware GmbH,,Growth Annual,399,EUR,2025-11-05,active,,
+cus_9815794907,Blaumobility Corp.,blaumobility.com,Starter Annual,139,USD,2025-11-05,active,,
+cus_2759697915,Ironofin,ironofin.de,Starter Monthly,149,EUR,2025-11-05,active,,
+cus_4369460976,Orbitenconsult B.V.,orbitenconsult.nl,Starter Annual,129,EUR,2025-11-06,canceled,2026-06-04,Switched to Approvio
+cus_9144811924,Pinemotion GmbH,pinemotion.de,Growth Monthly,449,EUR,2025-11-06,active,,
+cus_3869809655,Tannlogic N.V.,tannlogic.nl,Growth Monthly,449,EUR,2025-11-06,active,,
+cus_6439601142,Vekthub GmbH & Co. KG,vekthub.de,Starter Annual,129,EUR,2025-11-07,active,,
+cus_8399558434,Kielenergy GmbH,kielenergy.de,Growth Annual,798,EUR,2025-11-08,active,,
+cus_7293861145,Tannmotion LLC,tannmotion.com,Growth Monthly,970,USD,2025-11-08,active,,
+cus_8681522438,Nimbuserline Ltd,nimbuserline.co.uk,Starter Monthly,128,GBP,2025-11-09,active,,
+cus_3433818135,Lumenbase Group plc,lumenbase.co.uk,Starter Annual,111,GBP,2025-11-09,active,,
+cus_2292752264,Elbpartners GmbH & Co. KG,elbpartners.de,Growth Monthly,449,EUR,2025-11-10,active,,
+cus_2915730258,Unionerware SE,,Growth Monthly,449,EUR,2025-11-11,past_due,,
+cus_5801397164,Summitsystems GmbH,summitsystems.de,Starter Monthly,149,EUR,2025-11-11,active,,
+cus_9028575959,Pennineercraft,pennineercraft.de,Starter Annual,129,EUR,2025-11-11,active,,
+cus_7440392063,Waldenergy LLC,waldenergy.com,Growth Monthly,485,USD,2025-11-12,active,,
+cus_1789061201,Avonprint,avonprint.de,Starter Annual,129,EUR,2025-11-12,active,,
+cus_9204434602,Steinbase Ltd,,Growth Monthly,386,GBP,2025-11-15,active,,
+cus_7382950764,Eichconsult,eichconsult.de,Growth Monthly,449,EUR,2025-11-16,active,,
+cus_4071569878,Graupoint GmbH,graupoint.de,Growth Annual,399,EUR,2025-11-16,active,,
+cus_8519954786,Spreeahub GmbH,spreeahub.de,Growth Monthly,898,EUR,2025-11-17,canceled,2025-11-17,Moved to our ERP's built-in approvals
+cus_6721654170,Ardentertrade GmbH,ardentertrade.de,Growth Annual,399,EUR,2025-11-18,active,,
+cus_8046671072,Prismapoint,,Growth Monthly,449,EUR,2025-11-18,canceled,2026-09-14,Zu teuer geworden
+cus_6647931517,Orbitform SE,orbitform.de,Growth Monthly,449,EUR,2025-11-18,active,,
+cus_6048102234,Thamesware Inc.,thamesware.com,Starter Monthly,161,USD,2025-11-18,active,,
+cus_1184939309,Avonercloud,avonercloud.co.uk,Growth Annual,343,GBP,2025-11-19,active,,
+cus_5582861636,Ruhrfield AG,,Starter Annual,129,EUR,2025-11-19,active,,
+cus_5943317106,Harborprint,harborprint.nl,Growth Annual,399,EUR,2025-11-20,active,,
+cus_2002270621,Isarfin GmbH,isarfin.de,Growth Annual,399,EUR,2025-11-20,canceled,2026-04-19,
+cus_5284477482,Spreesystems SA,spreesystems.ch,Growth Monthly,449,EUR,2025-11-21,active,,
+cus_8611484401,Kielfield,kielfield.de,Starter Annual,129,EUR,2025-11-21,active,,
+cus_9580613445,Sonnbase Corp.,sonnbase.com,Growth Annual,862,USD,2025-11-22,active,,
+cus_2544952206,Prismapoint AG,prismapoint.ch,Growth Monthly,449,EUR,2025-11-22,active,,
+cus_8055940666,Elbconsult GmbH & Co. KG,elbconsult.de,Growth Annual,399,EUR,2025-11-22,canceled,2025-11-22,Zu teuer geworden
+cus_3182385275,Willowpartners GmbH,willowpartners.de,Growth Monthly,449,EUR,2025-11-22,active,,
+cus_6535513144,Pineenenergy GmbH,pineenenergy.de,Growth Monthly,449,EUR,2025-11-22,active,,
+cus_2200001889,Coppererplast GmbH,coppererplast.de,Starter Annual,129,EUR,2025-11-23,active,,
+cus_9931805122,Tannenconsult Group plc,tannenconsult.co.uk,Growth Monthly,386,GBP,2025-11-24,active,,
+cus_8409966456,Copperbau Ltd,,Starter Annual,111,GBP,2025-11-24,active,,
+cus_6056162683,Deltahealth LLC,deltahealth.com,Starter Monthly,161,USD,2025-11-26,active,,
+cus_3516199147,Sterlingahub B.V.,sterlingahub.nl,Growth Annual,399,EUR,2025-11-28,active,,
+cus_8753023261,Lumenbau SE,lumenbau.de,Growth Annual,399,EUR,2025-11-28,active,,
+cus_9568591873,Cobaltbase,cobaltbase.com,Starter Monthly,161,USD,2025-11-28,active,,
+cus_1669059520,Deltaenergy AG,,Starter Annual,129,EUR,2025-11-29,active,,
+cus_3567115939,Moselibase GmbH,moselibase.de,Growth Annual,399,EUR,2025-11-30,active,,
+cus_3605406840,Falklogic B.V.,falklogic.nl,Starter Annual,129,EUR,2025-12-01,active,,
+cus_5058812902,Mainprint GmbH,mainprint.de,Growth Annual,399,EUR,2025-12-01,active,,
+cus_9378926441,Spreeware AG,,Growth Annual,399,EUR,2025-12-03,active,,
+cus_4681932628,Pinepartners,pinepartners.com,Starter Annual,139,USD,2025-12-05,canceled,2026-02-03,Company closed
+cus_7270831155,Amstelpoint GmbH,,Starter Monthly,149,EUR,2025-12-06,active,,
+cus_8614938749,Maplepoint Corp.,,Starter Monthly,161,USD,2025-12-07,active,,
+cus_1248019673,Tannmed,tannmed.de,Growth Monthly,1347,EUR,2025-12-09,active,,
+cus_3026904299,Lindendata Inc.,lindendata.com,Growth Monthly,485,USD,2025-12-09,active,,
+cus_6194027325,Merseymetall SE,merseymetall.de,Growth Annual,399,EUR,2025-12-10,active,,
+cus_1480003536,Deltaenprint AG,deltaenprint.de,Starter Annual,129,EUR,2025-12-10,active,,
+cus_2897320461,Quarryware B.V.,quarryware.nl,Growth Monthly,449,EUR,2025-12-12,active,,
+cus_4304170202,Rheinbau Ltd,,Starter Annual,111,GBP,2025-12-13,active,,
+cus_6095330842,Merseypoint Ltd,merseypoint.co.uk,Starter Monthly,128,GBP,2025-12-14,active,,
+cus_2300491581,Helixlog,helixlog.de,Starter Annual,129,EUR,2025-12-14,active,,
+cus_6861053434,Ardentenhub AG,ardentenhub.de,Growth Monthly,898,EUR,2025-12-16,active,,
+cus_5097981111,Berghub,berghub.de,Starter Annual,129,EUR,2025-12-17,canceled,2026-08-14,
+cus_3287451285,Polderertec Ltd,polderertec.co.uk,Starter Annual,111,GBP,2025-12-17,active,,
+cus_5868222638,Lindenfin GmbH,lindenfin.de,Starter Monthly,149,EUR,2025-12-17,canceled,2026-01-16,Company closed
+cus_2969606070,Ruhroenergy,ruhroenergy.de,Growth Monthly,449,EUR,2025-12-20,active,,
+cus_8893954758,Rheinabau GmbH,,Growth Annual,1197,EUR,2025-12-22,active,,
+cus_7257174939,Tannprint GmbH,tannprint.ch,Growth Annual,798,EUR,2025-12-23,active,,
+cus_4020013954,Graniteimobility N.V.,,Starter Annual,129,EUR,2025-12-23,canceled,2025-12-23,
+cus_9669333698,Falkcloud GmbH,falkcloud.de,Starter Annual,129,EUR,2025-12-23,active,,
+cus_8230345691,Sonnconsult B.V.,sonnconsult.nl,Growth Monthly,449,EUR,2025-12-28,active,,
+cus_5437572164,Lumensystems Group plc,lumensystems.co.uk,Growth Monthly,386,GBP,2025-12-28,active,,
+cus_6924036449,Avonmobility GmbH,avonmobility.de,Growth Monthly,449,EUR,2025-12-29,active,,
+cus_8233984261,Bergware GmbH,bergware.de,Growth Monthly,898,EUR,2025-12-30,active,,
+cus_2435673793,Helixplast AG,,Starter Monthly,149,EUR,2025-12-30,active,,
+cus_1210042677,Fjordcraft N.V.,fjordcraft.nl,Growth Annual,399,EUR,2025-12-31,active,,
+cus_1477843900,Kraftform GmbH & Co. KG,kraftform.de,Growth Monthly,449,EUR,2026-01-01,active,,
+cus_3714657827,Blauibase B.V.,blauibase.nl,Growth Annual,399,EUR,2026-01-02,canceled,2026-02-01,
+cus_4820339265,Brightfoods GmbH & Co. KG,brightfoods.de,Growth Annual,399,EUR,2026-01-02,active,,
+cus_9284194324,Alpenhub GmbH & Co. KG,alpenhub.de,Growth Annual,399,EUR,2026-01-02,canceled,2026-02-01,
+cus_2783592924,Falkworks SE,falkworks.de,Growth Monthly,1347,EUR,2026-01-02,active,,
+cus_2995687620,Polderbau,,Growth Annual,399,EUR,2026-01-03,active,,
+cus_5797629190,Kielbase Corp.,kielbase.com,Growth Monthly,485,USD,2026-01-05,active,,
+cus_1977604826,Elbcloud,elbcloud.co.uk,Starter Monthly,128,GBP,2026-01-06,active,,
+cus_3333243511,Merseyisystems,,Growth Annual,399,EUR,2026-01-06,active,,
+cus_6049922149,Unionaplast Corp.,unionaplast.com,Growth Annual,431,USD,2026-01-06,active,,
+cus_1258138249,Kielpoint Ltd,kielpoint.co.uk,Starter Monthly,128,GBP,2026-01-06,active,,
+cus_2254786976,Polderostack N.V.,polderostack.nl,Starter Annual,129,EUR,2026-01-07,active,,
+cus_7934776726,Penninesystems,penninesystems.de,Starter Annual,129,EUR,2026-01-08,active,,
+cus_4709227181,Berghub,,Starter Monthly,149,EUR,2026-01-08,active,,
+cus_6049868571,Moselaworks B.V.,,Starter Monthly,149,EUR,2026-01-09,active,,
+cus_4640745872,Tidalsoft GmbH & Co. KG,tidalsoft.de,Growth Monthly,1347,EUR,2026-01-10,active,,
+cus_4321162370,Helixertech B.V.,helixertech.nl,Growth Annual,399,EUR,2026-01-10,active,,
+cus_8563302745,Zuidstack SE,zuidstack.de,Growth Monthly,449,EUR,2026-01-13,active,,
+cus_9740217329,Polderbase SE,polderbase.de,Starter Annual,129,EUR,2026-01-16,active,,
+cus_4669356235,Sonnmed B.V.,sonnmed.nl,Growth Monthly,449,EUR,2026-01-16,active,,
+cus_6858880865,Helixmed Group plc,helixmed.co.uk,Growth Annual,1029,GBP,2026-01-17,active,,
+cus_9485521895,Pennineentech B.V.,pennineentech.nl,Growth Monthly,449,EUR,2026-01-17,active,,
+cus_3045821270,Rheincloud,rheincloud.com,Growth Monthly,1455,USD,2026-01-17,active,,
+cus_9707236821,Oakline GmbH,oakline.de,Starter Monthly,149,EUR,2026-01-21,active,,
+cus_1690069370,Coppercraft LLC,coppercraft.com,Growth Monthly,485,USD,2026-01-22,active,,
+cus_6736353487,Pennineodata,pennineodata.nl,Starter Monthly,149,EUR,2026-01-22,active,,
+cus_3379421140,Kraftconsult AG,kraftconsult.de,Starter Annual,129,EUR,2026-01-22,active,,
+cus_2992843855,Oakocraft LLC,oakocraft.com,Growth Monthly,485,USD,2026-01-25,active,,
+cus_3755440940,Kesselercraft AG,kesselercraft.de,Growth Annual,1197,EUR,2026-01-27,active,,
+cus_1087271302,Summitlogic GmbH & Co. KG,summitlogic.de,Growth Annual,399,EUR,2026-01-27,active,,
+cus_6258931415,Copperstack AG,,Growth Annual,399,EUR,2026-01-30,active,,
+cus_5968297799,Lumensystems Group plc,,Starter Annual,111,GBP,2026-01-30,canceled,2026-03-01,
+cus_8070398148,Neckarconsult,,Starter Monthly,128,GBP,2026-01-30,active,,
+cus_7556826568,Havensystems GmbH,havensystems.at,Starter Monthly,149,EUR,2026-01-31,active,,
+cus_2796576256,Alpenstack SE,alpenstack.de,Starter Monthly,175,EUR,2026-02-03,active,,
+cus_1171911163,Neckartrade SE,neckartrade.de,Starter Monthly,175,EUR,2026-02-04,active,,
+cus_9353067798,Sterlingsystems AG,sterlingsystems.de,Growth Annual,470,EUR,2026-02-05,active,,
+cus_1753281023,Pioneerenergy,pioneerenergy.de,Starter Annual,152,EUR,2026-02-07,active,,
+cus_6955420834,Eichmed Ltd,eichmed.co.uk,Starter Monthly,150,GBP,2026-02-08,active,,
+cus_2519037755,Neckarhealth GmbH,neckarhealth.ch,Growth Annual,470,EUR,2026-02-08,active,,
+cus_8162887528,Lindencraft AG,lindencraft.ch,Starter Annual,152,EUR,2026-02-09,active,,
+cus_8041353956,Neckarsystems,neckarsystems.nl,Growth Annual,470,EUR,2026-02-09,active,,
+cus_5688335784,Lagomobility Group plc,lagomobility.co.uk,Growth Monthly,455,GBP,2026-02-09,active,,
+cus_4656769737,Tidalmed AG,tidalmed.de,Growth Monthly,529,EUR,2026-02-10,active,,
+cus_5128631467,Pioneerfield Ltd,pioneerfield.co.uk,Starter Annual,131,GBP,2026-02-11,active,,
+cus_4869103355,Ridgeplast GmbH,,Growth Annual,470,EUR,2026-02-12,canceled,2026-08-11,Zu teuer geworden
+cus_4661861277,Blauretail Corp.,blauretail.com,Growth Monthly,571,USD,2026-02-12,active,,
+cus_9314515328,Lindenoware AG,lindenoware.at,Growth Annual,470,EUR,2026-02-13,active,,
+cus_6886758151,Lumenprint N.V.,lumenprint.nl,Growth Monthly,529,EUR,2026-02-14,active,,
+cus_7861223434,Bergsystems,bergsystems.de,Starter Annual,152,EUR,2026-02-15,active,,
+cus_3936589020,Falklogic B.V.,falklogic.nl,Starter Annual,152,EUR,2026-02-15,active,,
+cus_8681032017,Neckarastack SE,neckarastack.de,Growth Annual,470,EUR,2026-02-15,active,,
+cus_8506145375,Elbgate,elbgate.de,Growth Annual,470,EUR,2026-02-16,active,,
+cus_5280106943,Merseyenlog,merseyenlog.co.uk,Growth Annual,404,GBP,2026-02-16,active,,
+cus_7195251138,Isarware GmbH,isarware.ch,Starter Annual,152,EUR,2026-02-19,canceled,2026-09-17,Moved to our ERP's built-in approvals
+cus_9549831423,Sonnfield GmbH,,Starter Monthly,175,EUR,2026-02-21,active,,
+cus_9291068772,Elbagate GmbH & Co. KG,,Starter Monthly,175,EUR,2026-02-21,active,,
+cus_2675087989,Keystoneamotion Group plc,keystoneamotion.co.uk,Growth Monthly,455,GBP,2026-02-22,active,,
+cus_4933776796,Eichform GmbH,eichform.ch,Starter Annual,152,EUR,2026-02-22,canceled,2026-03-24,Budget cuts
+cus_2159108183,Graulogic,graulogic.at,Growth Annual,470,EUR,2026-02-22,active,,
+cus_8154788100,Thamesgate Corp.,thamesgate.com,Growth Annual,508,USD,2026-02-23,canceled,2026-06-23,Zu teuer geworden
+cus_2145902262,Waldmobility Ltd,waldmobility.co.uk,Growth Monthly,455,GBP,2026-02-24,canceled,2026-05-25,Switched to Approvio
+cus_8378887780,Vekttec GmbH,vekttec.de,Growth Annual,470,EUR,2026-02-26,active,,
+cus_3749393673,Blauigate Group plc,blauigate.co.uk,Growth Monthly,1365,GBP,2026-02-28,active,,
+cus_4866100405,Bergenline Ltd,bergenline.co.uk,Growth Annual,404,GBP,2026-03-01,active,,
+cus_6513303540,Spreeplast Inc.,spreeplast.com,Starter Monthly,189,USD,2026-03-01,active,,
+cus_2253968188,Thamestech,,Starter Annual,164,USD,2026-03-02,past_due,,
+cus_3969281166,Sterlingtrade GmbH & Co. KG,sterlingtrade.de,Starter Annual,152,EUR,2026-03-02,canceled,2026-09-28,Too expensive after the price change
+cus_6024932939,Blauenergy N.V.,,Starter Annual,152,EUR,2026-03-05,active,,
+cus_1787429289,Sterlingersystems GmbH & Co. KG,sterlingersystems.de,Growth Annual,470,EUR,2026-03-06,active,,
+cus_4091320108,Merseytec B.V.,merseytec.nl,Starter Annual,152,EUR,2026-03-09,active,,
+cus_4326393283,Summitdata Ltd,summitdata.co.uk,Starter Monthly,150,GBP,2026-03-09,past_due,,
+cus_1212579296,Nimbusodata GmbH & Co. KG,,Growth Annual,470,EUR,2026-03-10,active,,
+cus_8995832506,Nimbuscraft Inc.,nimbuscraft.com,Growth Annual,508,USD,2026-03-10,active,,
+cus_8364246586,Unionofield GmbH,unionofield.de,Starter Annual,152,EUR,2026-03-11,active,,
+cus_8592849171,Amsteltec B.V.,amsteltec.nl,Starter Monthly,175,EUR,2026-03-11,active,,
+cus_6590819540,Deltahub AG,deltahub.de,Growth Monthly,529,EUR,2026-03-13,canceled,2026-03-13,Moved to our ERP's built-in approvals
+cus_8282827317,Lindenmed,lindenmed.nl,Starter Annual,152,EUR,2026-03-15,active,,
+cus_5418292807,Havenotrade LLC,havenotrade.com,Growth Monthly,571,USD,2026-03-17,active,,
+cus_7948295530,Vistaform AG,vistaform.de,Starter Monthly,175,EUR,2026-03-17,active,,
+cus_4112298557,Steinconsult Ltd,,Growth Monthly,455,GBP,2026-03-19,active,,
+cus_8778188452,Lindenfin,lindenfin.de,Growth Monthly,529,EUR,2026-03-20,active,,
+cus_8276387519,Prismafoods B.V.,prismafoods.nl,Growth Monthly,529,EUR,2026-03-21,active,,
+cus_6848027421,Ostmobility Ltd,ostmobility.co.uk,Starter Monthly,150,GBP,2026-03-22,active,,
+cus_7073216760,Moselretail GmbH,moselretail.de,Growth Annual,470,EUR,2026-03-22,active,,
+cus_4475842355,Mainergate B.V.,mainergate.nl,Starter Annual,152,EUR,2026-03-24,active,,
+cus_6829999683,Ardentworks Ltd,,Growth Annual,404,GBP,2026-03-26,active,,
+cus_6387246055,Pinehub GmbH,pinehub.at,Growth Monthly,529,EUR,2026-03-26,active,,
+cus_1659056649,Juniperlogic SA,,Growth Monthly,529,EUR,2026-03-27,active,,
+cus_2608326487,Orbitenergy Inc.,orbitenergy.com,Starter Monthly,189,USD,2026-03-28,active,,
+cus_5779144244,Ardentform,ardentform.com,Starter Annual,164,USD,2026-03-30,active,,
+cus_8236708042,Fjordmetall,fjordmetall.de,Starter Monthly,175,EUR,2026-04-01,active,,
+cus_3225136206,Lichtplast Inc.,lichtplast.com,Growth Monthly,571,USD,2026-04-02,active,,
+cus_2332405841,Elbstack,elbstack.com,Starter Annual,164,USD,2026-04-02,active,,
+cus_6820413833,Vistamobility LLC,vistamobility.com,Growth Annual,508,USD,2026-04-02,active,,
+cus_2984082021,Lagoconsult,lagoconsult.com,Starter Monthly,189,USD,2026-04-03,active,,
+cus_2793260231,Nimbusform AG,,Starter Monthly,175,EUR,2026-04-03,active,,
+cus_1927710617,Ardentpartners GmbH,ardentpartners.at,Starter Monthly,175,EUR,2026-04-04,active,,
+cus_6293212618,Granitemotion GmbH,granitemotion.de,Starter Monthly,175,EUR,2026-04-05,active,,
+cus_9781192704,Lagosoft,lagosoft.de,Starter Monthly,175,EUR,2026-04-05,active,,
+cus_6587552234,Kesselform Corp.,kesselform.com,Starter Annual,164,USD,2026-04-06,active,,
+cus_4547673278,Kesselcraft GmbH,kesselcraft.de,Starter Annual,152,EUR,2026-04-06,active,,
+cus_4173438095,Ridgefin Corp.,ridgefin.com,Growth Monthly,571,USD,2026-04-06,active,,
+cus_6650751088,Tannlogic,tannlogic.nl,Growth Annual,470,EUR,2026-04-07,active,,
+cus_6022360045,Saxonbase,saxonbase.co.uk,Growth Monthly,455,GBP,2026-04-08,past_due,,
+cus_7150328212,Willowsoft AG,willowsoft.at,Growth Annual,1410,EUR,2026-04-08,active,,
+cus_8007175232,Unionbau LLC,,Starter Monthly,189,USD,2026-04-10,active,,
+cus_2218807290,Cobaltmetall,cobaltmetall.com,Growth Annual,508,USD,2026-04-10,canceled,2026-05-10,Switched to Approvio
+cus_8495196579,Berglogic,berglogic.de,Growth Annual,470,EUR,2026-04-11,active,,
+cus_1081280383,Harborpartners,harborpartners.de,Starter Annual,152,EUR,2026-04-13,active,,
+cus_2080632031,Lindenmotion,lindenmotion.co.uk,Growth Annual,404,GBP,2026-04-14,canceled,2026-10-11,
+cus_4656256392,Grauplast SE,,Starter Monthly,175,EUR,2026-04-14,active,,
+cus_3548899184,Blauplast Corp.,,Starter Monthly,189,USD,2026-04-14,active,,
+cus_7025022457,Willowfoods Inc.,willowfoods.com,Starter Annual,164,USD,2026-04-14,active,,
+cus_4596573315,Elbpoint Inc.,elbpoint.com,Growth Annual,508,USD,2026-04-15,active,,
+cus_8041497069,Isartrade,isartrade.de,Starter Annual,152,EUR,2026-04-15,active,,
+cus_1985969024,Prismafoods,prismafoods.nl,Growth Annual,470,EUR,2026-04-16,active,,
+cus_2646511508,Tannenconsult Group plc,,Starter Annual,131,GBP,2026-04-17,active,,
+cus_8785553670,Neckarline AG,,Starter Annual,152,EUR,2026-04-19,active,,
+cus_6093402685,Bodenseeafin GmbH,bodenseeafin.at,Growth Monthly,529,EUR,2026-04-19,active,,
+cus_5854859573,Graniteermed,graniteermed.de,Starter Monthly,175,EUR,2026-04-20,active,,
+cus_3800731710,Isardata SE,isardata.de,Growth Annual,470,EUR,2026-04-20,active,,
+cus_4438506188,Rheinline Ltd,rheinline.co.uk,Starter Annual,131,GBP,2026-04-20,active,,
+cus_3206375049,Uniontec,,Starter Monthly,189,USD,2026-04-20,canceled,2026-04-20,Moved to our ERP's built-in approvals
+cus_6214205037,Ardentplast,ardentplast.nl,Starter Monthly,175,EUR,2026-04-21,active,,
+cus_8631026812,Rheintrade AG,rheintrade.de,Growth Monthly,529,EUR,2026-04-22,canceled,2026-05-22,Budget cuts
+cus_4529768118,Waldmed,waldmed.com,Growth Monthly,571,USD,2026-04-23,canceled,2026-08-21,Too expensive after the price change
+cus_5290713333,Eichbau AG,,Starter Annual,152,EUR,2026-04-24,active,,
+cus_1977888926,Keystoneofield GmbH & Co. KG,keystoneofield.de,Starter Monthly,175,EUR,2026-04-24,active,,
+cus_1723039595,Granitemotion,granitemotion.de,Starter Annual,152,EUR,2026-04-27,canceled,2026-06-26,Company closed
+cus_2191122721,Isarstack Ltd,isarstack.co.uk,Growth Monthly,455,GBP,2026-04-27,active,,
+cus_6957472865,Isarbau,isarbau.de,Growth Annual,470,EUR,2026-04-27,active,,
+cus_9269997091,Ruhrfield AG,ruhrfield.de,Starter Annual,152,EUR,2026-04-27,canceled,2026-10-24,Moved to our ERP's built-in approvals
+cus_9348108447,Thamesbau,,Starter Annual,152,EUR,2026-04-28,active,,
+cus_3077359014,Summiterconsult GmbH & Co. KG,summiterconsult.de,Growth Annual,470,EUR,2026-04-29,active,,
+cus_2996738433,Sterlingpoint AG,sterlingpoint.ch,Starter Monthly,175,EUR,2026-04-29,active,,
+cus_4163088028,Waldmobility,waldmobility.co.uk,Growth Monthly,455,GBP,2026-05-01,active,,
+cus_1444969445,Falkfield,falkfield.de,Growth Monthly,529,EUR,2026-05-03,active,,
+cus_1180646863,Amstelitech,amstelitech.at,Growth Annual,470,EUR,2026-05-04,canceled,2026-06-03,Switched to Approvio
+cus_7689513615,Lagohub GmbH,lagohub.de,Growth Annual,470,EUR,2026-05-04,active,,
+cus_1715625342,Kielometall,kielometall.com,Starter Monthly,189,USD,2026-05-04,active,,
+cus_3801755923,Pennineodata B.V.,pennineodata.nl,Starter Annual,152,EUR,2026-05-04,active,,
+cus_8048530543,Havenprint Ltd,havenprint.co.uk,Starter Monthly,150,GBP,2026-05-05,active,,
+cus_5076314195,Quarryplast,quarryplast.nl,Starter Annual,152,EUR,2026-05-08,active,,
+cus_1619559363,Kraftcraft B.V.,kraftcraft.nl,Starter Monthly,175,EUR,2026-05-10,active,,
+cus_9111738539,Bodenseeiware,bodenseeiware.nl,Growth Annual,470,EUR,2026-05-11,canceled,2026-08-09,
+cus_6628569500,Eichsystems B.V.,eichsystems.nl,Starter Monthly,175,EUR,2026-05-12,canceled,2026-08-10,Budget cuts
+cus_4124644810,Lagomed Inc.,lagomed.com,Starter Annual,164,USD,2026-05-12,active,,
+cus_3149956663,Oakocraft LLC,oakocraft.com,Growth Annual,508,USD,2026-05-15,active,,
+cus_3308766765,Ironfin Ltd,ironfin.co.uk,Growth Annual,404,GBP,2026-05-16,active,,
+cus_4354879684,Grauomobility SE,grauomobility.de,Starter Monthly,175,EUR,2026-05-17,active,,
+cus_1635801217,Neckarenline,,Growth Annual,470,EUR,2026-05-18,active,,
+cus_9606338637,Sterlingsystems AG,sterlingsystems.de,Growth Annual,470,EUR,2026-05-19,active,,
+cus_5864731642,Eichlogic,eichlogic.de,Growth Monthly,529,EUR,2026-05-20,active,,
+cus_7166120180,Krafttec SA,krafttec.ch,Growth Annual,940,EUR,2026-05-20,active,,
+cus_6876387706,Nimbuserline Ltd,,Growth Monthly,455,GBP,2026-05-20,active,,
+cus_2713952745,Sonngate,sonngate.co.uk,Growth Monthly,455,GBP,2026-05-21,active,,
+cus_1666807789,Deltahub AG,,Growth Monthly,529,EUR,2026-05-22,active,,
+cus_4962286897,Cobaltpartners GmbH,cobaltpartners.de,Growth Annual,470,EUR,2026-05-23,active,,
+cus_7847139084,Summitbase GmbH & Co. KG,summitbase.de,Starter Annual,152,EUR,2026-05-23,active,,
+cus_8328171033,Blauaform GmbH,blauaform.at,Starter Annual,152,EUR,2026-05-23,active,,
+cus_7520997904,Steintech Corp.,steintech.com,Starter Annual,164,USD,2026-05-23,active,,
+cus_4000102735,Juniperware Inc.,juniperware.com,Growth Monthly,571,USD,2026-05-24,past_due,,
+cus_6328730905,Ridgeocloud GmbH & Co. KG,ridgeocloud.de,Growth Annual,470,EUR,2026-05-24,active,,
+cus_2775211754,Summitlogic GmbH & Co. KG,summitlogic.de,Starter Annual,152,EUR,2026-05-25,active,,
+cus_1268371539,Elbmed Ltd,,Starter Annual,131,GBP,2026-05-25,active,,
+cus_6080494821,Hafenenergy Inc.,hafenenergy.com,Starter Monthly,189,USD,2026-05-26,active,,
+cus_7793239066,Moselercloud Inc.,,Growth Annual,508,USD,2026-05-26,active,,
+cus_3025583113,Lichtbau,lichtbau.nl,Starter Annual,152,EUR,2026-05-28,active,,
+cus_7928605877,Brightbau,brightbau.nl,Growth Monthly,529,EUR,2026-05-29,past_due,,
+cus_4705024591,Bergline Inc.,bergline.com,Starter Monthly,189,USD,2026-05-31,active,,
+cus_8198040283,Avoniline GmbH & Co. KG,avoniline.de,Starter Annual,152,EUR,2026-06-02,canceled,2026-08-01,
+cus_6230602769,Willowpartners,willowpartners.de,Starter Annual,152,EUR,2026-06-02,active,,
+cus_2621931436,Mainline AG,,Growth Annual,470,EUR,2026-06-04,active,,
+cus_5668087161,Eichform GmbH,eichform.ch,Growth Monthly,529,EUR,2026-06-05,active,,
+cus_9373274985,Mainmed GmbH,mainmed.ch,Growth Monthly,1058,EUR,2026-06-06,canceled,2026-08-05,Company closed
+cus_2478459855,Merseyretail Inc.,merseyretail.com,Starter Annual,164,USD,2026-06-07,active,,
+cus_4901464729,Eicherpoint Inc.,,Starter Annual,164,USD,2026-06-08,active,,
+cus_5721089075,Rheinamed GmbH,rheinamed.de,Starter Monthly,175,EUR,2026-06-09,active,,
+cus_3366452464,Thamesfoods SE,thamesfoods.de,Starter Annual,152,EUR,2026-06-12,active,,
+cus_9724060992,Hafenifield,,Starter Annual,152,EUR,2026-06-12,active,,
+cus_6802541849,Rheingate B.V.,rheingate.nl,Growth Annual,470,EUR,2026-06-14,canceled,2026-09-12,Switched to Approvio
+cus_8205592123,Avonabau Ltd,avonabau.co.uk,Growth Monthly,455,GBP,2026-06-14,canceled,2026-10-12,Too expensive after the price change
+cus_2354484481,Mainline AG,mainline.ch,Starter Annual,152,EUR,2026-06-16,canceled,2026-10-14,Switched to Approvio
+cus_8345033087,Bergsystems GmbH & Co. KG,bergsystems.de,Starter Annual,152,EUR,2026-06-18,active,,
+cus_5327001118,Waldofin AG,waldofin.de,Starter Annual,152,EUR,2026-06-18,active,,
+cus_3234468002,Nimbushub B.V.,,Starter Monthly,175,EUR,2026-06-20,active,,
+cus_4976172749,Neckarmobility,neckarmobility.de,Starter Monthly,175,EUR,2026-06-20,active,,
+cus_8829193211,Juniperline,juniperline.de,Growth Monthly,529,EUR,2026-06-22,active,,
+cus_6204580416,Graniteenergy GmbH & Co. KG,graniteenergy.de,Starter Monthly,175,EUR,2026-06-23,active,,
+cus_4603785531,Hafenworks SE,hafenworks.de,Growth Monthly,529,EUR,2026-06-24,active,,
+cus_1400490274,Juniperworks Ltd,juniperworks.co.uk,Growth Monthly,910,GBP,2026-06-24,active,,
+cus_1175100803,Fjordfin SE,fjordfin.de,Growth Monthly,529,EUR,2026-06-24,active,,
+cus_9986314975,Hafentrade GmbH,hafentrade.at,Growth Monthly,529,EUR,2026-06-25,active,,
+cus_7891324670,Polderifin GmbH & Co. KG,polderifin.de,Growth Monthly,529,EUR,2026-06-25,active,,
+cus_1015090994,Zuidmotion,zuidmotion.nl,Growth Annual,470,EUR,2026-06-25,active,,
+cus_2102609814,Elbprint Inc.,elbprint.com,Growth Annual,508,USD,2026-06-26,active,,
+cus_3248148521,Zuidfin,zuidfin.de,Growth Monthly,529,EUR,2026-06-27,active,,
+cus_9569161427,Nordmobility Inc.,nordmobility.com,Growth Monthly,571,USD,2026-06-28,active,,
+cus_3829529393,Tidalbase Corp.,tidalbase.com,Starter Annual,164,USD,2026-06-29,active,,
+cus_4726226514,Tidalendata Inc.,,Starter Monthly,189,USD,2026-07-01,active,,
+cus_6281642419,Prismatec Inc.,prismatec.com,Growth Annual,508,USD,2026-07-03,active,,
+cus_5167506770,Isarihealth AG,,Growth Annual,470,EUR,2026-07-03,active,,
+cus_7753519657,Amstelplast GmbH,amstelplast.de,Growth Monthly,529,EUR,2026-07-04,active,,
+cus_9509714656,Pioneerdata GmbH,,Growth Monthly,529,EUR,2026-07-05,active,,
+cus_3065382571,Cobaltconsult Corp.,cobaltconsult.com,Starter Annual,164,USD,2026-07-07,active,,
+cus_7788543986,Isarware,isarware.ch,Growth Annual,470,EUR,2026-07-07,active,,
+cus_1429051098,Lichtatrade Group plc,lichtatrade.co.uk,Starter Monthly,150,GBP,2026-07-07,active,,
+cus_3318754730,Merseyprint GmbH,merseyprint.de,Growth Monthly,529,EUR,2026-07-08,past_due,,
+cus_7306334858,Maplefield Inc.,maplefield.com,Starter Monthly,189,USD,2026-07-08,active,,
+cus_4530432282,Tidalsystems LLC,tidalsystems.com,Starter Monthly,189,USD,2026-07-11,active,,
+cus_6244974631,Lumenform GmbH & Co. KG,,Growth Annual,470,EUR,2026-07-12,active,,
+cus_9435691162,Orbitworks GmbH & Co. KG,,Starter Monthly,175,EUR,2026-07-12,active,,
+cus_6168373924,Quarrycraft Inc.,quarrycraft.com,Growth Monthly,571,USD,2026-07-12,active,,
+cus_7711937447,Mainitech Group plc,mainitech.co.uk,Growth Annual,404,GBP,2026-07-14,active,,
+cus_1835229043,Lichtplast Inc.,lichtplast.com,Growth Monthly,571,USD,2026-07-15,active,,
+cus_8724339567,Kielline AG,kielline.at,Growth Monthly,529,EUR,2026-07-15,active,,
+cus_6834408472,Dijklogic Group plc,dijklogic.co.uk,Growth Annual,404,GBP,2026-07-17,active,,
+cus_5486498949,Mapleconsult,,Growth Annual,470,EUR,2026-07-18,past_due,,
+cus_4614373335,Isarbau AG,,Starter Monthly,175,EUR,2026-07-18,active,,
+cus_2373008002,Pineware Group plc,pineware.co.uk,Starter Monthly,150,GBP,2026-07-19,active,,
+cus_2396106419,Maplefield Inc.,,Starter Monthly,189,USD,2026-07-19,active,,
+cus_1411745080,Pioneerware GmbH,pioneerware.de,Growth Annual,470,EUR,2026-07-19,active,,
+cus_7020880604,Oakocraft,,Starter Monthly,189,USD,2026-07-22,active,,
+cus_5446373847,Unionpartners,unionpartners.com,Growth Annual,508,USD,2026-07-24,active,,
+cus_7042016426,Kielretail GmbH,kielretail.de,Growth Annual,470,EUR,2026-07-27,active,,
+cus_9328725381,Sterlinggate Ltd,sterlinggate.co.uk,Growth Monthly,455,GBP,2026-07-28,active,,
+cus_8922573802,Nordsoft GmbH,nordsoft.de,Starter Annual,152,EUR,2026-07-29,active,,
+cus_8275450672,Vektconsult Inc.,vektconsult.com,Growth Annual,508,USD,2026-07-30,canceled,2026-08-29,Zu teuer geworden
+cus_2072564650,Alpenprint,alpenprint.de,Starter Monthly,175,EUR,2026-08-01,active,,
+cus_8881599891,Copperdata LLC,copperdata.com,Growth Monthly,571,USD,2026-08-01,active,,
+cus_1072381271,Spreehealth GmbH,spreehealth.at,Starter Annual,152,EUR,2026-08-01,active,,
+cus_6623887051,Summitmed GmbH & Co. KG,summitmed.de,Growth Monthly,529,EUR,2026-08-02,active,,
+cus_1766270382,Maplecraft,maplecraft.com,Growth Annual,508,USD,2026-08-05,active,,
+cus_8871002374,Brightfoods GmbH & Co. KG,brightfoods.de,Growth Monthly,529,EUR,2026-08-05,active,,
+cus_9490662262,Isarfin GmbH,isarfin.de,Growth Monthly,1058,EUR,2026-08-10,active,,
+cus_5792376220,Dijkdata Ltd,dijkdata.co.uk,Starter Annual,131,GBP,2026-08-12,active,,
+cus_5617423848,Lagohealth Inc.,lagohealth.com,Growth Monthly,1142,USD,2026-08-13,active,,
+cus_5722695055,Bodenseeafin GmbH,bodenseeafin.at,Growth Annual,470,EUR,2026-08-15,canceled,2026-10-14,Zu teuer geworden
+cus_2796175029,Brightline GmbH,brightline.de,Starter Annual,152,EUR,2026-08-16,active,,
+cus_1767076307,Vektasystems LLC,vektasystems.com,Starter Annual,164,USD,2026-08-17,active,,
+cus_4445804471,Neckarpoint,neckarpoint.ch,Starter Annual,152,EUR,2026-08-17,active,,
+cus_3266775853,Grauomobility SE,grauomobility.de,Growth Annual,470,EUR,2026-08-18,active,,
+cus_2727672128,Bodenseeiplast GmbH,bodenseeiplast.de,Growth Annual,470,EUR,2026-08-20,active,,
+cus_9784941369,Nordaware GmbH,nordaware.de,Growth Monthly,529,EUR,2026-08-21,active,,
+cus_2877926130,Saxonaretail,saxonaretail.co.uk,Growth Annual,404,GBP,2026-08-21,active,,
+cus_3412396840,Kielcraft GmbH,,Growth Annual,470,EUR,2026-08-22,active,,
+cus_6988457018,Orbitenconsult,,Starter Monthly,175,EUR,2026-08-25,active,,
+cus_7455517714,Havenencraft AG,havenencraft.de,Growth Annual,470,EUR,2026-08-28,active,,
+cus_7901404788,Ruhrhealth GmbH,ruhrhealth.de,Starter Annual,152,EUR,2026-08-30,active,,
+cus_3020697893,Bergconsult GmbH,,Starter Annual,152,EUR,2026-09-01,canceled,2026-09-01,Moved to our ERP's built-in approvals
+cus_1211559295,Summitdata,summitdata.co.uk,Starter Annual,131,GBP,2026-09-01,active,,
+cus_6131078720,Isarerform B.V.,isarerform.nl,Starter Monthly,175,EUR,2026-09-02,active,,
+cus_4844618764,Isarbase,isarbase.at,Starter Annual,152,EUR,2026-09-03,past_due,,
+cus_6230829081,Ostoline Inc.,ostoline.com,Growth Monthly,571,USD,2026-09-03,active,,
+cus_7369042556,Vektbau,vektbau.com,Starter Monthly,189,USD,2026-09-04,active,,
+cus_4424011450,Pennineerpoint Inc.,pennineerpoint.com,Growth Annual,508,USD,2026-09-06,active,,
+cus_5052482546,Bodenseeiware B.V.,bodenseeiware.nl,Growth Monthly,529,EUR,2026-09-06,active,,
+cus_4561790623,Pinedata SE,pinedata.de,Starter Monthly,175,EUR,2026-09-07,active,,
+cus_7738646920,Lindenmotion,lindenmotion.co.uk,Starter Annual,131,GBP,2026-09-08,active,,
+cus_5655870905,Pinelogic B.V.,pinelogic.nl,Starter Annual,152,EUR,2026-09-08,active,,
+cus_3569073519,Isarretail GmbH,isarretail.at,Growth Monthly,529,EUR,2026-09-09,past_due,,
+cus_5692511140,Graniteprint N.V.,graniteprint.nl,Starter Annual,152,EUR,2026-09-09,active,,
+cus_8723005156,Cobaltensystems,cobaltensystems.de,Growth Monthly,529,EUR,2026-09-11,active,,
+cus_8657390403,Falkstack Ltd,,Starter Annual,131,GBP,2026-09-11,active,,
+cus_4031367086,Ruhrmetall GmbH,ruhrmetall.de,Growth Annual,470,EUR,2026-09-13,active,,
+cus_8199295599,Helixlog GmbH,,Growth Annual,470,EUR,2026-09-13,active,,
+cus_5951762572,Merseyhub,merseyhub.co.uk,Growth Monthly,455,GBP,2026-09-14,active,,
+cus_1840302299,Eichline AG,eichline.de,Starter Annual,152,EUR,2026-09-18,active,,
+cus_3914079561,Havenmetall,havenmetall.com,Growth Monthly,571,USD,2026-09-19,active,,
+cus_7676891852,Saxonbase Ltd,saxonbase.co.uk,Growth Monthly,455,GBP,2026-09-19,active,,
+cus_6736539696,Cobaltmetall Inc.,,Starter Annual,164,USD,2026-09-20,active,,
+cus_4271344295,Quarrylogic SE,quarrylogic.de,Starter Annual,152,EUR,2026-09-20,active,,
+cus_1440524373,Isarerform B.V.,isarerform.nl,Starter Annual,152,EUR,2026-09-21,active,,
+cus_2932916001,Ridgeafield,ridgeafield.nl,Starter Annual,152,EUR,2026-09-21,active,,
+cus_7471107565,Hafenertec GmbH,,Starter Annual,152,EUR,2026-09-22,active,,
+cus_3044370737,Thamesihealth GmbH,thamesihealth.de,Growth Annual,470,EUR,2026-09-23,active,,
+cus_2542014236,Ironsoft Inc.,ironsoft.com,Starter Annual,164,USD,2026-09-23,active,,
+cus_8380509254,Kieltrade Corp.,kieltrade.com,Starter Annual,164,USD,2026-09-24,active,,
+cus_5244756553,Lumenapoint B.V.,lumenapoint.nl,Growth Monthly,529,EUR,2026-09-25,active,,
+cus_1113920443,Ironware AG,,Growth Monthly,529,EUR,2026-09-26,active,,
+cus_9016295063,Steindata Inc.,steindata.com,Growth Monthly,571,USD,2026-09-28,active,,
+cus_1596259735,Deltaenprint AG,deltaenprint.de,Growth Annual,470,EUR,2026-09-29,active,,
+cus_8405136279,Willowometall GmbH,willowometall.de,Starter Annual,152,EUR,2026-09-30,active,,
+cus_8432351610,Saxonstack,saxonstack.de,Starter Annual,152,EUR,2026-09-30,active,,
+cus_6782158920,Graniteline,graniteline.ch,Growth Monthly,529,EUR,2026-09-30,active,,
+cus_5024028420,Avonconsult LLC,avonconsult.com,Starter Annual,164,USD,2026-09-30,active,,
+cus_1646125879,Waldpoint,waldpoint.com,Growth Monthly,571,USD,2026-10-01,active,,
+cus_1361504824,Tanntech,tanntech.de,Growth Monthly,529,EUR,2026-10-01,active,,
+cus_7256545064,Alpensoft SE,alpensoft.de,Starter Annual,152,EUR,2026-10-03,active,,
+cus_5225264965,Helixensoft,helixensoft.com,Starter Annual,164,USD,2026-10-05,active,,
+cus_7282527868,Lumensystems,,Growth Annual,404,GBP,2026-10-07,active,,
+cus_8443467001,Vistaprint,vistaprint.de,Growth Monthly,529,EUR,2026-10-09,active,,
+cus_7246417662,Havenisoft GmbH & Co. KG,havenisoft.de,Growth Monthly,529,EUR,2026-10-09,active,,
+cus_7985190599,Tidalbase Corp.,,Starter Annual,164,USD,2026-10-10,active,,
+cus_4803132993,Steincloud Inc.,steincloud.com,Growth Monthly,571,USD,2026-10-10,active,,
+cus_3140110310,Lichtconsult GmbH,lichtconsult.de,Growth Annual,470,EUR,2026-10-10,active,,
+cus_1639309924,Pineenergy Inc.,pineenergy.com,Starter Annual,164,USD,2026-10-11,active,,
+cus_9302141223,Blauenergy N.V.,blauenergy.nl,Starter Monthly,175,EUR,2026-10-11,active,,
+cus_4489355620,Harborosoft GmbH,harborosoft.de,Starter Monthly,175,EUR,2026-10-11,active,,
+cus_2314036042,Falkcloud,falkcloud.de,Growth Annual,470,EUR,2026-10-11,active,,
+cus_5478066448,Avonmetall,avonmetall.com,Starter Monthly,189,USD,2026-10-11,active,,
+cus_3666332727,Hafenerstack SA,hafenerstack.ch,Starter Monthly,175,EUR,2026-10-12,active,,
+cus_6660963367,Vektbau,vektbau.com,Starter Monthly,189,USD,2026-10-13,active,,
+cus_2875717600,Havenmotion GmbH,,Growth Annual,470,EUR,2026-10-14,active,,
+cus_6247901635,Maplesoft,maplesoft.de,Growth Annual,470,EUR,2026-10-14,active,,
+cus_5815829292,Nimbusfin GmbH & Co. KG,nimbusfin.de,Starter Annual,152,EUR,2026-10-15,active,,
+cus_6433330294,Ardentprint Inc.,,Starter Monthly,189,USD,2026-10-15,active,,
+cus_6041864705,Saxonbase,saxonbase.co.uk,Growth Monthly,455,GBP,2026-10-17,active,,
+cus_8924087078,Alpenosoft,alpenosoft.de,Growth Annual,470,EUR,2026-10-18,active,,
+cus_4558755366,Ruhroenergy AG,ruhroenergy.de,Growth Monthly,529,EUR,2026-10-18,active,,
+cus_2154893619,Sonnogate,sonnogate.de,Growth Monthly,529,EUR,2026-10-18,active,,
+cus_1265990634,Summitgate GmbH,summitgate.at,Growth Annual,470,EUR,2026-10-19,active,,
+cus_6220993368,Neckarpoint SA,,Starter Annual,152,EUR,2026-10-20,active,,
+cus_9401898695,Maplefield,,Starter Annual,164,USD,2026-10-20,active,,
+cus_4744160944,Cobaltsystems Group plc,cobaltsystems.co.uk,Growth Monthly,455,GBP,2026-10-21,past_due,,
+cus_4055571511,Tidaltec B.V.,tidaltec.nl,Growth Annual,940,EUR,2026-10-22,active,,
+cus_6248779478,Graniteafin AG,graniteafin.ch,Growth Monthly,529,EUR,2026-10-23,active,,
+cus_6840754513,Tidalercloud GmbH,tidalercloud.de,Growth Annual,470,EUR,2026-10-24,active,,
+cus_3535602014,Lindenenmotion,lindenenmotion.co.uk,Starter Monthly,150,GBP,2026-10-25,active,,
+cus_8216459209,Mapleenergy,mapleenergy.de,Starter Monthly,175,EUR,2026-10-26,active,,
+cus_9737973304,Moselohealth AG,moselohealth.de,Growth Annual,470,EUR,2026-10-28,active,,
+cus_1353871198,Granitefoods,granitefoods.de,Growth Monthly,529,EUR,2026-10-28,active,,
+cus_1990476939,Saxonaretail,saxonaretail.co.uk,Starter Annual,131,GBP,2026-10-29,active,,
+cus_6132760228,Ironline GmbH,ironline.de,Starter Monthly,175,EUR,2026-10-30,active,,
+cus_5849820576,Ostfield AG,,Starter Annual,152,EUR,2026-10-31,active,,

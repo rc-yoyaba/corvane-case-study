@@ -1,0 +1,25 @@
+workflow,object,status,enrolled_last_90_days,last_edited,last_edited_by
+MQL scoring,Contact,On,797,2026-02-10,Clara Vogt
+MQL routing v2,Contact,Off,0,2026-03-15,Mia Lorenz (deactivated user)
+"MQL routing v1 (old, do not use)",Contact,Off,0,2025-01-20,Mia Lorenz (deactivated user)
+Demo and pricing forms - set MQL,Contact,On,295,2025-02-20,Clara Vogt
+Set lead status on MQL,Contact,On,0,2025-06-03,Mia Lorenz (deactivated user)
+Lead recycle (90 days),Contact,On,93,2025-04-11,Mia Lorenz (deactivated user)
+Outreach owner sync,Contact,On,270,2026-03-14,Mia Lorenz (deactivated user)
+Deal created - set Opportunity,Deal,On,224,2024-02-02,Mia Lorenz (deactivated user)
+Closed won - set Customer,Deal,On,815,2024-02-02,Mia Lorenz (deactivated user)
+Stripe sync (beta),Company,Off,0,2025-11-12,Mia Lorenz (deactivated user)
+Partner referral - notify AE,Deal,On,531,2026-04-02,Oliver Bakker
+Renewal deal creation (90 days before),Company,Off,0,2025-08-01,Mia Lorenz (deactivated user)
+Deal stage changed - create AE task,Deal,On,64,2024-06-19,Mia Lorenz (deactivated user)
+Closed lost - re-engage after 6 months,Deal,On,624,2025-09-09,Clara Vogt
+Webinar follow-up sequence,Contact,On,651,2026-05-02,Clara Vogt
+Newsletter welcome,Contact,On,596,2024-03-01,Clara Vogt
+Event attendees - nurture,Contact,On,565,2026-05-11,Clara Vogt
+Ebook download - nurture,Contact,On,184,2026-04-15,Clara Vogt
+NPS survey - customers,Contact,On,166,2025-01-10,Katrin Albers
+G2 review request,Contact,On,463,2025-03-04,Clara Vogt
+Lifecycle - Evangelist,Contact,Off,0,2024-02-02,Mia Lorenz (deactivated user)
+Copy company size to deal,Deal,On,413,2025-01-16,Mia Lorenz (deactivated user)
+Segment assignment,Company,On,517,2026-01-15,Mia Lorenz (deactivated user)
+Test - routing fix (draft),Contact,Off,0,2026-09-26,Mia Lorenz (deactivated user)

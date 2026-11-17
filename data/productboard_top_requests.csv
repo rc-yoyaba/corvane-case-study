@@ -1,0 +1,11 @@
+request,votes,linked_customers,linked_lost_deals,status
+Native SAP S/4HANA integration,214,38,61,Not planned for 2026
+Multi-entity consolidation,133,41,9,Discovery
+Mobile receipt capture improvements,118,77,0,Planned Q1 2027
+Custom approval rules per supplier,96,52,4,In progress
+DATEV Unternehmen online sync,81,49,2,Shipped 2026-06
+Budget alerts in Slack,64,33,0,Planned Q1 2027
+Cheaper plan for 50 to 150 employees,58,12,23,Not planned
+NetSuite connector,52,14,11,Discovery
+Dark mode,47,30,0,Not planned
+Audit trail export,39,25,1,Shipped 2025-11

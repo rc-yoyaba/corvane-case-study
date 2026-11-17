@@ -1,0 +1,7 @@
+conversion_action,category,primary_for_bidding,count,source,status,last_modified
+Demo request - HubSpot form,Book appointment,No (secondary),One,Website (GTM),Recording conversions,2026-04-08
+Form submit - all (GTM),Submit lead form,Yes,Every,Website (GTM),Recording conversions,2026-04-08
+Calendly booking,Book appointment,No (secondary),One,Website (GTM),Recording conversions,2025-06-19
+Newsletter sign-up,Sign-up,No (secondary),One,Website (GTM),Recording conversions,2024-03-01
+Offline - SQL (HubSpot),Qualified lead,No (secondary),One,HubSpot offline import,No recent conversions,2025-02-11
+Offline - Closed won (HubSpot),Converted lead,No (secondary),One,HubSpot offline import,Inactive,2025-02-11

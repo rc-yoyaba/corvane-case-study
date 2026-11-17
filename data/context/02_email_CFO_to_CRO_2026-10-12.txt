@@ -1,0 +1,18 @@
+From: Martin Engel <martin.engel@corvane.com>
+To: Anna Hoffmann <anna.hoffmann@corvane.com>
+Date: Mon, 12 Oct 2026 08:14
+Subject: Q3 forecast and the 2027 plan
+
+Anna,
+
+Following up on the Q3 close. The forecast on 1 July was EUR 2.86M new ARR and we booked EUR 2.03M (Looker numbers). I am not willing to take a 2027 plan to the board that is built on the same forecast process.
+
+For the plan the board will expect three things: an ARR bridge by motion, a capacity model (heads, ramp, productivity), and pipeline coverage assumptions we can defend. Your draft asks for six more GTM heads. On the current conversion data I cannot support that.
+
+Two more points:
+1. USD and GBP deals are counted one to one as EUR in Looker. Budget rate is 1.08 for USD and 0.86 for GBP.
+2. Net revenue retention is drifting. My sheet puts trailing twelve months at about 100%. The board wants to see 110% or better for the Series D story. Self-serve churn went up after the price change.
+
+Happy to walk your consultants through my ARR sheet, but I will not reconcile it to HubSpot myself.
+
+Martin

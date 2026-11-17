@@ -1,0 +1,15 @@
+tool,plan,seats,annual_cost_eur,owner_or_notes
+HubSpot Marketing Hub,Professional,12,21600,Marketing
+HubSpot Sales Hub,Enterprise,38,68400,Sales
+HubSpot Service Hub,Professional,9,10800,CS
+Gong,,26,41600,Sales
+Clay,Explorer,3,4300,Sales Ops
+Outreach,,10,16000,DACH SDRs. US SDRs use HubSpot Sequences
+Intercom,,8,14200,Support
+Calendly,Teams,14,3400,SDRs and AEs. Demo form books through Calendly round robin
+Stripe,,0,0,Finance
+Looker Studio,Free,0,0,Sales Ops
+DATEV,,4,6100,Finance
+Pipedrive,Read-only archive,2,7800,"Nobody. Contract renews 2027-01-15, notice period 3 months"
+Google Sheets commission model,,0,0,Sales Ops
+Productboard,,6,9000,Product

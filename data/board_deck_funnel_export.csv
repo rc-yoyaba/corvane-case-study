@@ -1,0 +1,39 @@
+period,metric,value
+Q3 2025,MQLs,338
+Q3 2025,SQLs,162
+Q3 2025,Opportunities created,236
+Q3 2025,Closed won (new logos),55
+Q3 2025,Win rate,58%
+Q3 2025,Open pipeline EUR,15.9M
+Q3 2025,New ARR EUR,2.24M
+Q4 2025,MQLs,330
+Q4 2025,SQLs,149
+Q4 2025,Opportunities created,211
+Q4 2025,Closed won (new logos),48
+Q4 2025,Win rate,60%
+Q4 2025,Open pipeline EUR,15.5M
+Q4 2025,New ARR EUR,1.97M
+Q1 2026,MQLs,928
+Q1 2026,SQLs,204
+Q1 2026,Opportunities created,287
+Q1 2026,Closed won (new logos),53
+Q1 2026,Win rate,57%
+Q1 2026,Open pipeline EUR,17.3M
+Q1 2026,New ARR EUR,2.39M
+Q2 2026,MQLs,1216
+Q2 2026,SQLs,198
+Q2 2026,Opportunities created,290
+Q2 2026,Closed won (new logos),50
+Q2 2026,Win rate,44%
+Q2 2026,Open pipeline EUR,18.1M
+Q2 2026,New ARR EUR,2.49M
+Q3 2026,MQLs,855
+Q3 2026,SQLs,171
+Q3 2026,Opportunities created,260
+Q3 2026,Closed won (new logos),52
+Q3 2026,Win rate,52%
+Q3 2026,Open pipeline EUR,17.1M
+Q3 2026,New ARR EUR,2.03M
+Q3 2026,Forecast new ARR EUR (as of 1 Jul),2.86M
+Q4 2026,Forecast new ARR EUR (as of 30 Sep),2.22M
+Source,"Looker Studio, HubSpot connector, refreshed 2026-10-03, prepared by Sales Ops",

@@ -1,0 +1,20 @@
+#sales-leadership (export, January to October 2026, abridged)
+
+2026-01-16 09:12 Mia Lorenz: Segment rule is live. Companies with 50+ employees now route to Mid-Market AEs (was 200+). Pricing page sends 50+ to "Talk to sales". Should give AEs a lot more pipeline.
+2026-01-16 09:20 Felix Huber: finally
+2026-02-03 17:41 Kevin Brooks: First week on the new pricing. Two US prospects asked for last year's quote.
+2026-03-04 11:05 Lukas Weber: Third demo this week with a 60 person company where the founder approves every purchase. Are these really Mid-Market?
+2026-03-04 11:09 Mia Lorenz: They are in segment. Qualify harder.
+2026-04-21 16:30 Megan Turner: Lost another one to Spendara. They are quoting about 30% under us in the US.
+2026-05-12 10:02 Sophie Koch: Where are the webinar leads from April? Nothing in my queue.
+2026-05-12 10:15 Lea Krause: We haven't had MQLs assigned since March. We pick from the Unassigned MQLs view when there is time. Mostly doing outbound, that is what counts for the SQL target.
+2026-05-12 10:16 Sophie Koch: ok
+2026-06-02 14:48 Oliver Bakker: LedgerPoint has now referred 29 companies. Partner pipeline at EUR 0.8M and climbing!
+2026-07-08 08:30 Anna Hoffmann: Q3 commit is EUR 2.86M. Let's land it.
+2026-08-19 15:22 Jonas Braun: Can we stop logging self-serve upgrades as AE deals? Some people are getting quota credit for Stripe upgrades.
+2026-08-19 15:40 Kevin Brooks: they came through my demo though
+2026-09-22 16:55 Jan Schneider: Assigned 314 MQLs from the unassigned view to SDRs, as Anna asked. A lot of them are months old.
+2026-10-02 09:01 Anna Hoffmann: Q3 closed at EUR 2.03M against EUR 2.86M commit. I want a deal by deal review of what slipped.
+2026-10-02 09:30 Kevin Brooks: Some of that commit list were deals I have never seen. Old Pipedrive stuff with Q3 close dates?
+2026-10-14 12:12 Marie Lange: Honest question, does anyone pick loss reasons carefully? I pick Price when I don't know.
+2026-10-14 12:20 Lukas Weber: price is usually true though

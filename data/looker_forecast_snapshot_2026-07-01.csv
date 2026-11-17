@@ -1,0 +1,229 @@
+deal_id,company_name,deal_owner,deal_type,deal_stage,forecast_category,amount,currency,close_date
+9803047,Granitefin AG,Michael Carter,New Business,Proposal Sent,Best case,197500,EUR,2026-08-21
+9803099,Lumenhealth N.V.,Michael Carter,New Business,Proposal Sent,Best case,196400,EUR,2026-07-21
+9803266,Pinegate GmbH & Co. KG,Michael Carter,New Business,Negotiation,Commit,135100,EUR,2026-07-15
+9803463,Ardentifield Group plc,Julia Hartmann,New Business,Demo Done,Best case,196100,GBP,2026-07-23
+9803601,Ruhrtec Corp.,Sarah Klein,New Business,Demo Done,Best case,121100,USD,2026-07-04
+9803833,Ardentipartners Corp.,Sarah Klein,New Business,Demo Done,Best case,206800,USD,2026-07-31
+9803950,Kesselware Inc.,Megan Turner,New Business,Proposal Sent,Commit,41200,USD,2026-07-24
+9804025,Pennineiconsult Inc.,Michael Carter,New Business,Proposal Sent,Commit,150700,USD,2026-07-22
+9804054,Berggate Inc.,Julia Hartmann,New Business,Proposal Sent,Best case,191100,USD,2026-07-28
+9804126,Sonnmotion GmbH,Sophie Koch,New Business,Demo Done,Best case,44400,EUR,2026-08-02
+9804136,Lichtfin GmbH,Jonas Braun,New Business,Demo Done,Best case,37700,EUR,2026-08-28
+9804188,Brightplast AG,Sarah Klein,New Business,Demo Done,Best case,145400,EUR,2026-09-21
+9804201,Grauware GmbH,Jonas Braun,New Business,Demo Done,Best case,27800,EUR,2026-07-30
+9804240,Neckaraconsult GmbH,Sarah Klein,New Business,Demo Done,Best case,171700,EUR,2026-09-08
+9804273,Sonnmotion GmbH,Marie Lange,New Business,Discovery,Pipeline,40600,EUR,2026-07-27
+9804293,Lagoworks AG,Julia Hartmann,New Business,Discovery,Best case,181000,EUR,2026-09-17
+9804295,Eichfin AG,Felix Huber,New Business,Demo Done,Best case,37200,EUR,2026-07-27
+9804371,Vektcraft B.V.,Felix Huber,New Business,Proposal Sent,Commit,27800,EUR,2026-07-04
+9804392,Eichcloud GmbH,Sophie Koch,New Business,Verbal Commit,Commit,55100,EUR,2026-07-07
+9804417,Nimbusplast B.V.,Marie Lange,New Business,Demo Done,Best case,55100,EUR,2026-08-07
+9804441,Helixonstack Inc.,Kevin Brooks,New Business,Discovery,Pipeline,11100,USD,2026-07-14
+9804471,Summitstack Inc.,Kevin Brooks,New Business,Demo Scheduled,Best case,48400,USD,2026-08-27
+9804477,Alpenotrade SE,Michael Carter,New Business,Demo Done,Best case,175400,EUR,2026-08-14
+9804492,Prismaalog Group plc,Sarah Klein,New Business,Demo Done,Best case,104500,GBP,2026-08-14
+9804510,Graniteworks N.V.,Sophie Koch,New Business,Demo Scheduled,Pipeline,42100,EUR,2026-07-04
+9804552,Deltacraft Corp.,Kevin Brooks,New Business,Demo Scheduled,Pipeline,34400,USD,2026-07-26
+9804585,Tidalsoft GmbH & Co. KG,Lukas Weber,New Business,Demo Done,Best case,12800,EUR,2026-07-13
+9804591,Moselconsult Inc.,Megan Turner,New Business,Demo Done,Best case,44900,USD,2026-07-30
+9804601,Vistasystems Ltd,Kevin Brooks,New Business,Proposal Sent,Commit,21000,GBP,2026-07-20
+9804617,Zuidpartners Corp.,Megan Turner,New Business,Demo Done,Best case,40300,USD,2026-08-16
+9804627,Falkmed Inc.,Kevin Brooks,New Business,Demo Scheduled,Pipeline,45200,USD,2026-07-21
+9804636,Isarasystems LLC,Megan Turner,New Business,Demo Done,Best case,55600,USD,2026-09-25
+9804647,Bodenseeenergy SE,Marie Lange,New Business,Discovery,Pipeline,62700,EUR,2026-08-21
+9804653,Kielertech Inc.,Kevin Brooks,New Business,Demo Scheduled,Pipeline,27100,USD,2026-07-10
+9804713,Elbifield SA,Julia Hartmann,New Business,Demo Done,Best case,173200,EUR,2026-09-07
+9804721,Prismamed Inc.,Megan Turner,New Business,Demo Scheduled,Pipeline,45000,USD,2026-08-04
+9804729,Pineohub GmbH,Michael Carter,New Business,Proposal Sent,Commit,139800,EUR,2026-08-11
+9804738,Bergpartners LLC,Kevin Brooks,New Business,Discovery,Best case,27500,USD,2026-08-27
+9804751,Orbitmobility N.V.,Sophie Koch,New Business,Proposal Sent,Commit,43100,EUR,2026-09-03
+9804753,Nimbusline SE,Jonas Braun,New Business,Demo Scheduled,Pipeline,35300,EUR,2026-08-15
+9804761,Graniteifoods Group plc,Megan Turner,New Business,Demo Scheduled,Pipeline,33300,GBP,2026-08-18
+9804796,Summitfin GmbH,Jonas Braun,New Business,Negotiation,Commit,32700,EUR,2026-07-09
+9804832,Vektenergy GmbH,Sophie Koch,New Business,Demo Done,Best case,35100,EUR,2026-08-16
+9804842,Cobaltitech GmbH,Marie Lange,New Business,Discovery,Pipeline,30000,EUR,2026-09-02
+9804850,Kraftfield Group plc,Julia Hartmann,New Business,Discovery,Best case,95000,GBP,2026-09-23
+9804853,Lumenafin SE,Felix Huber,New Business,Demo Scheduled,Pipeline,59000,EUR,2026-07-16
+9804862,Avontec AG,Lukas Weber,New Business,Demo Scheduled,Best case,14000,EUR,2026-07-20
+9804866,Graniteamotion AG,Sophie Koch,New Business,Demo Scheduled,Pipeline,20700,EUR,2026-08-03
+9804886,Summitafield AG,Marie Lange,New Business,Demo Scheduled,Pipeline,46500,EUR,2026-08-15
+9804904,Rheinoware Inc.,Megan Turner,New Business,Demo Scheduled,Pipeline,29100,USD,2026-08-09
+9804923,Krafttec SA,Lukas Weber,New Business,Demo Scheduled,Best case,21700,EUR,2026-08-03
+9804933,Havenline AG,Sophie Koch,New Business,Demo Scheduled,Pipeline,14300,EUR,2026-08-01
+9804954,Juniperform AG,Marie Lange,New Business,Discovery,Pipeline,15100,EUR,2026-07-03
+9804987,Thamesenergy Corp.,Megan Turner,New Business,Demo Scheduled,Pipeline,53800,USD,2026-08-01
+9804993,Deltaabau SA,Lukas Weber,New Business,Demo Done,Best case,15600,EUR,2026-07-18
+9805011,Mainlog GmbH,Sophie Koch,New Business,Discovery,Pipeline,47500,EUR,2026-09-02
+9805017,Granitetrade GmbH,Jonas Braun,New Business,Discovery,Pipeline,44600,EUR,2026-09-22
+9805022,Quarrymotion Inc.,Kevin Brooks,New Business,Demo Scheduled,Pipeline,42700,USD,2026-07-23
+9805042,Eichbase Corp.,Kevin Brooks,New Business,Discovery,Pipeline,34500,USD,2026-09-02
+9805045,Keystoneerfoods GmbH,Marie Lange,New Business,Discovery,Pipeline,11300,EUR,2026-07-14
+9805071,Bergibau Inc.,Megan Turner,New Business,Proposal Sent,Best case,19500,USD,2026-07-27
+9805079,Granitelogic GmbH,Felix Huber,New Business,Proposal Sent,Commit,17600,EUR,2026-07-14
+9805082,Grausystems GmbH,Lukas Weber,New Business,Discovery,Pipeline,41700,EUR,2026-09-18
+9805092,Sterlingenergy Ltd,Kevin Brooks,New Business,Discovery,Pipeline,32200,GBP,2026-08-04
+9805112,Oakworks AG,Sophie Koch,New Business,Demo Scheduled,Best case,43400,EUR,2026-08-23
+9805116,Bodenseeocraft GmbH,Jonas Braun,New Business,Demo Done,Best case,11500,EUR,2026-07-25
+9805134,Cobalttech Corp.,Megan Turner,New Business,Discovery,Pipeline,55000,USD,2026-08-10
+9805144,Rheinoware Inc.,Kevin Brooks,New Business,Discovery,Best case,20000,USD,2026-09-12
+9805164,Avonenhealth Ltd,Megan Turner,New Business,Discovery,Best case,48300,GBP,2026-08-06
+9805175,Cobaltenprint AG,Felix Huber,New Business,Demo Scheduled,Best case,23600,EUR,2026-07-19
+9805198,Sonnmotion GmbH,Sophie Koch,New Business,Discovery,Pipeline,22200,EUR,2026-07-15
+9805201,Merseyapoint B.V.,Jonas Braun,New Business,Demo Scheduled,Pipeline,14000,EUR,2026-07-07
+9805214,Summitretail GmbH & Co. KG,Marie Lange,New Business,Discovery,Best case,45400,EUR,2026-08-06
+9805230,Ruhrentech AG,Felix Huber,New Business,Discovery,Pipeline,9000,EUR,2026-07-15
+9805232,Avonbau GmbH,Lukas Weber,New Business,Demo Scheduled,Pipeline,10200,EUR,2026-07-20
+9805238,Bodenseetec GmbH,Sophie Koch,New Business,Demo Scheduled,Pipeline,18600,EUR,2026-08-09
+9805248,Vektcloud GmbH,Jonas Braun,New Business,Demo Scheduled,Pipeline,13600,EUR,2026-08-03
+9805256,Saxonpartners GmbH,Marie Lange,New Business,Discovery,Best case,11200,EUR,2026-07-13
+9805268,Granitepartners AG,Felix Huber,New Business,Discovery,Pipeline,14000,EUR,2026-07-27
+9805280,Neckarpartners Inc.,Kevin Brooks,New Business,Demo Done,Best case,12000,USD,2026-07-25
+9805285,Vistaafield GmbH,Lukas Weber,New Business,Discovery,Pipeline,64000,EUR,2026-09-09
+9805287,Dijkmobility Inc.,Megan Turner,New Business,Discovery,Pipeline,19000,USD,2026-07-25
+9805303,Cobaltersoft GmbH & Co. KG,Sophie Koch,New Business,Discovery,Pipeline,51700,EUR,2026-09-06
+9805312,Brightplast AG,Julia Hartmann,New Business,Demo Scheduled,Pipeline,176700,EUR,2026-08-04
+9805328,Elbmobility Group plc,Megan Turner,New Business,Demo Scheduled,Best case,16000,GBP,2026-07-15
+9806695,Ostform GmbH,Hannah Fischer,Renewal,Negotiation,Commit,210400,EUR,2026-08-26
+9806783,Spreecloud GmbH,Grace Hughes,Renewal,Negotiation,Commit,29700,EUR,2026-07-05
+9806840,Copperenprint Ltd,Max Becker,Renewal,Proposal Sent,Commit,99200,GBP,2026-08-20
+9806882,Vektahub SE,David Zimmermann,Renewal,Negotiation,Commit,34100,EUR,2026-07-27
+9806980,Vektensystems AG,Eva Jansen,Renewal,Proposal Sent,Commit,42600,EUR,2026-09-18
+9807059,Mapletrade GmbH & Co. KG,David Zimmermann,Renewal,Proposal Sent,Commit,62700,EUR,2026-08-17
+9807081,Spreecraft GmbH & Co. KG,Grace Hughes,Renewal,Negotiation,Commit,190200,EUR,2026-07-26
+9807120,Mapledata AG,Grace Hughes,Renewal,Negotiation,Commit,191000,EUR,2026-07-02
+9807285,Vistafield GmbH,Tom Richter,Renewal,Negotiation,Commit,42200,EUR,2026-07-18
+9807299,Fjordibau GmbH & Co. KG,Hannah Fischer,Renewal,Negotiation,Commit,35600,EUR,2026-07-17
+9807352,Elbhealth Group plc,Max Becker,Upsell,Discovery,Best case,8300,GBP,2026-08-17
+9807414,Oakenhub LLC,Max Becker,Renewal,Negotiation,Commit,194800,USD,2026-07-12
+9807438,Grauline GmbH,David Zimmermann,Renewal,Proposal Sent,Commit,58300,EUR,2026-09-22
+9807478,Moselfield Corp.,Max Becker,Renewal,Negotiation,Commit,34000,USD,2026-07-25
+9807521,Lagoapoint GmbH & Co. KG,Grace Hughes,Renewal,Proposal Sent,Commit,67100,EUR,2026-08-05
+9807561,Ruhrstack GmbH,Eva Jansen,Renewal,Proposal Sent,Commit,27900,EUR,2026-08-17
+9807577,Lichtcraft GmbH,Grace Hughes,Renewal,Proposal Sent,Commit,38000,EUR,2026-08-06
+9807750,Prismabau GmbH & Co. KG,Grace Hughes,Renewal,Negotiation,Commit,34900,EUR,2026-08-12
+9807834,Bergform Ltd,Max Becker,Renewal,Negotiation,Commit,22300,GBP,2026-08-08
+9807965,Kesselhub Inc.,Laura Steiner,Renewal,Proposal Sent,Commit,26500,USD,2026-09-01
+9808095,Thamesmotion Inc.,Laura Steiner,Renewal,Negotiation,Commit,46600,USD,2026-08-02
+9808136,Graniteware Group plc,Laura Steiner,Renewal,Proposal Sent,Commit,29600,GBP,2026-09-11
+9808150,Tidalware AG,Tom Richter,Renewal,Negotiation,Commit,38000,EUR,2026-07-25
+9808226,Tannline GmbH,David Zimmermann,Renewal,Negotiation,Commit,71100,EUR,2026-08-11
+9808242,Thamesusplast GmbH,Tom Richter,Renewal,Negotiation,Commit,38100,EUR,2026-07-24
+9808328,Moselhealth SE,Eva Jansen,New Business,Negotiation,Commit,27700,EUR,2026-07-21
+9808365,Summitfin GmbH,Grace Hughes,Renewal,Negotiation,Commit,26200,EUR,2026-08-28
+9808463,Brightimed B.V.,Hannah Fischer,Renewal,Proposal Sent,Commit,19500,EUR,2026-09-09
+9808495,Brightmed N.V.,Grace Hughes,Renewal,Proposal Sent,Commit,43100,EUR,2026-09-15
+9808601,Oakosystems GmbH & Co. KG,Hannah Fischer,Renewal,Proposal Sent,Commit,123100,EUR,2026-09-04
+9808621,Rheinostack GmbH,Eva Jansen,Renewal,Negotiation,Commit,27100,EUR,2026-07-28
+9808632,Lichtfin GmbH,Grace Hughes,Renewal,Negotiation,Commit,27700,EUR,2026-07-03
+9808749,Ruhrbase GmbH,Tom Richter,Renewal,Negotiation,Commit,193900,EUR,2026-07-20
+9808761,Kraftabau LLC,Laura Steiner,Renewal,Negotiation,Commit,232600,USD,2026-08-05
+9808777,Willowline Inc.,Laura Steiner,Renewal,Negotiation,Commit,193700,USD,2026-07-11
+9808915,Thameslogic Inc.,Max Becker,Renewal,Negotiation,Commit,124000,USD,2026-09-05
+9808998,Maplegate B.V.,Grace Hughes,Renewal,Negotiation,Commit,17300,EUR,2026-08-13
+9809072,Lichtlogic Inc.,Max Becker,Renewal,Negotiation,Commit,80100,USD,2026-07-10
+9809205,Blauware Ltd,Max Becker,Renewal,Proposal Sent,Commit,26400,GBP,2026-08-22
+9809243,Tidalhealth GmbH,Felix Huber,Upsell,Proposal Sent,Commit,47100,EUR,2026-07-30
+9809466,Mainiplast Ltd,Max Becker,Renewal,Negotiation,Commit,57900,GBP,2026-08-11
+9809536,Ostsystems SA,Eva Jansen,New Business,Negotiation,Commit,30500,EUR,2026-08-15
+9809544,Bergfin GmbH,Grace Hughes,Renewal,Proposal Sent,Commit,23200,EUR,2026-08-02
+9809614,Sonnipartners Corp.,Max Becker,Renewal,Negotiation,Commit,56100,USD,2026-07-17
+9809650,Poldertech Ltd,Max Becker,Renewal,Negotiation,Commit,34700,GBP,2026-08-02
+9809751,Graniteocraft SA,Tom Richter,New Business,Negotiation,Commit,177400,EUR,2026-08-23
+9809781,Orbitconsult AG,Hannah Fischer,Renewal,Negotiation,Commit,42400,EUR,2026-07-28
+9809952,Ridgeasystems N.V.,Hannah Fischer,Renewal,Negotiation,Commit,132300,EUR,2026-07-10
+9809962,Steinlog AG,Eva Jansen,Renewal,Negotiation,Commit,207300,EUR,2026-08-06
+9810099,Helixmobility GmbH,Hannah Fischer,Renewal,Proposal Sent,Commit,170700,EUR,2026-08-09
+9810162,Oakodata Ltd,Laura Steiner,Renewal,Negotiation,Commit,32500,GBP,2026-08-01
+9810181,Orbittrade Group plc,Max Becker,Upsell,Demo Done,Best case,5700,GBP,2026-07-28
+9810205,Oakplast Corp.,Max Becker,Renewal,Proposal Sent,Commit,354000,USD,2026-08-28
+9810224,Sterlingline AG,David Zimmermann,,Negotiation,Commit,35000,EUR,2026-08-21
+9810314,Graniteopartners GmbH,Eva Jansen,Renewal,Negotiation,Commit,41100,EUR,2026-08-08
+9810325,Nimbushealth Group plc,Max Becker,Renewal,Proposal Sent,Commit,219700,GBP,2026-08-10
+9810350,Junipersoft SE,David Zimmermann,Renewal,Negotiation,Commit,47900,EUR,2026-07-28
+9810426,Vistabase Ltd,Max Becker,Renewal,Negotiation,Commit,26500,GBP,2026-08-22
+9810524,Kraftosoft GmbH,Tom Richter,Renewal,Negotiation,Commit,23300,EUR,2026-08-24
+9810529,Harborentec LLC,Laura Steiner,Renewal,Negotiation,Commit,60600,USD,2026-08-28
+9810538,Havenpartners GmbH,Hannah Fischer,Renewal,Negotiation,Commit,53300,EUR,2026-08-01
+9810746,Tannipartners Inc.,Laura Steiner,,Negotiation,Commit,38400,USD,2026-08-08
+9810788,Bergitec Inc.,Laura Steiner,Renewal,Negotiation,Commit,47000,USD,2026-07-14
+9810817,Helixsoft Group plc,Max Becker,Renewal,Negotiation,Commit,44600,GBP,2026-07-14
+9810888,Fjordhealth N.V.,David Zimmermann,Renewal,Negotiation,Commit,44500,EUR,2026-07-09
+9810948,Graumobility B.V.,Tom Richter,,Negotiation,Commit,21500,EUR,2026-07-08
+9810956,Graumobility B.V.,Sophie Koch,Upsell,Discovery,Pipeline,8400,EUR,2026-08-18
+9811150,Vistadata Corp.,Max Becker,Renewal,Negotiation,Commit,180200,USD,2026-07-26
+9811178,Unionmetall Corp.,Laura Steiner,Upsell,Demo Scheduled,Pipeline,10500,USD,2026-07-08
+9811204,Hafenpartners LLC,Laura Steiner,Renewal,Negotiation,Commit,35700,USD,2026-07-15
+9811404,Vistacloud GmbH & Co. KG,Grace Hughes,Renewal,Negotiation,Commit,32600,EUR,2026-07-04
+9811425,Rheinmetall N.V.,David Zimmermann,Renewal,Proposal Sent,Commit,39300,EUR,2026-09-14
+9811436,Zuidpartners Corp.,Max Becker,Renewal,Negotiation,Commit,34300,USD,2026-08-16
+9811658,Avoncraft Corp.,Laura Steiner,Renewal,Proposal Sent,Commit,25000,USD,2026-08-28
+9811756,Eichfield GmbH,Hannah Fischer,Renewal,Negotiation,Commit,176300,EUR,2026-07-17
+9812032,Kraftcloud LLC,Max Becker,Renewal,Proposal Sent,Commit,43200,USD,2026-07-28
+9812089,Zuidgate LLC,Max Becker,New Business,Proposal Sent,Commit,38700,USD,2026-09-15
+9812151,Saxonware Ltd,Megan Turner,Upsell,Demo Scheduled,Pipeline,28300,GBP,2026-08-03
+9812281,Bodenseeigate Corp.,Max Becker,New Business,Proposal Sent,Commit,156800,USD,2026-09-03
+9812342,Bergametall GmbH,David Zimmermann,Renewal,Negotiation,Commit,46800,EUR,2026-07-23
+9812368,Falkoform Group plc,Max Becker,Renewal,Negotiation,Commit,11100,GBP,2026-07-27
+9812398,Junipermobility SE,Grace Hughes,Renewal,Negotiation,Commit,31400,EUR,2026-07-28
+9812497,Mainfin N.V.,David Zimmermann,Renewal,Negotiation,Commit,170500,EUR,2026-07-10
+9812506,Lagoform N.V.,Tom Richter,Renewal,Negotiation,Commit,55800,EUR,2026-08-24
+9812577,Unionerprint GmbH,Hannah Fischer,Renewal,Proposal Sent,Commit,39600,EUR,2026-08-25
+9812634,Isarmobility GmbH & Co. KG,David Zimmermann,Renewal,Negotiation,Commit,114000,EUR,2026-08-04
+9812683,Prismaalog Group plc,Laura Steiner,Renewal,Negotiation,Commit,73600,GBP,2026-07-18
+9812685,Prismaalog Group plc,Kevin Brooks,Upsell,Discovery,Pipeline,26900,GBP,2026-07-29
+9812715,Lindenplast GmbH,Hannah Fischer,Renewal,Proposal Sent,Commit,24900,EUR,2026-08-21
+9812800,Havenplast AG,Hannah Fischer,Renewal,Proposal Sent,Commit,303500,EUR,2026-08-19
+9812808,Zuidbase GmbH,Eva Jansen,Renewal,Negotiation,Commit,36400,EUR,2026-07-06
+9812828,Sterlinglog SE,Grace Hughes,Renewal,Negotiation,Commit,59000,EUR,2026-07-06
+9812880,Unionfin N.V.,Hannah Fischer,Renewal,Negotiation,Commit,101800,EUR,2026-07-09
+9813084,Ostplast GmbH,Tom Richter,Renewal,Negotiation,Commit,22500,EUR,2026-07-09
+9813104,Haventech AG,Felix Huber,Upsell,Proposal Sent,Commit,6100,EUR,2026-07-14
+9813818,Kielmobility Ltd,Marie Lange,,Negotiation,Commit,36900,EUR,2026-09-12
+9813833,Bergerretail GmbH,Sophie Koch,,Negotiation,Commit,33200,EUR,2026-07-31
+9813844,Moseltrade AG,Julia Hartmann,,Negotiation,Commit,24700,EUR,2026-08-25
+9813852,Ardentifield Group plc,Julia Hartmann,,Demo Done,Commit,113400,EUR,2026-07-23
+9813893,Kesselmobility GmbH,Julia Hartmann,,Proposal Sent,Commit,39600,EUR,2026-08-17
+9813903,Avonmed GmbH,Brian Cole,,Proposal Sent,Commit,25700,EUR,2026-08-22
+9813931,Eichbau AG,Brian Cole,,Demo Done,Commit,6300,EUR,2026-09-18
+9813946,Alpenpoint AG,Marie Lange,,Negotiation,Commit,8800,EUR,2026-09-23
+9813955,Juniperretail Group plc,Felix Huber,,Negotiation,Commit,43900,EUR,2026-09-09
+9814007,Thamesenergy Corp.,Marie Lange,,Proposal Sent,Commit,40100,EUR,2026-09-08
+9814013,Bergfoods GmbH,Thomas Brandt,,Proposal Sent,Commit,43000,EUR,2026-08-02
+9814018,Sterlingerline Ltd,Sophie Koch,,Negotiation,Commit,22900,EUR,2026-09-11
+9814028,Fjorderpoint GmbH & Co. KG,Sophie Koch,,Proposal Sent,Commit,37900,EUR,2026-08-08
+9814041,Brightplast AG,Sophie Koch,,Demo Done,Commit,155600,EUR,2026-08-22
+9814085,Hafenmetall B.V.,Thomas Brandt,,Negotiation,Commit,9800,EUR,2026-08-28
+9814111,Orbitpartners SE,Julia Hartmann,,Negotiation,Best case,35100,EUR,2026-09-13
+9814121,Mainlog GmbH,Brian Cole,,Proposal Sent,Commit,51400,EUR,2026-07-28
+9814127,Orbitdata GmbH & Co. KG,Julia Hartmann,,Proposal Sent,Commit,34500,EUR,2026-08-05
+9814149,Mainmotion Group plc,Brian Cole,,Demo Done,Commit,31400,EUR,2026-07-27
+9814151,Lagotrade GmbH,Sophie Koch,,Proposal Sent,Commit,44900,EUR,2026-09-03
+9814173,Fjordbau AG,Sophie Koch,,Demo Done,Commit,30900,EUR,2026-09-08
+9814200,Avonfin AG,Felix Huber,,Negotiation,Commit,4600,EUR,2026-09-21
+9814219,Eichsoft GmbH & Co. KG,Brian Cole,,Demo Done,Commit,4900,EUR,2026-09-18
+9814237,Deltaimetall LLC,Sophie Koch,,Demo Done,Commit,46800,EUR,2026-08-19
+9814254,Ardenthealth N.V.,Brian Cole,,Proposal Sent,Commit,30600,EUR,2026-08-14
+9814270,Lindencloud GmbH,Thomas Brandt,,Demo Done,Commit,37400,EUR,2026-07-25
+9814283,Willowworks Group plc,Julia Hartmann,,Proposal Sent,Commit,35100,EUR,2026-07-30
+9814286,Tidalmed AG,Felix Huber,,Negotiation,Commit,3300,EUR,2026-09-06
+9814323,Tidalgate B.V.,Julia Hartmann,,Proposal Sent,Commit,8300,EUR,2026-07-28
+9814393,Blauware Ltd,Felix Huber,,Demo Done,Commit,43100,EUR,2026-07-22
+9814396,Willowosystems AG,Sophie Koch,,Proposal Sent,Commit,52500,EUR,2026-09-24
+9814405,Orbitoworks GmbH & Co. KG,Marie Lange,,Demo Done,Commit,12800,EUR,2026-07-29
+9814407,Lindenmed B.V.,Thomas Brandt,,Demo Done,Best case,4100,EUR,2026-07-27
+9814422,Ardentfield LLC,Marie Lange,,Negotiation,Commit,14300,EUR,2026-09-15
+9814471,Poldermed Corp.,Felix Huber,,Demo Done,Best case,32500,EUR,2026-09-15
+9814513,Rheinmotion SE,Marie Lange,,Proposal Sent,Best case,8900,EUR,2026-08-27
+9814558,Harborfield GmbH,Brian Cole,,Proposal Sent,Commit,23400,EUR,2026-08-28
+9814561,Pineline SA,Sophie Koch,,Demo Done,Best case,10800,EUR,2026-09-21
+9814583,Pinecraft GmbH & Co. KG,Thomas Brandt,,Demo Done,Commit,153600,EUR,2026-08-29
+9814604,Ironsystems Inc.,Felix Huber,,Proposal Sent,Commit,40700,EUR,2026-08-05
+9814608,Orbitfin GmbH,Julia Hartmann,,Negotiation,Commit,132200,EUR,2026-08-10
+9814642,Steinocraft GmbH & Co. KG,Felix Huber,,Proposal Sent,Commit,23500,EUR,2026-09-10
+9814658,Thamesenergy Corp.,Thomas Brandt,,Proposal Sent,Commit,25600,EUR,2026-09-16
+9814676,Quarryerhub AG,Marie Lange,,Negotiation,Best case,30000,EUR,2026-08-25
+9814718,Vektform Ltd,Felix Huber,,Proposal Sent,Commit,73300,EUR,2026-07-22
+9814729,Helixfield SE,Sophie Koch,,Proposal Sent,Best case,8900,EUR,2026-09-01
+9814745,Nimbusologic B.V.,Marie Lange,,Demo Done,Commit,3600,EUR,2026-08-07
+9814755,Summitmed GmbH & Co. KG,Sophie Koch,,Negotiation,Commit,11600,EUR,2026-08-24
