@@ -1,6 +1,6 @@
 month,query,clicks,impressions,ctr,avg_position
 2025-01,corvane,1044,2244,46.5%,1.2
-2025-01,corvane login,913,1656,55.2%,0.9
+2025-01,corvane login,913,1656,55.2%,1.0
 2025-01,spend management software,347,10145,3.4%,7.3
 2025-01,purchase order template,948,20811,4.6%,4.0
 2025-01,what is spend management,707,11478,6.2%,3.6
@@ -36,7 +36,7 @@ month,query,clicks,impressions,ctr,avg_position
 2025-03,approval workflow excel,320,7127,4.5%,5.4
 2025-03,eingangsrechnungen prüfen,71,3477,2.1%,8.5
 2025-04,corvane,1068,2653,40.3%,1.1
-2025-04,corvane login,1213,2060,58.9%,0.9
+2025-04,corvane login,1213,2060,58.9%,1.0
 2025-04,spend management software,375,11084,3.4%,8.5
 2025-04,purchase order template,1246,24297,5.1%,4.1
 2025-04,what is spend management,871,13520,6.4%,3.8
@@ -156,7 +156,7 @@ month,query,clicks,impressions,ctr,avg_position
 2026-01,approval workflow excel,250,8333,3.0%,5.5
 2026-01,eingangsrechnungen prüfen,63,4034,1.6%,7.9
 2026-02,corvane,1331,3207,41.5%,1.1
-2026-02,corvane login,1336,2408,55.5%,0.9
+2026-02,corvane login,1336,2408,55.5%,1.0
 2026-02,spend management software,356,11750,3.0%,7.5
 2026-02,purchase order template,955,25359,3.8%,4.4
 2026-02,what is spend management,811,15569,5.2%,3.9

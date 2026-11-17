@@ -1,263 +1,978 @@
-month,search_term,campaign,clicks,cost_eur,conversions
-2025-01,spend management software,Generic - Spend Management,952,2148,16.0
-2025-01,procurement software mittelstand,Generic - Spend Management,401,913,7.4
-2025-01,purchase approval software,Generic - Spend Management,484,1546,13.7
-2025-01,corvane,Brand,461,1175,16.0
-2025-01,corvane pricing,Brand,164,449,7.7
-2025-01,spendara alternative,Generic - Spend Management,234,551,5.0
-2025-01,beschaffungssoftware,Generic - Spend Management,338,680,3.6
-2025-01,invoice approval software,Generic - Procurement Software,506,1481,6.6
-2025-01,spend control tool,Generic - Spend Management,220,702,4.1
-2025-01,bestellfreigabe software,Generic - Procurement Software,250,663,3.7
-2025-02,spend management software,Generic - Spend Management,1130,3079,25.9
-2025-02,procurement software mittelstand,Generic - Spend Management,531,1520,11.0
-2025-02,purchase approval software,Generic - Spend Management,351,829,6.6
-2025-02,corvane,Brand,312,881,12.8
-2025-02,corvane pricing,Brand,166,395,9.9
-2025-02,spendara alternative,Generic - Procurement Software,232,688,4.4
-2025-02,beschaffungssoftware,Generic - Spend Management,450,909,4.5
-2025-02,invoice approval software,Generic - Procurement Software,510,1284,6.5
-2025-02,spend control tool,Generic - Procurement Software,354,1060,6.0
-2025-02,bestellfreigabe software,Generic - Spend Management,277,827,5.8
-2025-03,spend management software,Generic - Spend Management,659,1998,12.5
-2025-03,procurement software mittelstand,Generic - Procurement Software,405,1026,6.0
-2025-03,purchase approval software,Generic - Spend Management,439,1125,9.2
-2025-03,corvane,Brand,452,1253,16.0
-2025-03,corvane pricing,Brand,173,390,6.7
-2025-03,spendara alternative,Generic - Procurement Software,253,620,3.9
-2025-03,beschaffungssoftware,Generic - Spend Management,358,1046,5.3
-2025-03,invoice approval software,Generic - Spend Management,499,1035,10.5
-2025-03,spend control tool,Generic - Spend Management,285,764,4.1
-2025-03,bestellfreigabe software,Generic - Spend Management,271,629,5.1
-2025-04,spend management software,Generic - Spend Management,876,1931,16.8
-2025-04,procurement software mittelstand,Generic - Spend Management,625,1961,8.0
-2025-04,purchase approval software,Generic - Procurement Software,512,1213,13.2
-2025-04,corvane,Brand,516,1489,12.7
-2025-04,corvane pricing,Brand,182,505,9.1
-2025-04,spendara alternative,Generic - Procurement Software,231,732,4.1
-2025-04,beschaffungssoftware,Generic - Spend Management,300,806,3.9
-2025-04,invoice approval software,Generic - Procurement Software,480,977,9.9
-2025-04,spend control tool,Generic - Spend Management,266,743,4.1
-2025-04,bestellfreigabe software,Generic - Spend Management,268,658,5.9
-2025-05,spend management software,Generic - Procurement Software,931,2782,24.0
-2025-05,procurement software mittelstand,Generic - Spend Management,611,1449,9.5
-2025-05,purchase approval software,Generic - Procurement Software,487,1093,8.8
-2025-05,corvane,Brand,363,817,9.6
-2025-05,corvane pricing,Brand,189,476,9.8
-2025-05,spendara alternative,Generic - Procurement Software,239,635,5.4
-2025-05,beschaffungssoftware,Generic - Procurement Software,261,603,3.6
-2025-05,invoice approval software,Generic - Spend Management,487,1230,9.1
-2025-05,spend control tool,Generic - Procurement Software,256,518,4.3
-2025-05,bestellfreigabe software,Generic - Procurement Software,288,757,5.0
-2025-06,spend management software,Generic - Spend Management,733,2059,19.4
-2025-06,procurement software mittelstand,Generic - Spend Management,579,1316,9.6
-2025-06,purchase approval software,Generic - Spend Management,450,1407,9.3
-2025-06,corvane,Brand,523,1578,18.4
-2025-06,corvane pricing,Brand,169,475,9.8
-2025-06,spendara alternative,Generic - Procurement Software,334,825,6.0
-2025-06,beschaffungssoftware,Generic - Spend Management,338,741,3.6
-2025-06,invoice approval software,Generic - Spend Management,427,1207,6.7
-2025-06,spend control tool,Generic - Procurement Software,384,1144,6.4
-2025-06,bestellfreigabe software,Generic - Spend Management,233,494,3.3
-2025-07,spend management software,Generic - Spend Management,867,2147,20.1
-2025-07,procurement software mittelstand,Generic - Procurement Software,437,914,5.4
-2025-07,purchase approval software,Generic - Spend Management,563,1585,9.7
-2025-07,corvane,Brand,466,1269,12.2
-2025-07,corvane pricing,Brand,164,434,8.9
-2025-07,spendara alternative,Generic - Procurement Software,211,670,3.8
-2025-07,beschaffungssoftware,Generic - Spend Management,399,1037,4.6
-2025-07,invoice approval software,Generic - Procurement Software,443,1002,5.6
-2025-07,spend control tool,Generic - Procurement Software,336,1060,6.1
-2025-07,bestellfreigabe software,Generic - Spend Management,202,617,4.3
-2025-08,spend management software,Generic - Procurement Software,1088,3146,29.2
-2025-08,procurement software mittelstand,Generic - Procurement Software,595,1860,10.8
-2025-08,purchase approval software,Generic - Procurement Software,566,1807,10.2
-2025-08,corvane,Brand,389,1091,16.4
-2025-08,corvane pricing,Brand,167,396,7.2
-2025-08,spendara alternative,Generic - Spend Management,306,846,4.1
-2025-08,beschaffungssoftware,Generic - Procurement Software,290,632,4.6
-2025-08,invoice approval software,Generic - Procurement Software,305,691,5.7
-2025-08,spend control tool,Generic - Procurement Software,248,745,3.1
-2025-08,bestellfreigabe software,Generic - Spend Management,188,574,2.5
-2025-09,spend management software,Generic - Procurement Software,973,2900,25.7
-2025-09,procurement software mittelstand,Generic - Spend Management,414,1110,6.6
-2025-09,purchase approval software,Generic - Procurement Software,432,1343,8.9
-2025-09,corvane,Brand,540,1610,16.8
-2025-09,corvane pricing,Brand,119,253,5.9
-2025-09,spendara alternative,Generic - Spend Management,261,733,3.3
-2025-09,beschaffungssoftware,Generic - Procurement Software,324,1017,4.1
-2025-09,invoice approval software,Generic - Spend Management,362,894,5.6
-2025-09,spend control tool,Generic - Spend Management,364,872,6.6
-2025-09,bestellfreigabe software,Generic - Procurement Software,325,704,6.4
-2025-10,spend management software,Generic - Procurement Software,957,2543,24.0
-2025-10,procurement software mittelstand,Generic - Spend Management,514,1377,6.9
-2025-10,purchase approval software,Generic - Spend Management,464,1257,9.2
-2025-10,corvane,Brand,306,640,10.5
-2025-10,corvane pricing,Brand,178,487,6.5
-2025-10,spendara alternative,Generic - Spend Management,182,424,4.1
-2025-10,beschaffungssoftware,Generic - Procurement Software,271,866,2.6
-2025-10,invoice approval software,Generic - Procurement Software,464,1179,9.6
-2025-10,spend control tool,Generic - Procurement Software,222,622,4.2
-2025-10,bestellfreigabe software,Generic - Procurement Software,281,659,6.7
-2025-11,spend management software,Generic - Spend Management,1007,2993,20.3
-2025-11,procurement software mittelstand,Generic - Procurement Software,561,1770,8.7
-2025-11,purchase approval software,Generic - Procurement Software,474,1058,12.2
-2025-11,corvane,Brand,483,1390,15.9
-2025-11,corvane pricing,Brand,200,433,10.7
-2025-11,spendara alternative,Generic - Procurement Software,221,575,4.7
-2025-11,beschaffungssoftware,Generic - Spend Management,353,836,5.2
-2025-11,invoice approval software,Generic - Spend Management,405,835,5.3
-2025-11,spend control tool,Generic - Procurement Software,344,1072,7.1
-2025-11,bestellfreigabe software,Generic - Spend Management,188,597,4.4
-2025-12,spend management software,Generic - Spend Management,890,2065,17.4
-2025-12,procurement software mittelstand,Generic - Procurement Software,382,1198,9.0
-2025-12,purchase approval software,Generic - Procurement Software,351,885,5.9
-2025-12,corvane,Brand,338,786,13.8
-2025-12,corvane pricing,Brand,139,317,7.8
-2025-12,spendara alternative,Generic - Procurement Software,283,796,5.1
-2025-12,beschaffungssoftware,Generic - Procurement Software,456,1345,6.1
-2025-12,invoice approval software,Generic - Spend Management,393,855,6.7
-2025-12,spend control tool,Generic - Procurement Software,250,606,2.9
-2025-12,bestellfreigabe software,Generic - Spend Management,271,722,5.9
-2026-01,spend management software,Generic - Procurement Software,831,2214,13.7
-2026-01,procurement software mittelstand,Generic - Spend Management,478,1124,6.8
-2026-01,purchase approval software,Generic - Spend Management,492,991,13.3
-2026-01,corvane,Brand,421,1189,14.4
-2026-01,corvane pricing,Brand,111,290,5.6
-2026-01,spendara alternative,Generic - Procurement Software,210,484,3.5
-2026-01,beschaffungssoftware,Generic - Procurement Software,359,892,5.4
-2026-01,invoice approval software,Generic - Procurement Software,295,702,5.6
-2026-01,spend control tool,Generic - Procurement Software,333,719,4.1
-2026-01,bestellfreigabe software,Generic - Procurement Software,202,611,3.5
-2026-02,spend management software,Generic - Procurement Software,1106,2500,21.7
-2026-02,procurement software mittelstand,Generic - Spend Management,412,1255,6.9
-2026-02,purchase approval software,Generic - Spend Management,451,1338,9.7
-2026-02,corvane,Brand,522,1166,16.3
-2026-02,corvane pricing,Brand,131,300,4.2
-2026-02,spendara alternative,Generic - Spend Management,265,603,4.9
-2026-02,beschaffungssoftware,Generic - Procurement Software,292,651,3.4
-2026-02,invoice approval software,Generic - Spend Management,432,1131,7.3
-2026-02,spend control tool,Generic - Procurement Software,354,747,4.9
-2026-02,bestellfreigabe software,Generic - Procurement Software,184,524,3.9
-2026-03,spend management software,Generic - Spend Management,896,2224,12.7
-2026-03,procurement software mittelstand,Generic - Spend Management,664,2123,13.4
-2026-03,purchase approval software,Generic - Procurement Software,594,1389,10.7
-2026-03,corvane,Brand,497,1113,18.7
-2026-03,corvane pricing,Brand,165,409,9.3
-2026-03,spendara alternative,Generic - Procurement Software,282,871,6.3
-2026-03,beschaffungssoftware,Generic - Procurement Software,419,1192,4.2
-2026-03,invoice approval software,Generic - Procurement Software,468,1341,9.6
-2026-03,spend control tool,Generic - Spend Management,269,563,4.2
-2026-03,bestellfreigabe software,Generic - Procurement Software,305,659,6.6
-2026-04,spend management software,Generic - Procurement Software,516,1624,43.7
-2026-04,procurement software mittelstand,Generic - Procurement Software,277,600,22.4
-2026-04,purchase approval software,Generic - Procurement Software,369,889,42.1
-2026-04,corvane,Brand,478,1331,69.9
-2026-04,corvane pricing,Brand,229,632,49.3
-2026-04,spendara alternative,Generic - Procurement Software,179,496,16.6
-2026-04,beschaffungssoftware,Generic - Spend Management,257,731,15.4
-2026-04,invoice approval software,Generic - Spend Management,335,784,16.8
-2026-04,spend control tool,Generic - Procurement Software,232,485,18.3
-2026-04,bestellfreigabe software,Generic - Spend Management,199,411,15.8
-2026-04,purchase order template,Generic - Spend Management,815,2441,176.2
-2026-04,what is spend management,Generic - Spend Management,565,1505,113.3
-2026-04,invoice approval process excel,Generic - Spend Management,315,753,66.1
-2026-04,free procurement checklist,Generic - Procurement Software,305,860,73.5
-2026-04,spend analysis template,Generic - Spend Management,270,814,65.3
-2026-04,bestellung vorlage excel,Generic - Spend Management,316,1004,55.5
-2026-05,spend management software,Generic - Procurement Software,765,1651,65.4
-2026-05,procurement software mittelstand,Generic - Spend Management,346,1029,31.2
-2026-05,purchase approval software,Generic - Spend Management,321,1015,27.1
-2026-05,corvane,Brand,510,1199,81.2
-2026-05,corvane pricing,Brand,226,578,29.8
-2026-05,spendara alternative,Generic - Spend Management,138,279,7.1
-2026-05,beschaffungssoftware,Generic - Procurement Software,183,508,6.7
-2026-05,invoice approval software,Generic - Spend Management,373,1095,29.4
-2026-05,spend control tool,Generic - Procurement Software,184,465,11.8
-2026-05,bestellfreigabe software,Generic - Spend Management,145,346,9.9
-2026-05,purchase order template,Generic - Procurement Software,514,1334,158.6
-2026-05,what is spend management,Generic - Spend Management,626,1547,133.0
-2026-05,invoice approval process excel,Generic - Spend Management,308,837,79.9
-2026-05,free procurement checklist,Generic - Spend Management,347,1077,101.7
-2026-05,spend analysis template,Generic - Procurement Software,372,1012,117.2
-2026-05,bestellung vorlage excel,Generic - Spend Management,367,1090,59.2
-2026-06,spend management software,Generic - Procurement Software,508,1357,51.8
-2026-06,procurement software mittelstand,Generic - Procurement Software,333,980,16.8
-2026-06,purchase approval software,Generic - Spend Management,381,1187,27.0
-2026-06,corvane,Brand,517,1618,54.4
-2026-06,corvane pricing,Brand,156,415,32.6
-2026-06,spendara alternative,Generic - Spend Management,226,661,14.6
-2026-06,beschaffungssoftware,Generic - Procurement Software,299,898,12.2
-2026-06,invoice approval software,Generic - Procurement Software,301,676,21.7
-2026-06,spend control tool,Generic - Spend Management,184,515,14.8
-2026-06,bestellfreigabe software,Generic - Procurement Software,199,514,16.4
-2026-06,purchase order template,Generic - Procurement Software,788,1657,176.9
-2026-06,what is spend management,Generic - Procurement Software,599,1739,143.5
-2026-06,invoice approval process excel,Generic - Procurement Software,411,1263,72.7
-2026-06,free procurement checklist,Generic - Spend Management,438,1013,155.5
-2026-06,spend analysis template,Generic - Spend Management,323,931,71.3
-2026-06,bestellung vorlage excel,Generic - Procurement Software,364,1019,56.1
-2026-07,spend management software,Generic - Procurement Software,727,2052,74.9
-2026-07,procurement software mittelstand,Generic - Spend Management,359,939,20.2
-2026-07,purchase approval software,Generic - Procurement Software,395,1038,32.9
-2026-07,corvane,Brand,524,1232,86.8
-2026-07,corvane pricing,Brand,152,476,23.4
-2026-07,spendara alternative,Generic - Procurement Software,186,503,12.3
-2026-07,beschaffungssoftware,Generic - Spend Management,189,529,10.4
-2026-07,invoice approval software,Generic - Spend Management,356,819,26.3
-2026-07,spend control tool,Generic - Spend Management,241,576,19.8
-2026-07,bestellfreigabe software,Generic - Spend Management,211,470,17.1
-2026-07,purchase order template,Generic - Procurement Software,833,2360,222.1
-2026-07,what is spend management,Generic - Spend Management,358,1131,65.1
-2026-07,invoice approval process excel,Generic - Procurement Software,378,902,68.9
-2026-07,free procurement checklist,Generic - Spend Management,428,863,106.3
-2026-07,spend analysis template,Generic - Procurement Software,248,678,81.3
-2026-07,bestellung vorlage excel,Generic - Procurement Software,351,1080,82.1
-2026-08,spend management software,Generic - Procurement Software,596,1841,42.3
-2026-08,procurement software mittelstand,Generic - Spend Management,370,1180,24.2
-2026-08,purchase approval software,Generic - Procurement Software,421,1005,40.9
-2026-08,corvane,Brand,360,729,50.8
-2026-08,corvane pricing,Brand,185,378,25.6
-2026-08,spendara alternative,Generic - Procurement Software,155,362,12.0
-2026-08,beschaffungssoftware,Generic - Procurement Software,273,767,12.7
-2026-08,invoice approval software,Generic - Procurement Software,225,494,12.1
-2026-08,spend control tool,Generic - Spend Management,257,612,12.6
-2026-08,bestellfreigabe software,Generic - Spend Management,227,513,12.3
-2026-08,purchase order template,Generic - Spend Management,859,2568,237.7
-2026-08,what is spend management,Generic - Spend Management,366,842,64.9
-2026-08,invoice approval process excel,Generic - Procurement Software,384,933,94.4
-2026-08,free procurement checklist,Generic - Spend Management,362,1035,134.3
-2026-08,spend analysis template,Generic - Procurement Software,231,487,73.5
-2026-08,bestellung vorlage excel,Generic - Procurement Software,340,843,73.8
-2026-09,spend management software,Generic - Procurement Software,526,1317,52.9
-2026-09,procurement software mittelstand,Generic - Procurement Software,294,660,21.6
-2026-09,purchase approval software,Generic - Procurement Software,353,863,36.2
-2026-09,corvane,Brand,623,1982,83.5
-2026-09,corvane pricing,Brand,162,385,21.7
-2026-09,spendara alternative,Generic - Procurement Software,171,541,12.7
-2026-09,beschaffungssoftware,Generic - Spend Management,283,758,20.2
-2026-09,invoice approval software,Generic - Spend Management,251,752,10.6
-2026-09,spend control tool,Generic - Procurement Software,278,558,20.9
-2026-09,bestellfreigabe software,Generic - Procurement Software,181,381,10.1
-2026-09,purchase order template,Generic - Procurement Software,694,1823,160.9
-2026-09,what is spend management,Generic - Procurement Software,558,1739,101.2
-2026-09,invoice approval process excel,Generic - Spend Management,310,966,84.2
-2026-09,free procurement checklist,Generic - Spend Management,335,923,80.2
-2026-09,spend analysis template,Generic - Procurement Software,370,824,92.7
-2026-09,bestellung vorlage excel,Generic - Procurement Software,219,554,46.3
-2026-10,spend management software,Generic - Spend Management,640,1460,66.2
-2026-10,procurement software mittelstand,Generic - Spend Management,467,1411,23.8
-2026-10,purchase approval software,Generic - Procurement Software,277,831,17.7
-2026-10,corvane,Brand,558,1178,85.9
-2026-10,corvane pricing,Brand,144,336,17.8
-2026-10,spendara alternative,Generic - Spend Management,177,510,13.4
-2026-10,beschaffungssoftware,Generic - Spend Management,299,599,19.3
-2026-10,invoice approval software,Generic - Procurement Software,259,674,16.0
-2026-10,spend control tool,Generic - Spend Management,264,728,18.1
-2026-10,bestellfreigabe software,Generic - Procurement Software,225,678,19.9
-2026-10,purchase order template,Generic - Procurement Software,925,2039,212.8
-2026-10,what is spend management,Generic - Procurement Software,475,1295,101.2
-2026-10,invoice approval process excel,Generic - Spend Management,412,843,99.1
-2026-10,free procurement checklist,Generic - Spend Management,413,1058,96.9
-2026-10,spend analysis template,Generic - Procurement Software,342,708,102.0
-2026-10,bestellung vorlage excel,Generic - Procurement Software,367,964,64.4
+month,search_term,campaign,matched_keyword,match_type,impressions,clicks,cost_eur,conversions
+2025-01,corvane login,Brand,corvane,Phrase,1001,564,943,0.2
+2025-01,corvane,Brand,[corvane],Exact,1112,260,774,3.7
+2025-01,corvane app,Brand,corvane,Phrase,248,130,231,0.1
+2025-01,corvane pricing,Brand,corvane,Phrase,433,97,288,3.1
+2025-01,corvane support,Brand,corvane,Phrase,157,84,158,0.0
+2025-01,corvane spend management,Brand,corvane,Phrase,362,85,280,1.9
+2025-01,corvane jobs,Brand,corvane,Phrase,101,60,105,0.0
+2025-01,corvane erfahrungen,Brand,corvane,Phrase,233,48,139,0.5
+2025-01,corvane demo,Brand,corvane,Phrase,125,31,103,2.2
+2025-01,spend management software,Generic - Spend Management,spend management software,Phrase,12380,443,2546,3.4
+2025-01,spend control tool,Generic - Spend Management,spend control tool,Phrase,5788,219,1360,1.5
+2025-01,ausgabenmanagement software,Generic - Spend Management,ausgabenmanagement software,Phrase,5222,190,1044,1.6
+2025-01,spend management software mittelstand,Generic - Spend Management,spend management software,Phrase,5945,216,1439,2.1
+2025-01,best spend management software,Generic - Spend Management,spend management software,Phrase,4871,183,1136,1.7
+2025-01,expense approval software,Generic - Spend Management,spend control tool,Phrase,4543,169,876,1.1
+2025-01,business spend management platform,Generic - Spend Management,spend management software,Phrase,4340,168,1068,1.3
+2025-01,budget control software,Generic - Spend Management,spend control tool,Phrase,3824,135,863,0.8
+2025-01,procurement software mittelstand,Generic - Procurement Software,procurement software,Phrase,3136,144,1069,1.4
+2025-01,procurement software,Generic - Procurement Software,procurement software,Phrase,2429,127,915,1.1
+2025-01,beschaffungssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,2157,107,801,1.0
+2025-01,purchase approval software,Generic - Procurement Software,purchase approval software,Phrase,2434,125,763,1.3
+2025-01,bestellfreigabe software,Generic - Procurement Software,beschaffungssoftware,Phrase,1833,102,654,1.0
+2025-01,purchase requisition software,Generic - Procurement Software,purchase approval software,Phrase,1703,87,631,0.7
+2025-01,e procurement tool,Generic - Procurement Software,procurement software,Phrase,1488,80,550,0.5
+2025-01,einkaufssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,1266,67,466,0.5
+2025-01,invoice approval software,Generic - Invoice Automation,invoice approval software,Phrase,3576,178,1277,1.4
+2025-01,invoice automation software,Generic - Invoice Automation,invoice automation software,Phrase,3441,151,901,1.1
+2025-01,rechnungsfreigabe software,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,2914,118,794,1.0
+2025-01,accounts payable automation,Generic - Invoice Automation,invoice automation software,Phrase,2069,85,522,0.5
+2025-01,eingangsrechnungen digitalisieren,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,2133,84,624,0.6
+2025-01,invoice matching software,Generic - Invoice Automation,invoice approval software,Phrase,2047,79,596,0.6
+2025-01,spendara login,Competitor - Spendara,spendara,Phrase,1654,79,472,0.0
+2025-01,spendara alternative,Competitor - Spendara,spendara alternative,Phrase,3657,69,696,3.6
+2025-01,spendara pricing,Competitor - Spendara,spendara,Phrase,2332,47,526,1.5
+2025-01,spendara reviews,Competitor - Spendara,spendara,Phrase,1792,31,285,0.8
+2025-01,spendara,Competitor - Spendara,spendara,Phrase,1633,29,286,0.4
+2025-01,spendara vs corvane,Competitor - Spendara,spendara alternative,Phrase,1108,20,191,1.6
+2025-01,spendara erfahrungen,Competitor - Spendara,spendara,Phrase,1158,25,261,0.7
+2025-01,spendara support,Competitor - Spendara,spendara,Phrase,482,22,122,0.0
+2025-02,corvane login,Brand,corvane,Phrase,2181,936,1163,0.2
+2025-02,corvane,Brand,[corvane],Exact,2875,475,1121,5.1
+2025-02,corvane app,Brand,corvane,Phrase,385,140,170,0.0
+2025-02,corvane pricing,Brand,corvane,Phrase,657,126,259,3.0
+2025-02,corvane support,Brand,corvane,Phrase,255,97,138,0.0
+2025-02,corvane spend management,Brand,corvane,Phrase,626,100,222,1.7
+2025-02,corvane jobs,Brand,corvane,Phrase,192,71,103,0.0
+2025-02,corvane erfahrungen,Brand,corvane,Phrase,291,53,103,0.5
+2025-02,corvane demo,Brand,corvane,Phrase,174,36,74,1.9
+2025-02,spend management software,Generic - Spend Management,spend management software,Phrase,5721,352,2682,3.4
+2025-02,spend control tool,Generic - Spend Management,spend control tool,Phrase,2714,169,1247,1.5
+2025-02,ausgabenmanagement software,Generic - Spend Management,ausgabenmanagement software,Phrase,3255,199,1591,2.2
+2025-02,spend management software mittelstand,Generic - Spend Management,spend management software,Phrase,3584,183,1308,2.3
+2025-02,best spend management software,Generic - Spend Management,spend management software,Phrase,2569,133,1100,1.6
+2025-02,expense approval software,Generic - Spend Management,spend control tool,Phrase,2474,140,931,1.2
+2025-02,business spend management platform,Generic - Spend Management,spend management software,Phrase,2161,116,832,1.1
+2025-02,budget control software,Generic - Spend Management,spend control tool,Phrase,1691,91,765,0.7
+2025-02,procurement software mittelstand,Generic - Procurement Software,procurement software,Phrase,2810,167,1014,1.8
+2025-02,procurement software,Generic - Procurement Software,procurement software,Phrase,3400,156,868,1.4
+2025-02,beschaffungssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,3327,154,844,1.5
+2025-02,purchase approval software,Generic - Procurement Software,purchase approval software,Phrase,3310,163,948,1.8
+2025-02,bestellfreigabe software,Generic - Procurement Software,beschaffungssoftware,Phrase,2007,107,616,1.1
+2025-02,purchase requisition software,Generic - Procurement Software,purchase approval software,Phrase,1827,89,595,0.8
+2025-02,e procurement tool,Generic - Procurement Software,procurement software,Phrase,2400,121,716,0.9
+2025-02,einkaufssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,2235,103,749,0.8
+2025-02,invoice approval software,Generic - Invoice Automation,invoice approval software,Phrase,3309,127,808,1.5
+2025-02,invoice automation software,Generic - Invoice Automation,invoice automation software,Phrase,3042,130,790,1.4
+2025-02,rechnungsfreigabe software,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,2272,93,603,1.2
+2025-02,accounts payable automation,Generic - Invoice Automation,invoice automation software,Phrase,1914,78,557,0.8
+2025-02,eingangsrechnungen digitalisieren,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1416,65,401,0.7
+2025-02,invoice matching software,Generic - Invoice Automation,invoice approval software,Phrase,1687,79,591,0.8
+2025-02,spendara login,Competitor - Spendara,spendara,Phrase,1540,73,453,0.0
+2025-02,spendara alternative,Competitor - Spendara,spendara alternative,Phrase,3696,72,743,3.3
+2025-02,spendara pricing,Competitor - Spendara,spendara,Phrase,2751,60,473,1.6
+2025-02,spendara reviews,Competitor - Spendara,spendara,Phrase,1630,37,341,0.8
+2025-02,spendara,Competitor - Spendara,spendara,Phrase,1244,25,258,0.3
+2025-02,spendara vs corvane,Competitor - Spendara,spendara alternative,Phrase,1073,22,174,1.5
+2025-02,spendara erfahrungen,Competitor - Spendara,spendara,Phrase,1020,21,182,0.5
+2025-02,spendara support,Competitor - Spendara,spendara,Phrase,356,16,82,0.0
+2025-03,corvane login,Brand,corvane,Phrase,961,602,912,0.1
+2025-03,corvane,Brand,[corvane],Exact,1232,337,821,2.5
+2025-03,corvane app,Brand,corvane,Phrase,310,158,245,0.0
+2025-03,corvane pricing,Brand,corvane,Phrase,596,132,274,2.2
+2025-03,corvane support,Brand,corvane,Phrase,151,81,120,0.0
+2025-03,corvane spend management,Brand,corvane,Phrase,330,71,148,0.9
+2025-03,corvane jobs,Brand,corvane,Phrase,152,73,113,0.0
+2025-03,corvane erfahrungen,Brand,corvane,Phrase,227,56,136,0.3
+2025-03,corvane demo,Brand,corvane,Phrase,97,28,67,1.1
+2025-03,spend management software,Generic - Spend Management,spend management software,Phrase,6362,367,2442,1.9
+2025-03,spend control tool,Generic - Spend Management,spend control tool,Phrase,3855,241,1637,1.1
+2025-03,ausgabenmanagement software,Generic - Spend Management,ausgabenmanagement software,Phrase,3249,166,1052,1.0
+2025-03,spend management software mittelstand,Generic - Spend Management,spend management software,Phrase,3367,174,1199,1.2
+2025-03,best spend management software,Generic - Spend Management,spend management software,Phrase,2681,130,770,0.8
+2025-03,expense approval software,Generic - Spend Management,spend control tool,Phrase,1854,117,906,0.5
+2025-03,business spend management platform,Generic - Spend Management,spend management software,Phrase,2444,150,1115,0.8
+2025-03,budget control software,Generic - Spend Management,spend control tool,Phrase,2225,111,734,0.5
+2025-03,procurement software mittelstand,Generic - Procurement Software,procurement software,Phrase,2449,131,882,1.0
+2025-03,procurement software,Generic - Procurement Software,procurement software,Phrase,2535,119,966,0.7
+2025-03,beschaffungssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,2504,123,1002,0.8
+2025-03,purchase approval software,Generic - Procurement Software,purchase approval software,Phrase,2377,132,1105,1.0
+2025-03,bestellfreigabe software,Generic - Procurement Software,beschaffungssoftware,Phrase,1769,94,764,0.7
+2025-03,purchase requisition software,Generic - Procurement Software,purchase approval software,Phrase,1842,94,728,0.6
+2025-03,e procurement tool,Generic - Procurement Software,procurement software,Phrase,1494,87,598,0.4
+2025-03,einkaufssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,1397,78,543,0.4
+2025-03,invoice approval software,Generic - Invoice Automation,invoice approval software,Phrase,2818,162,984,1.1
+2025-03,invoice automation software,Generic - Invoice Automation,invoice automation software,Phrase,2047,130,825,0.8
+2025-03,rechnungsfreigabe software,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1717,106,662,0.8
+2025-03,accounts payable automation,Generic - Invoice Automation,invoice automation software,Phrase,1365,85,591,0.5
+2025-03,eingangsrechnungen digitalisieren,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1578,82,525,0.5
+2025-03,invoice matching software,Generic - Invoice Automation,invoice approval software,Phrase,1384,79,584,0.5
+2025-03,spendara login,Competitor - Spendara,spendara,Phrase,2054,102,489,0.0
+2025-03,spendara alternative,Competitor - Spendara,spendara alternative,Phrase,4472,93,604,2.0
+2025-03,spendara pricing,Competitor - Spendara,spendara,Phrase,3423,71,466,0.9
+2025-03,spendara reviews,Competitor - Spendara,spendara,Phrase,1855,41,271,0.4
+2025-03,spendara,Competitor - Spendara,spendara,Phrase,1841,43,326,0.2
+2025-03,spendara vs corvane,Competitor - Spendara,spendara alternative,Phrase,1804,36,286,1.1
+2025-03,spendara erfahrungen,Competitor - Spendara,spendara,Phrase,1278,27,212,0.3
+2025-03,spendara support,Competitor - Spendara,spendara,Phrase,546,21,81,0.0
+2025-04,corvane login,Brand,corvane,Phrase,1024,580,947,0.1
+2025-04,corvane,Brand,[corvane],Exact,1386,319,886,4.0
+2025-04,corvane app,Brand,corvane,Phrase,235,124,248,0.0
+2025-04,corvane pricing,Brand,corvane,Phrase,364,95,328,2.6
+2025-04,corvane support,Brand,corvane,Phrase,157,76,135,0.0
+2025-04,corvane spend management,Brand,corvane,Phrase,337,84,284,1.7
+2025-04,corvane jobs,Brand,corvane,Phrase,116,54,101,0.0
+2025-04,corvane erfahrungen,Brand,corvane,Phrase,173,47,149,0.5
+2025-04,corvane demo,Brand,corvane,Phrase,138,33,115,2.0
+2025-04,spend management software,Generic - Spend Management,spend management software,Phrase,7784,450,3257,2.8
+2025-04,spend control tool,Generic - Spend Management,spend control tool,Phrase,2630,177,1065,1.0
+2025-04,ausgabenmanagement software,Generic - Spend Management,ausgabenmanagement software,Phrase,3009,201,1385,1.4
+2025-04,spend management software mittelstand,Generic - Spend Management,spend management software,Phrase,3600,196,1128,1.6
+2025-04,best spend management software,Generic - Spend Management,spend management software,Phrase,3248,176,1032,1.3
+2025-04,expense approval software,Generic - Spend Management,spend control tool,Phrase,2143,133,872,0.7
+2025-04,business spend management platform,Generic - Spend Management,spend management software,Phrase,2421,141,899,0.9
+2025-04,budget control software,Generic - Spend Management,spend control tool,Phrase,2261,127,802,0.6
+2025-04,procurement software mittelstand,Generic - Procurement Software,procurement software,Phrase,2024,138,1133,1.3
+2025-04,procurement software,Generic - Procurement Software,procurement software,Phrase,2329,131,1005,1.0
+2025-04,beschaffungssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,1536,100,652,0.9
+2025-04,purchase approval software,Generic - Procurement Software,purchase approval software,Phrase,1961,134,886,1.3
+2025-04,bestellfreigabe software,Generic - Procurement Software,beschaffungssoftware,Phrase,1775,100,673,1.0
+2025-04,purchase requisition software,Generic - Procurement Software,purchase approval software,Phrase,1381,90,572,0.7
+2025-04,e procurement tool,Generic - Procurement Software,procurement software,Phrase,1186,87,698,0.6
+2025-04,einkaufssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,1035,72,506,0.5
+2025-04,invoice approval software,Generic - Invoice Automation,invoice approval software,Phrase,3826,161,1351,1.2
+2025-04,invoice automation software,Generic - Invoice Automation,invoice automation software,Phrase,2663,134,1000,0.9
+2025-04,rechnungsfreigabe software,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1936,86,678,0.7
+2025-04,accounts payable automation,Generic - Invoice Automation,invoice automation software,Phrase,2477,105,833,0.7
+2025-04,eingangsrechnungen digitalisieren,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1315,63,472,0.5
+2025-04,invoice matching software,Generic - Invoice Automation,invoice approval software,Phrase,1464,61,495,0.4
+2025-04,spendara login,Competitor - Spendara,spendara,Phrase,1488,80,371,0.0
+2025-04,spendara alternative,Competitor - Spendara,spendara alternative,Phrase,2835,64,568,2.4
+2025-04,spendara pricing,Competitor - Spendara,spendara,Phrase,2087,46,373,1.0
+2025-04,spendara reviews,Competitor - Spendara,spendara,Phrase,1525,37,331,0.7
+2025-04,spendara,Competitor - Spendara,spendara,Phrase,1581,36,324,0.3
+2025-04,spendara vs corvane,Competitor - Spendara,spendara alternative,Phrase,1049,28,224,1.5
+2025-04,spendara erfahrungen,Competitor - Spendara,spendara,Phrase,856,20,171,0.4
+2025-04,spendara support,Competitor - Spendara,spendara,Phrase,294,17,89,0.0
+2025-05,corvane login,Brand,corvane,Phrase,1375,550,951,0.1
+2025-05,corvane,Brand,[corvane],Exact,1687,303,1026,3.1
+2025-05,corvane app,Brand,corvane,Phrase,264,105,166,0.0
+2025-05,corvane pricing,Brand,corvane,Phrase,382,76,238,1.7
+2025-05,corvane support,Brand,corvane,Phrase,160,66,120,0.0
+2025-05,corvane spend management,Brand,corvane,Phrase,303,63,211,1.0
+2025-05,corvane jobs,Brand,corvane,Phrase,125,49,91,0.0
+2025-05,corvane erfahrungen,Brand,corvane,Phrase,192,34,104,0.3
+2025-05,corvane demo,Brand,corvane,Phrase,126,25,84,1.3
+2025-05,spend management software,Generic - Spend Management,spend management software,Phrase,6131,389,2950,3.0
+2025-05,spend control tool,Generic - Spend Management,spend control tool,Phrase,3123,211,1612,1.5
+2025-05,ausgabenmanagement software,Generic - Spend Management,ausgabenmanagement software,Phrase,2642,160,1106,1.3
+2025-05,spend management software mittelstand,Generic - Spend Management,spend management software,Phrase,2565,146,1070,1.5
+2025-05,best spend management software,Generic - Spend Management,spend management software,Phrase,3069,160,1151,1.5
+2025-05,expense approval software,Generic - Spend Management,spend control tool,Phrase,2053,121,897,0.8
+2025-05,business spend management platform,Generic - Spend Management,spend management software,Phrase,2028,117,870,0.9
+2025-05,budget control software,Generic - Spend Management,spend control tool,Phrase,1768,109,821,0.7
+2025-05,procurement software mittelstand,Generic - Procurement Software,procurement software,Phrase,3784,162,1232,1.6
+2025-05,procurement software,Generic - Procurement Software,procurement software,Phrase,2969,159,1049,1.3
+2025-05,beschaffungssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,2458,126,711,1.1
+2025-05,purchase approval software,Generic - Procurement Software,purchase approval software,Phrase,2762,118,791,1.2
+2025-05,bestellfreigabe software,Generic - Procurement Software,beschaffungssoftware,Phrase,1941,102,757,1.0
+2025-05,purchase requisition software,Generic - Procurement Software,purchase approval software,Phrase,2147,114,714,0.9
+2025-05,e procurement tool,Generic - Procurement Software,procurement software,Phrase,2657,113,673,0.7
+2025-05,einkaufssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,1787,83,571,0.6
+2025-05,invoice approval software,Generic - Invoice Automation,invoice approval software,Phrase,2063,117,884,1.1
+2025-05,invoice automation software,Generic - Invoice Automation,invoice automation software,Phrase,1630,122,997,1.1
+2025-05,rechnungsfreigabe software,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1324,83,649,0.9
+2025-05,accounts payable automation,Generic - Invoice Automation,invoice automation software,Phrase,1354,96,745,0.7
+2025-05,eingangsrechnungen digitalisieren,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1407,90,731,0.8
+2025-05,invoice matching software,Generic - Invoice Automation,invoice approval software,Phrase,1098,62,406,0.5
+2025-05,spendara login,Competitor - Spendara,spendara,Phrase,1612,97,486,0.0
+2025-05,spendara alternative,Competitor - Spendara,spendara alternative,Phrase,2535,72,530,2.3
+2025-05,spendara pricing,Competitor - Spendara,spendara,Phrase,2099,64,520,1.2
+2025-05,spendara reviews,Competitor - Spendara,spendara,Phrase,1319,40,303,0.7
+2025-05,spendara,Competitor - Spendara,spendara,Phrase,1452,36,261,0.3
+2025-05,spendara vs corvane,Competitor - Spendara,spendara alternative,Phrase,1123,32,221,1.5
+2025-05,spendara erfahrungen,Competitor - Spendara,spendara,Phrase,1004,25,177,0.4
+2025-05,spendara support,Competitor - Spendara,spendara,Phrase,395,26,111,0.0
+2025-06,corvane login,Brand,corvane,Phrase,1970,746,1170,0.2
+2025-06,corvane,Brand,[corvane],Exact,2349,378,953,4.8
+2025-06,corvane app,Brand,corvane,Phrase,313,100,169,0.0
+2025-06,corvane pricing,Brand,corvane,Phrase,604,108,291,3.0
+2025-06,corvane support,Brand,corvane,Phrase,207,77,125,0.0
+2025-06,corvane spend management,Brand,corvane,Phrase,398,61,143,1.2
+2025-06,corvane jobs,Brand,corvane,Phrase,180,55,74,0.0
+2025-06,corvane erfahrungen,Brand,corvane,Phrase,261,41,116,0.4
+2025-06,corvane demo,Brand,corvane,Phrase,186,34,94,2.2
+2025-06,spend management software,Generic - Spend Management,spend management software,Phrase,6461,327,2842,3.6
+2025-06,spend control tool,Generic - Spend Management,spend control tool,Phrase,4170,172,1328,1.7
+2025-06,ausgabenmanagement software,Generic - Spend Management,ausgabenmanagement software,Phrase,2633,134,1067,1.6
+2025-06,spend management software mittelstand,Generic - Spend Management,spend management software,Phrase,2156,111,755,1.6
+2025-06,best spend management software,Generic - Spend Management,spend management software,Phrase,3002,129,874,1.7
+2025-06,expense approval software,Generic - Spend Management,spend control tool,Phrase,1605,82,691,0.8
+2025-06,business spend management platform,Generic - Spend Management,spend management software,Phrase,2127,98,706,1.1
+2025-06,budget control software,Generic - Spend Management,spend control tool,Phrase,1725,90,657,0.8
+2025-06,procurement software mittelstand,Generic - Procurement Software,procurement software,Phrase,2351,139,1078,2.2
+2025-06,procurement software,Generic - Procurement Software,procurement software,Phrase,2382,138,923,1.8
+2025-06,beschaffungssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,2684,146,922,2.1
+2025-06,purchase approval software,Generic - Procurement Software,purchase approval software,Phrase,2339,125,765,2.0
+2025-06,bestellfreigabe software,Generic - Procurement Software,beschaffungssoftware,Phrase,1726,95,739,1.5
+2025-06,purchase requisition software,Generic - Procurement Software,purchase approval software,Phrase,1439,69,494,0.9
+2025-06,e procurement tool,Generic - Procurement Software,procurement software,Phrase,1803,88,650,1.0
+2025-06,einkaufssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,1304,69,451,0.8
+2025-06,invoice approval software,Generic - Invoice Automation,invoice approval software,Phrase,2381,147,1077,1.9
+2025-06,invoice automation software,Generic - Invoice Automation,invoice automation software,Phrase,2157,112,850,1.3
+2025-06,rechnungsfreigabe software,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1215,74,462,1.0
+2025-06,accounts payable automation,Generic - Invoice Automation,invoice automation software,Phrase,1600,90,685,1.0
+2025-06,eingangsrechnungen digitalisieren,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1105,72,517,0.9
+2025-06,invoice matching software,Generic - Invoice Automation,invoice approval software,Phrase,1021,59,480,0.7
+2025-06,spendara login,Competitor - Spendara,spendara,Phrase,2152,116,544,0.0
+2025-06,spendara alternative,Competitor - Spendara,spendara alternative,Phrase,3869,93,736,3.1
+2025-06,spendara pricing,Competitor - Spendara,spendara,Phrase,2885,76,564,1.5
+2025-06,spendara reviews,Competitor - Spendara,spendara,Phrase,2106,47,332,0.8
+2025-06,spendara,Competitor - Spendara,spendara,Phrase,2013,43,332,0.4
+2025-06,spendara vs corvane,Competitor - Spendara,spendara alternative,Phrase,1675,33,208,1.7
+2025-06,spendara erfahrungen,Competitor - Spendara,spendara,Phrase,1466,29,210,0.5
+2025-06,spendara support,Competitor - Spendara,spendara,Phrase,417,20,78,0.0
+2025-07,corvane login,Brand,corvane,Phrase,1681,668,1022,0.1
+2025-07,corvane,Brand,[corvane],Exact,1979,342,717,2.9
+2025-07,corvane app,Brand,corvane,Phrase,221,92,134,0.0
+2025-07,corvane pricing,Brand,corvane,Phrase,536,114,281,2.2
+2025-07,corvane support,Brand,corvane,Phrase,120,57,83,0.0
+2025-07,corvane spend management,Brand,corvane,Phrase,384,63,135,0.9
+2025-07,corvane jobs,Brand,corvane,Phrase,118,54,75,0.0
+2025-07,corvane erfahrungen,Brand,corvane,Phrase,190,39,82,0.3
+2025-07,corvane demo,Brand,corvane,Phrase,190,32,70,1.4
+2025-07,spend management software,Generic - Spend Management,spend management software,Phrase,4866,335,2222,2.1
+2025-07,spend control tool,Generic - Spend Management,spend control tool,Phrase,2974,182,1236,1.0
+2025-07,ausgabenmanagement software,Generic - Spend Management,ausgabenmanagement software,Phrase,3446,193,1283,1.3
+2025-07,spend management software mittelstand,Generic - Spend Management,spend management software,Phrase,2577,164,1076,1.3
+2025-07,best spend management software,Generic - Spend Management,spend management software,Phrase,2591,147,1157,1.1
+2025-07,expense approval software,Generic - Spend Management,spend control tool,Phrase,1572,111,908,0.6
+2025-07,business spend management platform,Generic - Spend Management,spend management software,Phrase,1611,115,895,0.7
+2025-07,budget control software,Generic - Spend Management,spend control tool,Phrase,1908,128,817,0.6
+2025-07,procurement software mittelstand,Generic - Procurement Software,procurement software,Phrase,5215,229,1297,1.7
+2025-07,procurement software,Generic - Procurement Software,procurement software,Phrase,4224,208,1311,1.3
+2025-07,beschaffungssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,4140,180,1283,1.2
+2025-07,purchase approval software,Generic - Procurement Software,purchase approval software,Phrase,3538,159,930,1.1
+2025-07,bestellfreigabe software,Generic - Procurement Software,beschaffungssoftware,Phrase,2217,103,617,0.7
+2025-07,purchase requisition software,Generic - Procurement Software,purchase approval software,Phrase,2691,111,620,0.7
+2025-07,e procurement tool,Generic - Procurement Software,procurement software,Phrase,2322,99,686,0.5
+2025-07,einkaufssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,1788,87,574,0.5
+2025-07,invoice approval software,Generic - Invoice Automation,invoice approval software,Phrase,3778,154,1178,1.5
+2025-07,invoice automation software,Generic - Invoice Automation,invoice automation software,Phrase,2643,103,643,0.9
+2025-07,rechnungsfreigabe software,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1773,72,555,0.7
+2025-07,accounts payable automation,Generic - Invoice Automation,invoice automation software,Phrase,2008,82,593,0.6
+2025-07,eingangsrechnungen digitalisieren,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1477,69,487,0.6
+2025-07,invoice matching software,Generic - Invoice Automation,invoice approval software,Phrase,1462,63,385,0.5
+2025-07,spendara login,Competitor - Spendara,spendara,Phrase,1117,81,349,0.0
+2025-07,spendara alternative,Competitor - Spendara,spendara alternative,Phrase,2233,78,731,2.6
+2025-07,spendara pricing,Competitor - Spendara,spendara,Phrase,1168,45,319,0.9
+2025-07,spendara reviews,Competitor - Spendara,spendara,Phrase,1043,32,231,0.5
+2025-07,spendara,Competitor - Spendara,spendara,Phrase,720,26,229,0.2
+2025-07,spendara vs corvane,Competitor - Spendara,spendara alternative,Phrase,916,30,218,1.5
+2025-07,spendara erfahrungen,Competitor - Spendara,spendara,Phrase,668,27,191,0.4
+2025-07,spendara support,Competitor - Spendara,spendara,Phrase,280,23,102,0.0
+2025-08,corvane login,Brand,corvane,Phrase,841,491,878,0.1
+2025-08,corvane,Brand,[corvane],Exact,1336,295,791,2.4
+2025-08,corvane app,Brand,corvane,Phrase,196,107,171,0.0
+2025-08,corvane pricing,Brand,corvane,Phrase,384,107,301,2.0
+2025-08,corvane support,Brand,corvane,Phrase,119,61,102,0.0
+2025-08,corvane spend management,Brand,corvane,Phrase,187,55,164,0.7
+2025-08,corvane jobs,Brand,corvane,Phrase,113,61,92,0.0
+2025-08,corvane erfahrungen,Brand,corvane,Phrase,135,40,101,0.3
+2025-08,corvane demo,Brand,corvane,Phrase,108,29,86,1.2
+2025-08,spend management software,Generic - Spend Management,spend management software,Phrase,8297,452,2629,2.4
+2025-08,spend control tool,Generic - Spend Management,spend control tool,Phrase,4796,257,1309,1.2
+2025-08,ausgabenmanagement software,Generic - Spend Management,ausgabenmanagement software,Phrase,4220,234,1481,1.3
+2025-08,spend management software mittelstand,Generic - Spend Management,spend management software,Phrase,2857,157,804,1.1
+2025-08,best spend management software,Generic - Spend Management,spend management software,Phrase,2522,156,882,1.0
+2025-08,expense approval software,Generic - Spend Management,spend control tool,Phrase,2523,141,761,0.6
+2025-08,business spend management platform,Generic - Spend Management,spend management software,Phrase,2427,165,1080,0.9
+2025-08,budget control software,Generic - Spend Management,spend control tool,Phrase,2003,136,808,0.6
+2025-08,procurement software mittelstand,Generic - Procurement Software,procurement software,Phrase,2888,160,1208,1.6
+2025-08,procurement software,Generic - Procurement Software,procurement software,Phrase,2943,133,973,1.1
+2025-08,beschaffungssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,2924,140,1168,1.3
+2025-08,purchase approval software,Generic - Procurement Software,purchase approval software,Phrase,2537,118,945,1.1
+2025-08,bestellfreigabe software,Generic - Procurement Software,beschaffungssoftware,Phrase,1489,72,617,0.7
+2025-08,purchase requisition software,Generic - Procurement Software,purchase approval software,Phrase,1599,83,544,0.7
+2025-08,e procurement tool,Generic - Procurement Software,procurement software,Phrase,1474,77,595,0.5
+2025-08,einkaufssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,1377,74,618,0.5
+2025-08,invoice approval software,Generic - Invoice Automation,invoice approval software,Phrase,2948,159,982,1.2
+2025-08,invoice automation software,Generic - Invoice Automation,invoice automation software,Phrase,3250,143,999,1.0
+2025-08,rechnungsfreigabe software,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,2308,118,748,0.9
+2025-08,accounts payable automation,Generic - Invoice Automation,invoice automation software,Phrase,1982,85,606,0.5
+2025-08,eingangsrechnungen digitalisieren,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,2174,95,620,0.6
+2025-08,invoice matching software,Generic - Invoice Automation,invoice approval software,Phrase,1618,75,479,0.5
+2025-08,spendara login,Competitor - Spendara,spendara,Phrase,1465,70,409,0.0
+2025-08,spendara alternative,Competitor - Spendara,spendara alternative,Phrase,3585,70,661,2.3
+2025-08,spendara pricing,Competitor - Spendara,spendara,Phrase,2083,43,367,0.8
+2025-08,spendara reviews,Competitor - Spendara,spendara,Phrase,1870,34,309,0.5
+2025-08,spendara,Competitor - Spendara,spendara,Phrase,1819,32,259,0.3
+2025-08,spendara vs corvane,Competitor - Spendara,spendara alternative,Phrase,1376,28,240,1.4
+2025-08,spendara erfahrungen,Competitor - Spendara,spendara,Phrase,1187,24,227,0.4
+2025-08,spendara support,Competitor - Spendara,spendara,Phrase,515,20,97,0.0
+2025-09,corvane login,Brand,corvane,Phrase,1442,573,931,0.1
+2025-09,corvane,Brand,[corvane],Exact,1531,310,717,3.6
+2025-09,corvane app,Brand,corvane,Phrase,323,115,152,0.0
+2025-09,corvane pricing,Brand,corvane,Phrase,594,111,303,2.8
+2025-09,corvane support,Brand,corvane,Phrase,169,64,107,0.0
+2025-09,corvane spend management,Brand,corvane,Phrase,330,58,148,1.1
+2025-09,corvane jobs,Brand,corvane,Phrase,139,64,106,0.0
+2025-09,corvane erfahrungen,Brand,corvane,Phrase,244,39,84,0.4
+2025-09,corvane demo,Brand,corvane,Phrase,163,26,61,1.5
+2025-09,spend management software,Generic - Spend Management,spend management software,Phrase,10515,433,3112,3.1
+2025-09,spend control tool,Generic - Spend Management,spend control tool,Phrase,4070,181,1085,1.2
+2025-09,ausgabenmanagement software,Generic - Spend Management,ausgabenmanagement software,Phrase,5102,204,1445,1.6
+2025-09,spend management software mittelstand,Generic - Spend Management,spend management software,Phrase,5047,205,1334,1.9
+2025-09,best spend management software,Generic - Spend Management,spend management software,Phrase,3291,133,873,1.1
+2025-09,expense approval software,Generic - Spend Management,spend control tool,Phrase,2718,116,786,0.8
+2025-09,business spend management platform,Generic - Spend Management,spend management software,Phrase,2829,128,745,0.9
+2025-09,budget control software,Generic - Spend Management,spend control tool,Phrase,3318,153,970,0.9
+2025-09,procurement software mittelstand,Generic - Procurement Software,procurement software,Phrase,4747,179,1126,1.4
+2025-09,procurement software,Generic - Procurement Software,procurement software,Phrase,3704,159,870,1.0
+2025-09,beschaffungssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,4235,190,1086,1.3
+2025-09,purchase approval software,Generic - Procurement Software,purchase approval software,Phrase,3385,163,925,1.2
+2025-09,bestellfreigabe software,Generic - Procurement Software,beschaffungssoftware,Phrase,2154,94,506,0.7
+2025-09,purchase requisition software,Generic - Procurement Software,purchase approval software,Phrase,2201,104,578,0.7
+2025-09,e procurement tool,Generic - Procurement Software,procurement software,Phrase,2599,112,585,0.6
+2025-09,einkaufssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,1951,93,594,0.5
+2025-09,invoice approval software,Generic - Invoice Automation,invoice approval software,Phrase,2709,128,969,1.0
+2025-09,invoice automation software,Generic - Invoice Automation,invoice automation software,Phrase,2379,117,973,0.9
+2025-09,rechnungsfreigabe software,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1635,77,572,0.7
+2025-09,accounts payable automation,Generic - Invoice Automation,invoice automation software,Phrase,1412,81,692,0.5
+2025-09,eingangsrechnungen digitalisieren,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1741,79,582,0.6
+2025-09,invoice matching software,Generic - Invoice Automation,invoice approval software,Phrase,1093,58,425,0.4
+2025-09,spendara login,Competitor - Spendara,spendara,Phrase,2195,98,528,0.0
+2025-09,spendara alternative,Competitor - Spendara,spendara alternative,Phrase,3629,80,700,2.7
+2025-09,spendara pricing,Competitor - Spendara,spendara,Phrase,2885,61,473,1.2
+2025-09,spendara reviews,Competitor - Spendara,spendara,Phrase,1503,34,295,0.6
+2025-09,spendara,Competitor - Spendara,spendara,Phrase,1282,32,331,0.3
+2025-09,spendara vs corvane,Competitor - Spendara,spendara alternative,Phrase,1056,23,190,1.2
+2025-09,spendara erfahrungen,Competitor - Spendara,spendara,Phrase,1369,27,262,0.5
+2025-09,spendara support,Competitor - Spendara,spendara,Phrase,383,22,125,0.0
+2025-10,corvane login,Brand,corvane,Phrase,1145,616,1051,0.1
+2025-10,corvane,Brand,[corvane],Exact,1956,386,893,3.8
+2025-10,corvane app,Brand,corvane,Phrase,222,109,148,0.0
+2025-10,corvane pricing,Brand,corvane,Phrase,413,98,221,2.2
+2025-10,corvane support,Brand,corvane,Phrase,169,87,134,0.0
+2025-10,corvane spend management,Brand,corvane,Phrase,306,75,205,1.2
+2025-10,corvane jobs,Brand,corvane,Phrase,101,55,79,0.0
+2025-10,corvane erfahrungen,Brand,corvane,Phrase,166,39,105,0.3
+2025-10,corvane demo,Brand,corvane,Phrase,182,34,88,1.7
+2025-10,spend management software,Generic - Spend Management,spend management software,Phrase,8736,483,2990,2.7
+2025-10,spend control tool,Generic - Spend Management,spend control tool,Phrase,4547,258,1529,1.3
+2025-10,ausgabenmanagement software,Generic - Spend Management,ausgabenmanagement software,Phrase,3417,173,1208,1.0
+2025-10,spend management software mittelstand,Generic - Spend Management,spend management software,Phrase,3308,181,1368,1.3
+2025-10,best spend management software,Generic - Spend Management,spend management software,Phrase,3168,181,1135,1.2
+2025-10,expense approval software,Generic - Spend Management,spend control tool,Phrase,2629,132,797,0.7
+2025-10,business spend management platform,Generic - Spend Management,spend management software,Phrase,3510,173,1162,1.0
+2025-10,budget control software,Generic - Spend Management,spend control tool,Phrase,3129,142,935,0.6
+2025-10,procurement software mittelstand,Generic - Procurement Software,procurement software,Phrase,4982,194,1284,1.6
+2025-10,procurement software,Generic - Procurement Software,procurement software,Phrase,4254,177,976,1.2
+2025-10,beschaffungssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,3498,126,851,0.9
+2025-10,purchase approval software,Generic - Procurement Software,purchase approval software,Phrase,4263,165,1055,1.3
+2025-10,bestellfreigabe software,Generic - Procurement Software,beschaffungssoftware,Phrase,2300,92,516,0.7
+2025-10,purchase requisition software,Generic - Procurement Software,purchase approval software,Phrase,3338,113,642,0.8
+2025-10,e procurement tool,Generic - Procurement Software,procurement software,Phrase,2517,98,626,0.5
+2025-10,einkaufssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,2500,78,525,0.5
+2025-10,invoice approval software,Generic - Invoice Automation,invoice approval software,Phrase,2636,149,857,1.0
+2025-10,invoice automation software,Generic - Invoice Automation,invoice automation software,Phrase,2424,134,810,0.8
+2025-10,rechnungsfreigabe software,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1806,119,766,0.9
+2025-10,accounts payable automation,Generic - Invoice Automation,invoice automation software,Phrase,2142,128,738,0.7
+2025-10,eingangsrechnungen digitalisieren,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1580,109,562,0.7
+2025-10,invoice matching software,Generic - Invoice Automation,invoice approval software,Phrase,1574,83,465,0.5
+2025-10,spendara login,Competitor - Spendara,spendara,Phrase,1581,77,426,0.0
+2025-10,spendara alternative,Competitor - Spendara,spendara alternative,Phrase,2761,69,629,2.5
+2025-10,spendara pricing,Competitor - Spendara,spendara,Phrase,2522,51,405,1.1
+2025-10,spendara reviews,Competitor - Spendara,spendara,Phrase,1457,32,237,0.6
+2025-10,spendara,Competitor - Spendara,spendara,Phrase,1112,27,199,0.3
+2025-10,spendara vs corvane,Competitor - Spendara,spendara alternative,Phrase,1146,28,274,1.5
+2025-10,spendara erfahrungen,Competitor - Spendara,spendara,Phrase,999,25,192,0.5
+2025-10,spendara support,Competitor - Spendara,spendara,Phrase,339,18,88,0.0
+2025-11,corvane login,Brand,corvane,Phrase,1352,606,959,0.2
+2025-11,corvane,Brand,[corvane],Exact,1827,315,1051,4.2
+2025-11,corvane app,Brand,corvane,Phrase,201,99,162,0.0
+2025-11,corvane pricing,Brand,corvane,Phrase,421,83,256,2.5
+2025-11,corvane support,Brand,corvane,Phrase,124,49,84,0.0
+2025-11,corvane spend management,Brand,corvane,Phrase,299,58,168,1.2
+2025-11,corvane jobs,Brand,corvane,Phrase,93,46,87,0.0
+2025-11,corvane erfahrungen,Brand,corvane,Phrase,140,31,104,0.3
+2025-11,corvane demo,Brand,corvane,Phrase,160,28,84,1.9
+2025-11,spend management software,Generic - Spend Management,spend management software,Phrase,8958,414,2554,2.6
+2025-11,spend control tool,Generic - Spend Management,spend control tool,Phrase,4639,207,1411,1.1
+2025-11,ausgabenmanagement software,Generic - Spend Management,ausgabenmanagement software,Phrase,4461,199,1437,1.3
+2025-11,spend management software mittelstand,Generic - Spend Management,spend management software,Phrase,3553,182,1254,1.5
+2025-11,best spend management software,Generic - Spend Management,spend management software,Phrase,3002,143,1020,1.1
+2025-11,expense approval software,Generic - Spend Management,spend control tool,Phrase,2098,120,675,0.7
+2025-11,business spend management platform,Generic - Spend Management,spend management software,Phrase,2469,144,1023,0.9
+2025-11,budget control software,Generic - Spend Management,spend control tool,Phrase,2017,117,689,0.6
+2025-11,procurement software mittelstand,Generic - Procurement Software,procurement software,Phrase,3242,158,938,1.5
+2025-11,procurement software,Generic - Procurement Software,procurement software,Phrase,2620,119,679,0.9
+2025-11,beschaffungssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,2530,150,1040,1.3
+2025-11,purchase approval software,Generic - Procurement Software,purchase approval software,Phrase,2248,124,833,1.2
+2025-11,bestellfreigabe software,Generic - Procurement Software,beschaffungssoftware,Phrase,1707,92,641,0.9
+2025-11,purchase requisition software,Generic - Procurement Software,purchase approval software,Phrase,1466,80,519,0.6
+2025-11,e procurement tool,Generic - Procurement Software,procurement software,Phrase,1585,78,419,0.5
+2025-11,einkaufssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,1817,82,452,0.6
+2025-11,invoice approval software,Generic - Invoice Automation,invoice approval software,Phrase,4363,193,1124,1.6
+2025-11,invoice automation software,Generic - Invoice Automation,invoice automation software,Phrase,3390,133,905,1.0
+2025-11,rechnungsfreigabe software,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,2537,106,761,0.9
+2025-11,accounts payable automation,Generic - Invoice Automation,invoice automation software,Phrase,2188,104,794,0.7
+2025-11,eingangsrechnungen digitalisieren,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,2044,87,506,0.7
+2025-11,invoice matching software,Generic - Invoice Automation,invoice approval software,Phrase,1669,71,464,0.5
+2025-11,spendara login,Competitor - Spendara,spendara,Phrase,1217,74,392,0.0
+2025-11,spendara alternative,Competitor - Spendara,spendara alternative,Phrase,2740,63,576,2.6
+2025-11,spendara pricing,Competitor - Spendara,spendara,Phrase,2353,50,587,1.3
+2025-11,spendara reviews,Competitor - Spendara,spendara,Phrase,1014,28,258,0.6
+2025-11,spendara,Competitor - Spendara,spendara,Phrase,911,23,248,0.2
+2025-11,spendara vs corvane,Competitor - Spendara,spendara alternative,Phrase,906,22,246,1.4
+2025-11,spendara erfahrungen,Competitor - Spendara,spendara,Phrase,828,19,190,0.4
+2025-11,spendara support,Competitor - Spendara,spendara,Phrase,318,19,114,0.0
+2025-12,corvane login,Brand,corvane,Phrase,1829,669,874,0.1
+2025-12,corvane,Brand,[corvane],Exact,1817,310,766,1.9
+2025-12,corvane app,Brand,corvane,Phrase,279,121,183,0.0
+2025-12,corvane pricing,Brand,corvane,Phrase,649,107,258,1.5
+2025-12,corvane support,Brand,corvane,Phrase,158,67,102,0.0
+2025-12,corvane spend management,Brand,corvane,Phrase,388,65,153,0.6
+2025-12,corvane jobs,Brand,corvane,Phrase,135,56,88,0.0
+2025-12,corvane erfahrungen,Brand,corvane,Phrase,290,52,105,0.3
+2025-12,corvane demo,Brand,corvane,Phrase,193,33,76,1.0
+2025-12,spend management software,Generic - Spend Management,spend management software,Phrase,7112,381,2387,1.7
+2025-12,spend control tool,Generic - Spend Management,spend control tool,Phrase,2772,155,1189,0.6
+2025-12,ausgabenmanagement software,Generic - Spend Management,ausgabenmanagement software,Phrase,2929,178,1117,0.8
+2025-12,spend management software mittelstand,Generic - Spend Management,spend management software,Phrase,3451,183,1336,1.0
+2025-12,best spend management software,Generic - Spend Management,spend management software,Phrase,2431,159,1201,0.8
+2025-12,expense approval software,Generic - Spend Management,spend control tool,Phrase,2002,110,889,0.4
+2025-12,business spend management platform,Generic - Spend Management,spend management software,Phrase,2495,154,970,0.7
+2025-12,budget control software,Generic - Spend Management,spend control tool,Phrase,1827,103,717,0.4
+2025-12,procurement software mittelstand,Generic - Procurement Software,procurement software,Phrase,4373,175,978,0.8
+2025-12,procurement software,Generic - Procurement Software,procurement software,Phrase,2824,134,867,0.5
+2025-12,beschaffungssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,3304,133,842,0.5
+2025-12,purchase approval software,Generic - Procurement Software,purchase approval software,Phrase,3894,150,964,0.7
+2025-12,bestellfreigabe software,Generic - Procurement Software,beschaffungssoftware,Phrase,3158,122,749,0.5
+2025-12,purchase requisition software,Generic - Procurement Software,purchase approval software,Phrase,2440,99,541,0.4
+2025-12,e procurement tool,Generic - Procurement Software,procurement software,Phrase,3175,115,742,0.3
+2025-12,einkaufssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,1875,74,430,0.3
+2025-12,invoice approval software,Generic - Invoice Automation,invoice approval software,Phrase,2393,140,1121,0.8
+2025-12,invoice automation software,Generic - Invoice Automation,invoice automation software,Phrase,2403,121,952,0.6
+2025-12,rechnungsfreigabe software,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1605,84,598,0.5
+2025-12,accounts payable automation,Generic - Invoice Automation,invoice automation software,Phrase,1737,95,714,0.5
+2025-12,eingangsrechnungen digitalisieren,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,984,58,423,0.3
+2025-12,invoice matching software,Generic - Invoice Automation,invoice approval software,Phrase,1261,62,395,0.3
+2025-12,spendara login,Competitor - Spendara,spendara,Phrase,1350,77,381,0.0
+2025-12,spendara alternative,Competitor - Spendara,spendara alternative,Phrase,3275,79,540,1.6
+2025-12,spendara pricing,Competitor - Spendara,spendara,Phrase,2236,65,540,0.8
+2025-12,spendara reviews,Competitor - Spendara,spendara,Phrase,1308,35,290,0.4
+2025-12,spendara,Competitor - Spendara,spendara,Phrase,1048,32,238,0.2
+2025-12,spendara vs corvane,Competitor - Spendara,spendara alternative,Phrase,977,29,239,0.9
+2025-12,spendara erfahrungen,Competitor - Spendara,spendara,Phrase,1156,30,201,0.3
+2025-12,spendara support,Competitor - Spendara,spendara,Phrase,357,22,87,0.0
+2026-01,corvane login,Brand,corvane,Phrase,1337,630,914,0.2
+2026-01,corvane,Brand,[corvane],Exact,1859,319,812,4.2
+2026-01,corvane app,Brand,corvane,Phrase,231,96,125,0.0
+2026-01,corvane pricing,Brand,corvane,Phrase,387,81,203,2.3
+2026-01,corvane support,Brand,corvane,Phrase,177,75,119,0.0
+2026-01,corvane spend management,Brand,corvane,Phrase,393,74,195,1.6
+2026-01,corvane jobs,Brand,corvane,Phrase,137,56,76,0.0
+2026-01,corvane erfahrungen,Brand,corvane,Phrase,198,43,93,0.4
+2026-01,corvane demo,Brand,corvane,Phrase,130,24,55,1.6
+2026-01,spend management software,Generic - Spend Management,spend management software,Phrase,6204,354,2450,3.7
+2026-01,spend control tool,Generic - Spend Management,spend control tool,Phrase,2675,152,987,1.4
+2026-01,ausgabenmanagement software,Generic - Spend Management,ausgabenmanagement software,Phrase,3110,189,1426,2.2
+2026-01,spend management software mittelstand,Generic - Spend Management,spend management software,Phrase,2719,158,1100,2.2
+2026-01,best spend management software,Generic - Spend Management,spend management software,Phrase,1999,115,779,1.4
+2026-01,expense approval software,Generic - Spend Management,spend control tool,Phrase,2001,104,665,1.0
+2026-01,business spend management platform,Generic - Spend Management,spend management software,Phrase,1950,104,672,1.1
+2026-01,budget control software,Generic - Spend Management,spend control tool,Phrase,1596,105,683,0.9
+2026-01,procurement software mittelstand,Generic - Procurement Software,procurement software,Phrase,3554,192,1133,2.0
+2026-01,procurement software,Generic - Procurement Software,procurement software,Phrase,3729,155,1179,1.4
+2026-01,beschaffungssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,2854,142,1024,1.4
+2026-01,purchase approval software,Generic - Procurement Software,purchase approval software,Phrase,3278,138,827,1.4
+2026-01,bestellfreigabe software,Generic - Procurement Software,beschaffungssoftware,Phrase,2253,95,587,1.0
+2026-01,purchase requisition software,Generic - Procurement Software,purchase approval software,Phrase,2421,100,710,0.9
+2026-01,e procurement tool,Generic - Procurement Software,procurement software,Phrase,2077,106,653,0.7
+2026-01,einkaufssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,1749,88,557,0.7
+2026-01,invoice approval software,Generic - Invoice Automation,invoice approval software,Phrase,2759,127,984,1.5
+2026-01,invoice automation software,Generic - Invoice Automation,invoice automation software,Phrase,2749,139,963,1.5
+2026-01,rechnungsfreigabe software,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1529,76,628,1.0
+2026-01,accounts payable automation,Generic - Invoice Automation,invoice automation software,Phrase,2521,109,856,1.0
+2026-01,eingangsrechnungen digitalisieren,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1793,81,617,0.9
+2026-01,invoice matching software,Generic - Invoice Automation,invoice approval software,Phrase,1396,70,623,0.7
+2026-01,spendara login,Competitor - Spendara,spendara,Phrase,932,72,495,0.0
+2026-01,spendara alternative,Competitor - Spendara,spendara alternative,Phrase,2151,65,693,2.7
+2026-01,spendara pricing,Competitor - Spendara,spendara,Phrase,1284,41,375,1.0
+2026-01,spendara reviews,Competitor - Spendara,spendara,Phrase,1070,30,348,0.6
+2026-01,spendara,Competitor - Spendara,spendara,Phrase,1093,32,360,0.4
+2026-01,spendara vs corvane,Competitor - Spendara,spendara alternative,Phrase,715,20,202,1.3
+2026-01,spendara erfahrungen,Competitor - Spendara,spendara,Phrase,726,23,233,0.5
+2026-01,spendara support,Competitor - Spendara,spendara,Phrase,294,22,143,0.0
+2026-02,corvane login,Brand,corvane,Phrase,2044,720,1172,0.2
+2026-02,corvane,Brand,[corvane],Exact,1596,298,903,2.9
+2026-02,corvane app,Brand,corvane,Phrase,312,126,195,0.0
+2026-02,corvane pricing,Brand,corvane,Phrase,640,99,270,2.2
+2026-02,corvane support,Brand,corvane,Phrase,209,71,100,0.0
+2026-02,corvane spend management,Brand,corvane,Phrase,555,83,196,1.3
+2026-02,corvane jobs,Brand,corvane,Phrase,135,49,84,0.0
+2026-02,corvane erfahrungen,Brand,corvane,Phrase,303,50,152,0.4
+2026-02,corvane demo,Brand,corvane,Phrase,176,27,63,1.3
+2026-02,spend management software,Generic - Spend Management,spend management software,Phrase,5601,373,2869,3.0
+2026-02,spend control tool,Generic - Spend Management,spend control tool,Phrase,2793,157,1054,1.1
+2026-02,ausgabenmanagement software,Generic - Spend Management,ausgabenmanagement software,Phrase,2739,177,1264,1.6
+2026-02,spend management software mittelstand,Generic - Spend Management,spend management software,Phrase,2166,123,902,1.3
+2026-02,best spend management software,Generic - Spend Management,spend management software,Phrase,2745,159,1161,1.5
+2026-02,expense approval software,Generic - Spend Management,spend control tool,Phrase,2080,109,806,0.8
+2026-02,business spend management platform,Generic - Spend Management,spend management software,Phrase,1940,106,680,0.8
+2026-02,budget control software,Generic - Spend Management,spend control tool,Phrase,2035,125,891,0.8
+2026-02,procurement software mittelstand,Generic - Procurement Software,procurement software,Phrase,2400,159,1238,1.3
+2026-02,procurement software,Generic - Procurement Software,procurement software,Phrase,2396,138,1031,0.9
+2026-02,beschaffungssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,2893,179,1269,1.3
+2026-02,purchase approval software,Generic - Procurement Software,purchase approval software,Phrase,2547,148,1227,1.2
+2026-02,bestellfreigabe software,Generic - Procurement Software,beschaffungssoftware,Phrase,1872,113,811,0.9
+2026-02,purchase requisition software,Generic - Procurement Software,purchase approval software,Phrase,1610,88,628,0.6
+2026-02,e procurement tool,Generic - Procurement Software,procurement software,Phrase,1336,92,696,0.5
+2026-02,einkaufssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,1361,87,607,0.5
+2026-02,invoice approval software,Generic - Invoice Automation,invoice approval software,Phrase,3010,175,1254,1.3
+2026-02,invoice automation software,Generic - Invoice Automation,invoice automation software,Phrase,1987,115,869,0.8
+2026-02,rechnungsfreigabe software,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1900,113,954,0.9
+2026-02,accounts payable automation,Generic - Invoice Automation,invoice automation software,Phrase,1959,109,843,0.7
+2026-02,eingangsrechnungen digitalisieren,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1072,65,554,0.5
+2026-02,invoice matching software,Generic - Invoice Automation,invoice approval software,Phrase,1020,56,467,0.4
+2026-02,spendara login,Competitor - Spendara,spendara,Phrase,1429,115,465,0.0
+2026-02,spendara alternative,Competitor - Spendara,spendara alternative,Phrase,1919,69,488,2.3
+2026-02,spendara pricing,Competitor - Spendara,spendara,Phrase,1987,58,460,1.2
+2026-02,spendara reviews,Competitor - Spendara,spendara,Phrase,1274,44,354,0.8
+2026-02,spendara,Competitor - Spendara,spendara,Phrase,1206,35,242,0.3
+2026-02,spendara vs corvane,Competitor - Spendara,spendara alternative,Phrase,1190,36,266,1.8
+2026-02,spendara erfahrungen,Competitor - Spendara,spendara,Phrase,1020,34,229,0.6
+2026-02,spendara support,Competitor - Spendara,spendara,Phrase,311,21,104,0.0
+2026-03,corvane login,Brand,corvane,Phrase,1904,776,1185,0.2
+2026-03,corvane,Brand,[corvane],Exact,1575,299,803,3.0
+2026-03,corvane app,Brand,corvane,Phrase,345,150,206,0.0
+2026-03,corvane pricing,Brand,corvane,Phrase,696,134,308,2.9
+2026-03,corvane support,Brand,corvane,Phrase,163,70,119,0.0
+2026-03,corvane spend management,Brand,corvane,Phrase,435,99,301,1.6
+2026-03,corvane jobs,Brand,corvane,Phrase,132,63,95,0.0
+2026-03,corvane erfahrungen,Brand,corvane,Phrase,268,49,114,0.4
+2026-03,corvane demo,Brand,corvane,Phrase,180,36,84,1.8
+2026-03,spend management software,Generic - Spend Management,spend management software,Phrase,9850,416,3072,3.3
+2026-03,spend control tool,Generic - Spend Management,spend control tool,Phrase,3928,169,1340,1.2
+2026-03,ausgabenmanagement software,Generic - Spend Management,ausgabenmanagement software,Phrase,4167,177,1490,1.6
+2026-03,spend management software mittelstand,Generic - Spend Management,spend management software,Phrase,3454,135,850,1.4
+2026-03,best spend management software,Generic - Spend Management,spend management software,Phrase,3111,118,942,1.1
+2026-03,expense approval software,Generic - Spend Management,spend control tool,Phrase,2335,103,710,0.7
+2026-03,business spend management platform,Generic - Spend Management,spend management software,Phrase,3556,139,897,1.1
+2026-03,budget control software,Generic - Spend Management,spend control tool,Phrase,3556,136,880,0.9
+2026-03,procurement software mittelstand,Generic - Procurement Software,procurement software,Phrase,3502,198,1184,1.7
+2026-03,procurement software,Generic - Procurement Software,procurement software,Phrase,3185,172,1087,1.2
+2026-03,beschaffungssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,2262,134,842,1.1
+2026-03,purchase approval software,Generic - Procurement Software,purchase approval software,Phrase,2412,158,1007,1.4
+2026-03,bestellfreigabe software,Generic - Procurement Software,beschaffungssoftware,Phrase,1908,109,678,0.9
+2026-03,purchase requisition software,Generic - Procurement Software,purchase approval software,Phrase,1288,79,491,0.6
+2026-03,e procurement tool,Generic - Procurement Software,procurement software,Phrase,1341,91,627,0.5
+2026-03,einkaufssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,1673,94,658,0.6
+2026-03,invoice approval software,Generic - Invoice Automation,invoice approval software,Phrase,1996,124,899,1.2
+2026-03,invoice automation software,Generic - Invoice Automation,invoice automation software,Phrase,1773,116,993,1.1
+2026-03,rechnungsfreigabe software,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1724,93,690,1.0
+2026-03,accounts payable automation,Generic - Invoice Automation,invoice automation software,Phrase,1721,94,792,0.8
+2026-03,eingangsrechnungen digitalisieren,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1578,90,619,0.8
+2026-03,invoice matching software,Generic - Invoice Automation,invoice approval software,Phrase,950,61,530,0.6
+2026-03,spendara login,Competitor - Spendara,spendara,Phrase,1243,83,385,0.0
+2026-03,spendara alternative,Competitor - Spendara,spendara alternative,Phrase,3314,82,625,2.9
+2026-03,spendara pricing,Competitor - Spendara,spendara,Phrase,2879,77,586,1.6
+2026-03,spendara reviews,Competitor - Spendara,spendara,Phrase,1606,44,266,0.8
+2026-03,spendara,Competitor - Spendara,spendara,Phrase,1344,35,202,0.3
+2026-03,spendara vs corvane,Competitor - Spendara,spendara alternative,Phrase,1292,33,204,1.7
+2026-03,spendara erfahrungen,Competitor - Spendara,spendara,Phrase,1323,31,211,0.5
+2026-03,spendara support,Competitor - Spendara,spendara,Phrase,465,27,119,0.0
+2026-04,corvane login,Brand,corvane,Phrase,1489,681,1204,0.2
+2026-04,corvane,Brand,[corvane],Exact,1448,241,725,3.4
+2026-04,corvane app,Brand,corvane,Phrase,281,106,191,0.0
+2026-04,corvane pricing,Brand,corvane,Phrase,648,106,302,3.3
+2026-04,corvane support,Brand,corvane,Phrase,181,74,128,0.0
+2026-04,corvane spend management,Brand,corvane,Phrase,252,53,186,1.2
+2026-04,corvane jobs,Brand,corvane,Phrase,142,57,112,0.0
+2026-04,corvane erfahrungen,Brand,corvane,Phrase,248,40,138,0.4
+2026-04,corvane demo,Brand,corvane,Phrase,138,29,82,2.0
+2026-04,spend management software,Generic - Spend Management,spend management software,Phrase,4818,314,1725,2.3
+2026-04,spend control tool,Generic - Spend Management,spend control tool,Phrase,3153,177,749,1.2
+2026-04,ausgabenmanagement software,Generic - Spend Management,ausgabenmanagement software,Phrase,2534,162,896,1.2
+2026-04,spend management software mittelstand,Generic - Spend Management,spend management software,Phrase,2484,149,724,1.4
+2026-04,best spend management software,Generic - Spend Management,spend management software,Phrase,1815,115,625,1.0
+2026-04,expense approval software,Generic - Spend Management,spend control tool,Phrase,1843,103,430,0.7
+2026-04,business spend management platform,Generic - Spend Management,spend management software,Phrase,2503,140,613,1.0
+2026-04,budget control software,Generic - Spend Management,spend control tool,Phrase,1605,94,403,0.5
+2026-04,what is spend management,Generic - Spend Management,spend management,Broad,11646,420,908,10.0
+2026-04,spend analysis template,Generic - Spend Management,spend management,Broad,9199,333,686,10.4
+2026-04,free procurement checklist,Generic - Spend Management,spend management,Broad,5936,238,402,8.5
+2026-04,budget template excel,Generic - Spend Management,spend management,Broad,5340,203,426,5.8
+2026-04,spend management definition,Generic - Spend Management,spend management,Broad,3149,132,229,2.2
+2026-04,spend management jobs,Generic - Spend Management,spend management,Broad,684,99,274,0.0
+2026-04,procurement software mittelstand,Generic - Procurement Software,procurement software,Phrase,1798,125,738,1.2
+2026-04,procurement software,Generic - Procurement Software,procurement software,Phrase,1336,88,580,0.7
+2026-04,beschaffungssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,1179,80,485,0.7
+2026-04,purchase approval software,Generic - Procurement Software,purchase approval software,Phrase,1199,75,452,0.8
+2026-04,bestellfreigabe software,Generic - Procurement Software,beschaffungssoftware,Phrase,957,59,359,0.6
+2026-04,purchase requisition software,Generic - Procurement Software,purchase approval software,Phrase,879,53,311,0.4
+2026-04,e procurement tool,Generic - Procurement Software,procurement software,Phrase,848,62,404,0.4
+2026-04,einkaufssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,800,51,273,0.4
+2026-04,purchase order template,Generic - Procurement Software,procurement,Broad,5584,236,596,8.4
+2026-04,bestellung vorlage excel,Generic - Procurement Software,bestellung,Broad,3232,156,339,5.1
+2026-04,free procurement checklist,Generic - Procurement Software,procurement,Broad,1465,71,158,2.9
+2026-04,purchase order template word,Generic - Procurement Software,procurement,Broad,1847,80,220,2.4
+2026-04,procurement process flowchart,Generic - Procurement Software,procurement,Broad,1202,63,178,1.1
+2026-04,einkauf ausbildung,Generic - Procurement Software,bestellung,Broad,207,34,124,0.0
+2026-04,invoice approval software,Generic - Invoice Automation,invoice approval software,Phrase,1940,132,676,1.2
+2026-04,invoice automation software,Generic - Invoice Automation,invoice automation software,Phrase,1794,126,670,1.1
+2026-04,rechnungsfreigabe software,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1186,92,498,0.9
+2026-04,accounts payable automation,Generic - Invoice Automation,invoice automation software,Phrase,839,72,357,0.5
+2026-04,eingangsrechnungen digitalisieren,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,771,64,297,0.5
+2026-04,invoice matching software,Generic - Invoice Automation,invoice approval software,Phrase,920,63,374,0.5
+2026-04,invoice approval process excel,Generic - Invoice Automation,invoice,Broad,3986,175,356,6.0
+2026-04,invoice template free,Generic - Invoice Automation,invoice,Broad,2433,117,236,2.7
+2026-04,rechnungsvorlage kostenlos,Generic - Invoice Automation,rechnung,Broad,1922,97,234,2.2
+2026-04,invoice approval workflow template,Generic - Invoice Automation,invoice,Broad,1761,83,200,3.1
+2026-04,three way match explained,Generic - Invoice Automation,invoice,Broad,1503,69,142,1.2
+2026-04,spendara login,Competitor - Spendara,spendara,Phrase,935,69,324,0.1
+2026-04,spendara alternative,Competitor - Spendara,spendara alternative,Phrase,2816,79,753,8.1
+2026-04,spendara pricing,Competitor - Spendara,spendara,Phrase,1699,61,479,3.8
+2026-04,spendara reviews,Competitor - Spendara,spendara,Phrase,891,32,302,1.6
+2026-04,spendara,Competitor - Spendara,spendara,Phrase,1072,30,218,0.8
+2026-04,spendara vs corvane,Competitor - Spendara,spendara alternative,Phrase,917,26,237,4.0
+2026-04,spendara erfahrungen,Competitor - Spendara,spendara,Phrase,876,24,211,1.2
+2026-04,spendara support,Competitor - Spendara,spendara,Phrase,264,17,83,0.0
+2026-05,corvane login,Brand,corvane,Phrase,2188,802,970,0.2
+2026-05,corvane,Brand,[corvane],Exact,2556,457,962,4.6
+2026-05,corvane app,Brand,corvane,Phrase,361,142,193,0.0
+2026-05,corvane pricing,Brand,corvane,Phrase,866,148,279,3.3
+2026-05,corvane support,Brand,corvane,Phrase,259,103,127,0.0
+2026-05,corvane spend management,Brand,corvane,Phrase,524,86,181,1.4
+2026-05,corvane jobs,Brand,corvane,Phrase,240,92,111,0.0
+2026-05,corvane erfahrungen,Brand,corvane,Phrase,360,69,142,0.5
+2026-05,corvane demo,Brand,corvane,Phrase,181,35,70,1.8
+2026-05,spend management software,Generic - Spend Management,spend management software,Phrase,6953,432,1999,2.6
+2026-05,spend control tool,Generic - Spend Management,spend control tool,Phrase,2746,183,996,1.0
+2026-05,ausgabenmanagement software,Generic - Spend Management,ausgabenmanagement software,Phrase,2062,146,687,0.9
+2026-05,spend management software mittelstand,Generic - Spend Management,spend management software,Phrase,1967,141,704,1.1
+2026-05,best spend management software,Generic - Spend Management,spend management software,Phrase,1910,134,754,1.0
+2026-05,expense approval software,Generic - Spend Management,spend control tool,Phrase,1442,110,599,0.6
+2026-05,business spend management platform,Generic - Spend Management,spend management software,Phrase,1711,137,666,0.8
+2026-05,budget control software,Generic - Spend Management,spend control tool,Phrase,1233,100,480,0.5
+2026-05,what is spend management,Generic - Spend Management,spend management,Broad,7163,357,820,7.1
+2026-05,spend analysis template,Generic - Spend Management,spend management,Broad,6554,340,822,8.8
+2026-05,free procurement checklist,Generic - Spend Management,spend management,Broad,3492,190,417,5.7
+2026-05,budget template excel,Generic - Spend Management,spend management,Broad,5306,216,482,5.2
+2026-05,spend management definition,Generic - Spend Management,spend management,Broad,3861,168,320,2.3
+2026-05,spend management jobs,Generic - Spend Management,spend management,Broad,712,111,380,0.0
+2026-05,procurement software mittelstand,Generic - Procurement Software,procurement software,Phrase,3735,170,824,1.7
+2026-05,procurement software,Generic - Procurement Software,procurement software,Phrase,2976,132,691,1.1
+2026-05,beschaffungssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,2724,157,812,1.4
+2026-05,purchase approval software,Generic - Procurement Software,purchase approval software,Phrase,3102,139,712,1.3
+2026-05,bestellfreigabe software,Generic - Procurement Software,beschaffungssoftware,Phrase,1677,99,448,1.0
+2026-05,purchase requisition software,Generic - Procurement Software,purchase approval software,Phrase,1706,91,395,0.7
+2026-05,e procurement tool,Generic - Procurement Software,procurement software,Phrase,1669,95,468,0.6
+2026-05,einkaufssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,1512,74,375,0.5
+2026-05,purchase order template,Generic - Procurement Software,procurement,Broad,9543,291,592,10.3
+2026-05,bestellung vorlage excel,Generic - Procurement Software,bestellung,Broad,5450,163,332,5.3
+2026-05,free procurement checklist,Generic - Procurement Software,procurement,Broad,2920,111,241,4.5
+2026-05,purchase order template word,Generic - Procurement Software,procurement,Broad,3080,122,212,3.6
+2026-05,procurement process flowchart,Generic - Procurement Software,procurement,Broad,2894,90,170,1.5
+2026-05,einkauf ausbildung,Generic - Procurement Software,bestellung,Broad,377,48,155,0.0
+2026-05,invoice approval software,Generic - Invoice Automation,invoice approval software,Phrase,1499,98,530,1.4
+2026-05,invoice automation software,Generic - Invoice Automation,invoice automation software,Phrase,1213,86,516,1.2
+2026-05,rechnungsfreigabe software,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,941,59,296,1.0
+2026-05,accounts payable automation,Generic - Invoice Automation,invoice automation software,Phrase,1078,76,440,0.9
+2026-05,eingangsrechnungen digitalisieren,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,939,66,425,0.9
+2026-05,invoice matching software,Generic - Invoice Automation,invoice approval software,Phrase,763,51,269,0.7
+2026-05,invoice approval process excel,Generic - Invoice Automation,invoice,Broad,2319,95,230,5.1
+2026-05,invoice template free,Generic - Invoice Automation,invoice,Broad,2209,116,306,4.2
+2026-05,rechnungsvorlage kostenlos,Generic - Invoice Automation,rechnung,Broad,2064,97,232,3.5
+2026-05,invoice approval workflow template,Generic - Invoice Automation,invoice,Broad,1310,57,136,3.3
+2026-05,three way match explained,Generic - Invoice Automation,invoice,Broad,979,40,84,1.1
+2026-05,spendara login,Competitor - Spendara,spendara,Phrase,1309,70,427,0.1
+2026-05,spendara alternative,Competitor - Spendara,spendara alternative,Phrase,2092,49,430,6.8
+2026-05,spendara pricing,Competitor - Spendara,spendara,Phrase,2196,46,465,3.8
+2026-05,spendara reviews,Competitor - Spendara,spendara,Phrase,1096,25,274,1.7
+2026-05,spendara,Competitor - Spendara,spendara,Phrase,966,23,269,0.8
+2026-05,spendara vs corvane,Competitor - Spendara,spendara alternative,Phrase,923,24,275,5.0
+2026-05,spendara erfahrungen,Competitor - Spendara,spendara,Phrase,802,21,232,1.4
+2026-05,spendara support,Competitor - Spendara,spendara,Phrase,301,16,108,0.0
+2026-06,corvane login,Brand,corvane,Phrase,1267,581,961,0.2
+2026-06,corvane,Brand,[corvane],Exact,1360,288,912,4.9
+2026-06,corvane app,Brand,corvane,Phrase,244,107,211,0.0
+2026-06,corvane pricing,Brand,corvane,Phrase,455,81,255,3.0
+2026-06,corvane support,Brand,corvane,Phrase,143,67,124,0.0
+2026-06,corvane spend management,Brand,corvane,Phrase,245,52,149,1.4
+2026-06,corvane jobs,Brand,corvane,Phrase,136,52,80,0.0
+2026-06,corvane erfahrungen,Brand,corvane,Phrase,209,37,120,0.5
+2026-06,corvane demo,Brand,corvane,Phrase,104,22,61,1.9
+2026-06,spend management software,Generic - Spend Management,spend management software,Phrase,6050,381,2327,3.1
+2026-06,spend control tool,Generic - Spend Management,spend control tool,Phrase,1882,150,731,1.1
+2026-06,ausgabenmanagement software,Generic - Spend Management,ausgabenmanagement software,Phrase,1741,119,663,1.0
+2026-06,spend management software mittelstand,Generic - Spend Management,spend management software,Phrase,1571,125,570,1.3
+2026-06,best spend management software,Generic - Spend Management,spend management software,Phrase,1642,123,629,1.2
+2026-06,expense approval software,Generic - Spend Management,spend control tool,Phrase,2051,121,560,0.9
+2026-06,business spend management platform,Generic - Spend Management,spend management software,Phrase,1754,109,533,0.9
+2026-06,budget control software,Generic - Spend Management,spend control tool,Phrase,1406,111,529,0.7
+2026-06,what is spend management,Generic - Spend Management,spend management,Broad,8267,331,619,8.9
+2026-06,spend analysis template,Generic - Spend Management,spend management,Broad,6343,262,525,9.2
+2026-06,free procurement checklist,Generic - Spend Management,spend management,Broad,4695,237,460,9.6
+2026-06,budget template excel,Generic - Spend Management,spend management,Broad,5875,248,598,8.0
+2026-06,spend management definition,Generic - Spend Management,spend management,Broad,2384,125,252,2.4
+2026-06,spend management jobs,Generic - Spend Management,spend management,Broad,760,107,329,0.0
+2026-06,procurement software mittelstand,Generic - Procurement Software,procurement software,Phrase,2702,141,804,1.5
+2026-06,procurement software,Generic - Procurement Software,procurement software,Phrase,2253,108,563,0.9
+2026-06,beschaffungssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,2035,112,570,1.0
+2026-06,purchase approval software,Generic - Procurement Software,purchase approval software,Phrase,1451,89,452,0.9
+2026-06,bestellfreigabe software,Generic - Procurement Software,beschaffungssoftware,Phrase,1757,88,446,0.9
+2026-06,purchase requisition software,Generic - Procurement Software,purchase approval software,Phrase,1374,74,373,0.6
+2026-06,e procurement tool,Generic - Procurement Software,procurement software,Phrase,1356,64,344,0.4
+2026-06,einkaufssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,1425,67,409,0.5
+2026-06,purchase order template,Generic - Procurement Software,procurement,Broad,9221,306,701,11.3
+2026-06,bestellung vorlage excel,Generic - Procurement Software,bestellung,Broad,3140,124,276,4.2
+2026-06,free procurement checklist,Generic - Procurement Software,procurement,Broad,2299,79,202,3.4
+2026-06,purchase order template word,Generic - Procurement Software,procurement,Broad,3127,101,222,3.2
+2026-06,procurement process flowchart,Generic - Procurement Software,procurement,Broad,2205,78,165,1.3
+2026-06,einkauf ausbildung,Generic - Procurement Software,bestellung,Broad,381,44,167,0.0
+2026-06,invoice approval software,Generic - Invoice Automation,invoice approval software,Phrase,2577,126,758,1.5
+2026-06,invoice automation software,Generic - Invoice Automation,invoice automation software,Phrase,1692,92,628,1.0
+2026-06,rechnungsfreigabe software,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1574,80,456,1.1
+2026-06,accounts payable automation,Generic - Invoice Automation,invoice automation software,Phrase,1622,85,479,0.8
+2026-06,eingangsrechnungen digitalisieren,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,982,52,279,0.6
+2026-06,invoice matching software,Generic - Invoice Automation,invoice approval software,Phrase,968,48,276,0.6
+2026-06,invoice approval process excel,Generic - Invoice Automation,invoice,Broad,2864,107,293,4.9
+2026-06,invoice template free,Generic - Invoice Automation,invoice,Broad,3077,109,230,3.3
+2026-06,rechnungsvorlage kostenlos,Generic - Invoice Automation,rechnung,Broad,2657,99,215,3.0
+2026-06,invoice approval workflow template,Generic - Invoice Automation,invoice,Broad,1788,72,197,3.5
+2026-06,three way match explained,Generic - Invoice Automation,invoice,Broad,1640,66,149,1.5
+2026-06,spendara login,Competitor - Spendara,spendara,Phrase,2012,86,558,0.1
+2026-06,spendara alternative,Competitor - Spendara,spendara alternative,Phrase,3250,64,700,7.3
+2026-06,spendara pricing,Competitor - Spendara,spendara,Phrase,2434,44,475,3.0
+2026-06,spendara reviews,Competitor - Spendara,spendara,Phrase,1520,28,281,1.6
+2026-06,spendara,Competitor - Spendara,spendara,Phrase,1865,34,333,1.0
+2026-06,spendara vs corvane,Competitor - Spendara,spendara alternative,Phrase,1301,26,265,4.5
+2026-06,spendara erfahrungen,Competitor - Spendara,spendara,Phrase,1075,20,183,1.1
+2026-06,spendara support,Competitor - Spendara,spendara,Phrase,544,23,123,0.0
+2026-07,corvane login,Brand,corvane,Phrase,2032,793,1096,0.2
+2026-07,corvane,Brand,[corvane],Exact,2535,429,1123,5.9
+2026-07,corvane app,Brand,corvane,Phrase,250,116,181,0.0
+2026-07,corvane pricing,Brand,corvane,Phrase,483,95,257,2.9
+2026-07,corvane support,Brand,corvane,Phrase,244,99,137,0.0
+2026-07,corvane spend management,Brand,corvane,Phrase,301,68,161,1.5
+2026-07,corvane jobs,Brand,corvane,Phrase,184,74,136,0.0
+2026-07,corvane erfahrungen,Brand,corvane,Phrase,288,56,158,0.6
+2026-07,corvane demo,Brand,corvane,Phrase,136,27,81,1.8
+2026-07,spend management software,Generic - Spend Management,spend management software,Phrase,5330,325,1929,2.2
+2026-07,spend control tool,Generic - Spend Management,spend control tool,Phrase,2472,153,860,1.0
+2026-07,ausgabenmanagement software,Generic - Spend Management,ausgabenmanagement software,Phrase,2062,119,656,0.8
+2026-07,spend management software mittelstand,Generic - Spend Management,spend management software,Phrase,1828,125,657,1.1
+2026-07,best spend management software,Generic - Spend Management,spend management software,Phrase,1427,97,552,0.8
+2026-07,expense approval software,Generic - Spend Management,spend control tool,Phrase,1500,109,599,0.7
+2026-07,business spend management platform,Generic - Spend Management,spend management software,Phrase,1661,121,723,0.8
+2026-07,budget control software,Generic - Spend Management,spend control tool,Phrase,1198,75,432,0.4
+2026-07,what is spend management,Generic - Spend Management,spend management,Broad,7262,352,804,7.9
+2026-07,spend analysis template,Generic - Spend Management,spend management,Broad,6211,254,714,7.4
+2026-07,free procurement checklist,Generic - Spend Management,spend management,Broad,4025,193,479,6.5
+2026-07,budget template excel,Generic - Spend Management,spend management,Broad,4568,180,389,4.8
+2026-07,spend management definition,Generic - Spend Management,spend management,Broad,2388,122,295,1.9
+2026-07,spend management jobs,Generic - Spend Management,spend management,Broad,668,89,351,0.0
+2026-07,procurement software mittelstand,Generic - Procurement Software,procurement software,Phrase,1789,132,659,1.0
+2026-07,procurement software,Generic - Procurement Software,procurement software,Phrase,2156,140,749,0.9
+2026-07,beschaffungssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,1587,130,672,0.9
+2026-07,purchase approval software,Generic - Procurement Software,purchase approval software,Phrase,1307,102,436,0.8
+2026-07,bestellfreigabe software,Generic - Procurement Software,beschaffungssoftware,Phrase,1647,107,564,0.8
+2026-07,purchase requisition software,Generic - Procurement Software,purchase approval software,Phrase,1161,75,326,0.5
+2026-07,e procurement tool,Generic - Procurement Software,procurement software,Phrase,941,64,268,0.3
+2026-07,einkaufssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,801,63,296,0.3
+2026-07,purchase order template,Generic - Procurement Software,procurement,Broad,5869,272,606,7.4
+2026-07,bestellung vorlage excel,Generic - Procurement Software,bestellung,Broad,4434,189,349,4.7
+2026-07,free procurement checklist,Generic - Procurement Software,procurement,Broad,1646,88,175,2.7
+2026-07,purchase order template word,Generic - Procurement Software,procurement,Broad,1979,91,176,2.1
+2026-07,procurement process flowchart,Generic - Procurement Software,procurement,Broad,1780,73,147,0.9
+2026-07,einkauf ausbildung,Generic - Procurement Software,bestellung,Broad,226,38,121,0.0
+2026-07,invoice approval software,Generic - Invoice Automation,invoice approval software,Phrase,1663,143,641,1.3
+2026-07,invoice automation software,Generic - Invoice Automation,invoice automation software,Phrase,1438,99,423,0.8
+2026-07,rechnungsfreigabe software,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1233,99,513,1.0
+2026-07,accounts payable automation,Generic - Invoice Automation,invoice automation software,Phrase,1058,75,385,0.5
+2026-07,eingangsrechnungen digitalisieren,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1261,87,463,0.7
+2026-07,invoice matching software,Generic - Invoice Automation,invoice approval software,Phrase,774,53,260,0.4
+2026-07,invoice approval process excel,Generic - Invoice Automation,invoice,Broad,2543,133,238,4.3
+2026-07,invoice template free,Generic - Invoice Automation,invoice,Broad,2307,124,235,2.7
+2026-07,rechnungsvorlage kostenlos,Generic - Invoice Automation,rechnung,Broad,2119,124,264,2.7
+2026-07,invoice approval workflow template,Generic - Invoice Automation,invoice,Broad,1755,89,186,3.1
+2026-07,three way match explained,Generic - Invoice Automation,invoice,Broad,1414,69,143,1.1
+2026-07,spendara login,Competitor - Spendara,spendara,Phrase,881,73,419,0.1
+2026-07,spendara alternative,Competitor - Spendara,spendara alternative,Phrase,2264,67,626,6.4
+2026-07,spendara pricing,Competitor - Spendara,spendara,Phrase,1985,55,576,3.2
+2026-07,spendara reviews,Competitor - Spendara,spendara,Phrase,1254,35,341,1.7
+2026-07,spendara,Competitor - Spendara,spendara,Phrase,766,25,203,0.6
+2026-07,spendara vs corvane,Competitor - Spendara,spendara alternative,Phrase,720,21,219,3.0
+2026-07,spendara erfahrungen,Competitor - Spendara,spendara,Phrase,673,24,254,1.1
+2026-07,spendara support,Competitor - Spendara,spendara,Phrase,212,17,102,0.0
+2026-08,corvane login,Brand,corvane,Phrase,1831,697,1036,0.1
+2026-08,corvane,Brand,[corvane],Exact,2176,457,995,4.7
+2026-08,corvane app,Brand,corvane,Phrase,280,132,214,0.0
+2026-08,corvane pricing,Brand,corvane,Phrase,518,114,275,2.6
+2026-08,corvane support,Brand,corvane,Phrase,175,74,120,0.0
+2026-08,corvane spend management,Brand,corvane,Phrase,440,99,215,1.6
+2026-08,corvane jobs,Brand,corvane,Phrase,184,78,102,0.0
+2026-08,corvane erfahrungen,Brand,corvane,Phrase,213,44,90,0.4
+2026-08,corvane demo,Brand,corvane,Phrase,166,36,98,1.9
+2026-08,spend management software,Generic - Spend Management,spend management software,Phrase,4691,248,1369,2.0
+2026-08,spend control tool,Generic - Spend Management,spend control tool,Phrase,3027,167,1048,1.2
+2026-08,ausgabenmanagement software,Generic - Spend Management,ausgabenmanagement software,Phrase,1846,120,656,1.0
+2026-08,spend management software mittelstand,Generic - Spend Management,spend management software,Phrase,2673,135,749,1.4
+2026-08,best spend management software,Generic - Spend Management,spend management software,Phrase,2359,119,581,1.1
+2026-08,expense approval software,Generic - Spend Management,spend control tool,Phrase,1938,115,706,0.9
+2026-08,business spend management platform,Generic - Spend Management,spend management software,Phrase,1565,93,574,0.7
+2026-08,budget control software,Generic - Spend Management,spend control tool,Phrase,1152,72,427,0.5
+2026-08,what is spend management,Generic - Spend Management,spend management,Broad,7493,268,659,7.1
+2026-08,spend analysis template,Generic - Spend Management,spend management,Broad,6537,250,523,8.6
+2026-08,free procurement checklist,Generic - Spend Management,spend management,Broad,4602,168,330,6.7
+2026-08,budget template excel,Generic - Spend Management,spend management,Broad,4637,200,473,6.4
+2026-08,spend management definition,Generic - Spend Management,spend management,Broad,3470,130,294,2.4
+2026-08,spend management jobs,Generic - Spend Management,spend management,Broad,747,94,343,0.0
+2026-08,procurement software mittelstand,Generic - Procurement Software,procurement software,Phrase,1235,95,607,1.0
+2026-08,procurement software,Generic - Procurement Software,procurement software,Phrase,1261,102,569,0.8
+2026-08,beschaffungssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,1148,98,486,0.9
+2026-08,purchase approval software,Generic - Procurement Software,purchase approval software,Phrase,1042,88,442,0.9
+2026-08,bestellfreigabe software,Generic - Procurement Software,beschaffungssoftware,Phrase,651,56,357,0.6
+2026-08,purchase requisition software,Generic - Procurement Software,purchase approval software,Phrase,808,60,294,0.5
+2026-08,e procurement tool,Generic - Procurement Software,procurement software,Phrase,752,64,398,0.4
+2026-08,einkaufssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,765,55,294,0.4
+2026-08,purchase order template,Generic - Procurement Software,procurement,Broad,4885,263,613,9.6
+2026-08,bestellung vorlage excel,Generic - Procurement Software,bestellung,Broad,2744,136,292,4.6
+2026-08,free procurement checklist,Generic - Procurement Software,procurement,Broad,1743,85,201,3.6
+2026-08,purchase order template word,Generic - Procurement Software,procurement,Broad,1127,58,150,1.8
+2026-08,procurement process flowchart,Generic - Procurement Software,procurement,Broad,832,51,120,0.8
+2026-08,einkauf ausbildung,Generic - Procurement Software,bestellung,Broad,218,36,136,0.0
+2026-08,invoice approval software,Generic - Invoice Automation,invoice approval software,Phrase,2936,154,937,1.2
+2026-08,invoice automation software,Generic - Invoice Automation,invoice automation software,Phrase,2715,115,683,0.9
+2026-08,rechnungsfreigabe software,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1706,92,482,0.8
+2026-08,accounts payable automation,Generic - Invoice Automation,invoice automation software,Phrase,1494,72,404,0.5
+2026-08,eingangsrechnungen digitalisieren,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1619,79,359,0.6
+2026-08,invoice matching software,Generic - Invoice Automation,invoice approval software,Phrase,1366,72,387,0.5
+2026-08,invoice approval process excel,Generic - Invoice Automation,invoice,Broad,5804,173,385,5.1
+2026-08,invoice template free,Generic - Invoice Automation,invoice,Broad,3462,115,239,2.3
+2026-08,rechnungsvorlage kostenlos,Generic - Invoice Automation,rechnung,Broad,3543,100,189,2.0
+2026-08,invoice approval workflow template,Generic - Invoice Automation,invoice,Broad,3076,88,172,2.8
+2026-08,three way match explained,Generic - Invoice Automation,invoice,Broad,1676,55,134,0.8
+2026-08,spendara login,Competitor - Spendara,spendara,Phrase,1902,78,331,0.1
+2026-08,spendara alternative,Competitor - Spendara,spendara alternative,Phrase,4051,71,610,7.0
+2026-08,spendara pricing,Competitor - Spendara,spendara,Phrase,2895,54,477,3.2
+2026-08,spendara reviews,Competitor - Spendara,spendara,Phrase,1572,34,297,1.7
+2026-08,spendara,Competitor - Spendara,spendara,Phrase,1492,31,252,0.8
+2026-08,spendara vs corvane,Competitor - Spendara,spendara alternative,Phrase,1574,30,223,4.5
+2026-08,spendara erfahrungen,Competitor - Spendara,spendara,Phrase,1143,20,176,1.0
+2026-08,spendara support,Competitor - Spendara,spendara,Phrase,512,25,110,0.0
+2026-09,corvane login,Brand,corvane,Phrase,1457,814,1111,0.2
+2026-09,corvane,Brand,[corvane],Exact,1239,338,849,4.9
+2026-09,corvane app,Brand,corvane,Phrase,180,105,167,0.0
+2026-09,corvane pricing,Brand,corvane,Phrase,521,121,301,3.8
+2026-09,corvane support,Brand,corvane,Phrase,122,67,96,0.0
+2026-09,corvane spend management,Brand,corvane,Phrase,304,85,201,2.0
+2026-09,corvane jobs,Brand,corvane,Phrase,105,56,100,0.0
+2026-09,corvane erfahrungen,Brand,corvane,Phrase,197,51,123,0.6
+2026-09,corvane demo,Brand,corvane,Phrase,137,32,90,2.3
+2026-09,spend management software,Generic - Spend Management,spend management software,Phrase,5613,363,2135,2.9
+2026-09,spend control tool,Generic - Spend Management,spend control tool,Phrase,2023,124,653,0.9
+2026-09,ausgabenmanagement software,Generic - Spend Management,ausgabenmanagement software,Phrase,1914,118,540,1.0
+2026-09,spend management software mittelstand,Generic - Spend Management,spend management software,Phrase,2868,155,691,1.6
+2026-09,best spend management software,Generic - Spend Management,spend management software,Phrase,1697,102,570,1.0
+2026-09,expense approval software,Generic - Spend Management,spend control tool,Phrase,1642,101,568,0.7
+2026-09,business spend management platform,Generic - Spend Management,spend management software,Phrase,2077,116,673,0.9
+2026-09,budget control software,Generic - Spend Management,spend control tool,Phrase,1231,79,456,0.5
+2026-09,what is spend management,Generic - Spend Management,spend management,Broad,8217,358,692,9.4
+2026-09,spend analysis template,Generic - Spend Management,spend management,Broad,5111,218,395,7.4
+2026-09,free procurement checklist,Generic - Spend Management,spend management,Broad,5235,232,488,9.1
+2026-09,budget template excel,Generic - Spend Management,spend management,Broad,5212,190,416,6.0
+2026-09,spend management definition,Generic - Spend Management,spend management,Broad,4016,144,289,2.6
+2026-09,spend management jobs,Generic - Spend Management,spend management,Broad,628,76,238,0.0
+2026-09,procurement software mittelstand,Generic - Procurement Software,procurement software,Phrase,1753,104,564,1.1
+2026-09,procurement software,Generic - Procurement Software,procurement software,Phrase,1832,103,620,0.9
+2026-09,beschaffungssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,1938,93,553,0.8
+2026-09,purchase approval software,Generic - Procurement Software,purchase approval software,Phrase,1832,87,424,0.9
+2026-09,bestellfreigabe software,Generic - Procurement Software,beschaffungssoftware,Phrase,1682,83,472,0.8
+2026-09,purchase requisition software,Generic - Procurement Software,purchase approval software,Phrase,1519,79,435,0.7
+2026-09,e procurement tool,Generic - Procurement Software,procurement software,Phrase,1224,74,355,0.5
+2026-09,einkaufssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,1227,62,288,0.5
+2026-09,purchase order template,Generic - Procurement Software,procurement,Broad,7456,315,613,11.7
+2026-09,bestellung vorlage excel,Generic - Procurement Software,bestellung,Broad,5337,177,343,6.1
+2026-09,free procurement checklist,Generic - Procurement Software,procurement,Broad,2882,117,277,5.0
+2026-09,purchase order template word,Generic - Procurement Software,procurement,Broad,2233,80,148,2.5
+2026-09,procurement process flowchart,Generic - Procurement Software,procurement,Broad,1625,67,126,1.1
+2026-09,einkauf ausbildung,Generic - Procurement Software,bestellung,Broad,432,46,163,0.0
+2026-09,invoice approval software,Generic - Invoice Automation,invoice approval software,Phrase,2056,148,703,1.2
+2026-09,invoice automation software,Generic - Invoice Automation,invoice automation software,Phrase,2099,123,694,0.9
+2026-09,rechnungsfreigabe software,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1431,88,433,0.8
+2026-09,accounts payable automation,Generic - Invoice Automation,invoice automation software,Phrase,1879,108,495,0.7
+2026-09,eingangsrechnungen digitalisieren,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,880,64,302,0.5
+2026-09,invoice matching software,Generic - Invoice Automation,invoice approval software,Phrase,1014,63,321,0.5
+2026-09,invoice approval process excel,Generic - Invoice Automation,invoice,Broad,4113,179,334,5.4
+2026-09,invoice template free,Generic - Invoice Automation,invoice,Broad,3570,145,287,2.9
+2026-09,rechnungsvorlage kostenlos,Generic - Invoice Automation,rechnung,Broad,3116,124,228,2.5
+2026-09,invoice approval workflow template,Generic - Invoice Automation,invoice,Broad,2026,79,152,2.6
+2026-09,three way match explained,Generic - Invoice Automation,invoice,Broad,1520,61,118,0.9
+2026-09,spendara login,Competitor - Spendara,spendara,Phrase,1763,95,474,0.1
+2026-09,spendara alternative,Competitor - Spendara,spendara alternative,Phrase,2949,77,594,7.9
+2026-09,spendara pricing,Competitor - Spendara,spendara,Phrase,2289,61,486,3.8
+2026-09,spendara reviews,Competitor - Spendara,spendara,Phrase,1413,38,322,2.0
+2026-09,spendara,Competitor - Spendara,spendara,Phrase,1311,33,231,0.8
+2026-09,spendara vs corvane,Competitor - Spendara,spendara alternative,Phrase,1027,26,208,4.0
+2026-09,spendara erfahrungen,Competitor - Spendara,spendara,Phrase,1052,22,184,1.1
+2026-09,spendara support,Competitor - Spendara,spendara,Phrase,440,22,83,0.0
+2026-10,corvane login,Brand,corvane,Phrase,1652,962,1457,0.3
+2026-10,corvane,Brand,[corvane],Exact,1588,401,928,5.4
+2026-10,corvane app,Brand,corvane,Phrase,305,135,191,0.0
+2026-10,corvane pricing,Brand,corvane,Phrase,519,110,269,3.3
+2026-10,corvane support,Brand,corvane,Phrase,241,108,138,0.0
+2026-10,corvane spend management,Brand,corvane,Phrase,384,83,171,1.8
+2026-10,corvane jobs,Brand,corvane,Phrase,152,84,103,0.0
+2026-10,corvane erfahrungen,Brand,corvane,Phrase,185,45,111,0.5
+2026-10,corvane demo,Brand,corvane,Phrase,144,35,75,2.4
+2026-10,spend management software,Generic - Spend Management,spend management software,Phrase,6326,303,1643,2.1
+2026-10,spend control tool,Generic - Spend Management,spend control tool,Phrase,2524,137,926,0.9
+2026-10,ausgabenmanagement software,Generic - Spend Management,ausgabenmanagement software,Phrase,2090,107,722,0.8
+2026-10,spend management software mittelstand,Generic - Spend Management,spend management software,Phrase,2474,117,778,1.1
+2026-10,best spend management software,Generic - Spend Management,spend management software,Phrase,1700,91,492,0.8
+2026-10,expense approval software,Generic - Spend Management,spend control tool,Phrase,1839,111,646,0.7
+2026-10,business spend management platform,Generic - Spend Management,spend management software,Phrase,2387,126,790,0.9
+2026-10,budget control software,Generic - Spend Management,spend control tool,Phrase,1571,91,630,0.5
+2026-10,what is spend management,Generic - Spend Management,spend management,Broad,9826,326,943,7.7
+2026-10,spend analysis template,Generic - Spend Management,spend management,Broad,6891,280,654,8.6
+2026-10,free procurement checklist,Generic - Spend Management,spend management,Broad,4512,163,365,5.7
+2026-10,budget template excel,Generic - Spend Management,spend management,Broad,3885,154,384,4.3
+2026-10,spend management definition,Generic - Spend Management,spend management,Broad,3663,147,390,2.4
+2026-10,spend management jobs,Generic - Spend Management,spend management,Broad,654,71,282,0.0
+2026-10,procurement software mittelstand,Generic - Procurement Software,procurement software,Phrase,2896,143,914,1.5
+2026-10,procurement software,Generic - Procurement Software,procurement software,Phrase,1833,100,483,0.9
+2026-10,beschaffungssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,1759,107,569,1.0
+2026-10,purchase approval software,Generic - Procurement Software,purchase approval software,Phrase,1730,104,605,1.1
+2026-10,bestellfreigabe software,Generic - Procurement Software,beschaffungssoftware,Phrase,1558,86,447,0.9
+2026-10,purchase requisition software,Generic - Procurement Software,purchase approval software,Phrase,1132,62,355,0.5
+2026-10,e procurement tool,Generic - Procurement Software,procurement software,Phrase,1207,76,363,0.5
+2026-10,einkaufssoftware,Generic - Procurement Software,beschaffungssoftware,Phrase,1133,65,328,0.5
+2026-10,purchase order template,Generic - Procurement Software,procurement,Broad,8629,284,720,10.5
+2026-10,bestellung vorlage excel,Generic - Procurement Software,bestellung,Broad,4227,148,355,5.0
+2026-10,free procurement checklist,Generic - Procurement Software,procurement,Broad,2184,78,191,3.3
+2026-10,purchase order template word,Generic - Procurement Software,procurement,Broad,1914,68,140,2.1
+2026-10,procurement process flowchart,Generic - Procurement Software,procurement,Broad,2503,83,170,1.4
+2026-10,einkauf ausbildung,Generic - Procurement Software,bestellung,Broad,364,44,129,0.0
+2026-10,invoice approval software,Generic - Invoice Automation,invoice approval software,Phrase,3139,144,713,1.2
+2026-10,invoice automation software,Generic - Invoice Automation,invoice automation software,Phrase,2495,119,583,0.9
+2026-10,rechnungsfreigabe software,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1332,75,453,0.7
+2026-10,accounts payable automation,Generic - Invoice Automation,invoice automation software,Phrase,2041,90,445,0.6
+2026-10,eingangsrechnungen digitalisieren,Generic - Invoice Automation,rechnungsfreigabe software,Phrase,1628,86,442,0.6
+2026-10,invoice matching software,Generic - Invoice Automation,invoice approval software,Phrase,1511,72,335,0.5
+2026-10,invoice approval process excel,Generic - Invoice Automation,invoice,Broad,4478,158,384,4.8
+2026-10,invoice template free,Generic - Invoice Automation,invoice,Broad,4657,166,386,3.3
+2026-10,rechnungsvorlage kostenlos,Generic - Invoice Automation,rechnung,Broad,4264,125,257,2.5
+2026-10,invoice approval workflow template,Generic - Invoice Automation,invoice,Broad,2527,75,180,2.4
+2026-10,three way match explained,Generic - Invoice Automation,invoice,Broad,1653,59,120,0.9
+2026-10,spendara login,Competitor - Spendara,spendara,Phrase,1192,89,487,0.1
+2026-10,spendara alternative,Competitor - Spendara,spendara alternative,Phrase,2271,72,674,7.8
+2026-10,spendara pricing,Competitor - Spendara,spendara,Phrase,1909,60,527,3.9
+2026-10,spendara reviews,Competitor - Spendara,spendara,Phrase,881,32,309,1.8
+2026-10,spendara,Competitor - Spendara,spendara,Phrase,1163,33,284,0.9
+2026-10,spendara vs corvane,Competitor - Spendara,spendara alternative,Phrase,942,30,251,4.9
+2026-10,spendara erfahrungen,Competitor - Spendara,spendara,Phrase,661,24,235,1.3
+2026-10,spendara support,Competitor - Spendara,spendara,Phrase,223,17,94,0.0

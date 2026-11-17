@@ -1,0 +1,69 @@
+url,title,page_type,topic_cluster,language,published_date,last_updated,word_count,primary_keyword,call_to_action,indexable
+https://www.corvane.com/,Corvane: spend management for mid-size companies,Home,Brand,en,2021-03-01,2026-02-03,850,corvane,Demo,Yes
+https://www.corvane.com/pricing,Pricing,Pricing,Brand,en,2021-03-01,2026-01-15,700,corvane pricing,Pricing calculator,Yes
+https://www.corvane.com/demo,Demo,Demo,Brand,en,2021-03-01,2025-09-02,300,corvane demo,Demo,Yes
+https://www.corvane.com/customers,Customers,Customer story,Brand,en,2022-02-10,2026-05-20,600,corvane customers,Demo,Yes
+https://www.corvane.com/customers/nordwerk-logistics,Nordwerk logistics,Customer story,Brand,en,2024-04-18,2024-04-18,1100,spend management case study,Demo,Yes
+https://www.corvane.com/customers/halden-energy,Halden energy,Customer story,Brand,en,2025-03-06,2025-03-06,1200,procurement case study,Demo,Yes
+https://www.corvane.com/product/spend-management,Spend management,Product,Spend management,en,2021-06-14,2026-03-11,1300,spend management software,Demo,Yes
+https://www.corvane.com/product/procurement,Procurement,Product,Procurement,en,2021-06-14,2025-11-04,1200,procurement software for mid size companies,Demo,Yes
+https://www.corvane.com/product/purchase-approvals,Purchase approvals,Product,Purchase approvals,en,2022-01-20,2025-11-04,1100,purchase approval software,Demo,Yes
+https://www.corvane.com/product/invoice-automation,Invoice automation,Product,Invoice automation,en,2022-09-08,2025-06-17,1150,invoice approval software,Demo,Yes
+https://www.corvane.com/product/budgets,Budgets,Product,Spend management,en,2023-05-02,2025-02-12,900,budget control software,Demo,Yes
+https://www.corvane.com/integrations/datev,Datev,Integration,ERP integrations,en,2022-03-15,2025-10-09,800,datev integration spend management,Demo,Yes
+https://www.corvane.com/integrations/sap,Sap,Integration,ERP integrations,en,2023-09-21,2023-09-21,420,sap s/4hana procurement integration,Demo,Yes
+https://www.corvane.com/integrations/microsoft-dynamics-365,Microsoft dynamics 365,Integration,ERP integrations,en,2023-01-17,2025-04-03,780,dynamics 365 spend management,Demo,Yes
+https://www.corvane.com/integrations/netsuite,Netsuite,Integration,ERP integrations,en,2023-06-06,2025-04-03,760,netsuite spend management,Demo,Yes
+https://www.corvane.com/compare/spendara,Spendara,Comparison,Competitor comparison,en,2024-02-27,2026-03-10,1500,spendara vs corvane,Demo,Yes
+https://www.corvane.com/compare/approvio,Approvio,Comparison,Competitor comparison,en,2025-09-16,2025-09-16,1300,approvio vs corvane,Demo,Yes
+https://www.corvane.com/compare/excel,Excel,Comparison,Competitor comparison,en,2024-05-13,2024-05-13,1100,excel vs spend management software,Demo,Yes
+https://www.corvane.com/alternatives/spendara,Spendara,Comparison,Competitor comparison,en,2026-03-10,2026-03-10,1700,spendara alternative,Demo,Yes
+https://www.corvane.com/templates/purchase-order-template,Purchase order template,Template,Procurement,en,2022-05-11,2024-11-26,650,purchase order template,Template download,Yes
+https://www.corvane.com/templates/invoice-template,Invoice template,Template,Invoice automation,en,2022-05-11,2024-01-09,600,invoice template,Template download,Yes
+https://www.corvane.com/templates/budget-template-excel,Budget template excel,Template,Spend management,en,2022-08-30,2024-01-09,620,budget template excel,Template download,Yes
+https://www.corvane.com/templates/expense-report-template,Expense report template,Template,Spend management,en,2022-08-30,2023-10-19,580,expense report template,Template download,Yes
+https://www.corvane.com/templates/spend-analysis-template,Spend analysis template,Template,Spend management,en,2023-02-14,2024-06-04,700,spend analysis template,Template download,Yes
+https://www.corvane.com/templates/purchase-requisition-form,Purchase requisition form,Template,Purchase approvals,en,2023-02-14,2023-02-14,540,purchase requisition form,Template download,Yes
+https://www.corvane.com/templates/approval-workflow-excel,Approval workflow excel,Template,Purchase approvals,en,2023-04-25,2024-06-04,610,approval workflow excel,Template download,Yes
+https://www.corvane.com/glossary/purchase-order,Purchase order,Glossary,Procurement,en,2022-10-04,2022-10-04,900,what is a purchase order,Newsletter,Yes
+https://www.corvane.com/glossary/procurement,Procurement,Glossary,Procurement,en,2022-10-04,2024-03-12,1100,what is procurement,Newsletter,Yes
+https://www.corvane.com/glossary/accounts-payable,Accounts payable,Glossary,Invoice automation,en,2022-10-04,2022-10-04,950,what is accounts payable,Newsletter,Yes
+https://www.corvane.com/glossary/spend-management,Spend management,Glossary,Spend management,en,2022-10-04,2025-01-28,1400,what is spend management,Newsletter,Yes
+https://www.corvane.com/glossary/three-way-match,Three way match,Glossary,Invoice automation,en,2023-01-24,2023-01-24,880,three way match,Newsletter,Yes
+https://www.corvane.com/glossary/purchase-requisition,Purchase requisition,Glossary,Purchase approvals,en,2023-01-24,2023-01-24,820,purchase requisition,Newsletter,Yes
+https://www.corvane.com/glossary/cost-center,Cost center,Glossary,Spend management,en,2023-07-11,2023-07-11,760,what is a cost center,Newsletter,Yes
+https://www.corvane.com/glossary/maverick-spend,Maverick spend,Glossary,Procurement,en,2023-07-11,2023-07-11,740,maverick spend,Newsletter,Yes
+https://www.corvane.com/blog/purchase-order-vs-invoice,Purchase order vs invoice,Blog,Procurement,en,2023-08-08,2023-08-08,1500,purchase order vs invoice,Newsletter,Yes
+https://www.corvane.com/blog/what-is-procure-to-pay,What is procure to pay,Blog,Procurement,en,2023-06-13,2023-06-13,1800,procure to pay process,Newsletter,Yes
+https://www.corvane.com/blog/purchase-approval-process,Purchase approval process,Blog,Purchase approvals,en,2023-02-21,2023-02-21,1700,how to automate purchase approvals,Checklist download,Yes
+https://www.corvane.com/blog/procurement-kpis,Procurement kpis,Blog,Procurement,en,2023-03-28,2023-03-28,1600,procurement kpis,Newsletter,Yes
+https://www.corvane.com/blog/spend-control-best-practices,Spend control best practices,Blog,Spend management,en,2023-05-16,2023-05-16,1900,spend control best practices,Ebook download,Yes
+https://www.corvane.com/blog/month-end-close-checklist,Month end close checklist,Blog,Invoice automation,en,2024-06-18,2025-07-01,1500,month end close checklist,Newsletter,Yes
+https://www.corvane.com/blog/budget-vs-actuals,Budget vs actuals,Blog,Spend management,en,2024-09-10,2024-09-10,1400,budget vs actuals,Ebook download,Yes
+https://www.corvane.com/blog/approval-matrix-template,Approval matrix template,Blog,Purchase approvals,en,2024-03-05,2024-03-05,1200,approval matrix template,Checklist download,Yes
+https://www.corvane.com/blog/vendor-onboarding-checklist,Vendor onboarding checklist,Blog,Procurement,en,2024-10-22,2024-10-22,1300,vendor onboarding checklist,Newsletter,Yes
+https://www.corvane.com/blog/petty-cash-policy,Petty cash policy,Blog,Spend management,en,2024-01-16,2024-01-16,1100,petty cash policy,Newsletter,Yes
+https://www.corvane.com/blog/sap-s4hana-procurement-integration,Sap s4hana procurement integration,Blog,ERP integrations,en,2024-11-19,2024-11-19,1600,sap s/4hana procurement,Demo,Yes
+https://www.corvane.com/blog/spend-management-trends-2025,Spend management trends 2025,Blog,Spend management,en,2025-01-10,2025-01-10,1700,spend management trends,Newsletter,Yes
+https://www.corvane.com/blog/tail-spend-management,Tail spend management,Blog,Procurement,en,2025-04-08,2025-04-08,1500,tail spend management,Newsletter,Yes
+https://www.corvane.com/blog/excel-vs-spend-management-software,Excel vs spend management software,Blog,Competitor comparison,en,2025-06-24,2025-06-24,1400,excel spend tracking,Demo,Yes
+https://www.corvane.com/blog/invoice-approval-workflow,Invoice approval workflow,Blog,Invoice automation,en,2024-02-06,2025-03-18,1800,invoice approval workflow,Guide download,Yes
+https://www.corvane.com/blog/cfo-benchmark-2026-findings,Cfo benchmark 2026 findings,Blog,Spend management,en,2026-01-20,2026-01-20,1300,cfo benchmark 2026,Report download,Yes
+https://www.corvane.com/resources/purchase-approval-checklist,Purchase approval checklist,Resource,Purchase approvals,en,2023-11-07,2023-11-07,350,purchase approval checklist,Checklist download,Yes
+https://www.corvane.com/resources/invoice-matching-guide,Invoice matching guide,Resource,Invoice automation,en,2024-04-09,2024-04-09,380,invoice matching guide,Guide download,Yes
+https://www.corvane.com/resources/cfo-benchmark-2026,Cfo benchmark 2026,Resource,Spend management,en,2026-01-15,2026-01-15,400,cfo benchmark report,Report download,Yes
+https://www.corvane.com/resources/spend-control-playbook,Spend control playbook,Resource,Spend management,en,2024-08-27,2024-08-27,360,spend control playbook,Ebook download,Yes
+https://www.corvane.com/webinars,Webinars,Resource,Brand,en,2023-03-02,2026-03-19,300,spend management webinar,Webinar sign-up,Yes
+https://www.corvane.com/de/,Corvane: Ausgabenmanagement für den Mittelstand,Home,Brand,de,2022-04-05,2025-02-03,800,corvane,Demo,Yes
+https://www.corvane.com/de/preise,Preise,Pricing,Brand,de,2022-04-05,2026-01-15,650,corvane preise,Pricing calculator,Yes
+https://www.corvane.com/de/demo,Demo,Demo,Brand,de,2022-04-05,2022-04-05,280,corvane demo,Demo,Yes
+https://www.corvane.com/de/beschaffungssoftware,Beschaffungssoftware,Product,Procurement,de,2022-06-21,2023-04-18,1000,beschaffungssoftware,Demo,Yes
+https://www.corvane.com/de/bestellfreigabe,Bestellfreigabe,Product,Purchase approvals,de,2022-06-21,2023-04-18,950,bestellfreigabe,Demo,Yes
+https://www.corvane.com/de/rechnungsfreigabe,Rechnungsfreigabe,Product,Invoice automation,de,2022-11-15,2022-11-15,900,rechnungsfreigabe software,Demo,Yes
+https://www.corvane.com/de/vorlagen/bestellung-vorlage-excel,Bestellung vorlage excel,Template,Procurement,de,2023-03-07,2023-03-07,600,bestellung vorlage excel,Template download,Yes
+https://www.corvane.com/de/glossar/ausgabenmanagement,Ausgabenmanagement,Glossary,Spend management,de,2023-03-07,2023-03-07,850,was ist ausgabenmanagement,Newsletter,Yes
+https://www.corvane.com/de/blog/eingangsrechnungen-pruefen,Eingangsrechnungen pruefen,Blog,Invoice automation,de,2023-10-10,2023-10-10,1400,eingangsrechnungen prüfen,Guide download,Yes
+https://www.corvane.com/lp/spend-management-software,Spend management software,Paid landing page,Spend management,en,2024-09-03,2026-04-08,450,,Demo,No
+https://www.corvane.com/lp/procurement-software,Procurement software,Paid landing page,Procurement,en,2024-09-03,2026-04-08,430,,Demo,No
+https://www.corvane.com/lp/invoice-automation,Invoice automation,Paid landing page,Invoice automation,en,2024-09-03,2024-09-03,420,,Demo,No
+https://www.corvane.com/de/lp/beschaffungssoftware,Beschaffungssoftware,Paid landing page,Procurement,de,2024-09-03,2024-09-03,440,,Demo,No

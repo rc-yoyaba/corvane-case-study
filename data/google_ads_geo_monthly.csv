@@ -1,0 +1,820 @@
+month,campaign,country,cost_eur,impressions,clicks,conversions
+2025-01,Brand,DE,1492,1890,629,4.6
+2025-01,Brand,US,954,1223,423,3.4
+2025-01,Brand,UK,469,689,237,0.7
+2025-01,Brand,NL,339,404,160,1.1
+2025-01,Brand,AT,329,435,159,1.6
+2025-01,Brand,CH,302,322,130,1.1
+2025-01,Brand,Other,83,105,36,0.0
+2025-01,Generic - Spend Management,DE,5200,25577,864,6.5
+2025-01,Generic - Spend Management,US,3842,15823,601,2.2
+2025-01,Generic - Spend Management,UK,1827,8222,320,3.1
+2025-01,Generic - Spend Management,NL,1323,6218,234,0.2
+2025-01,Generic - Spend Management,AT,1264,5327,203,2.4
+2025-01,Generic - Spend Management,CH,993,4654,172,0.7
+2025-01,Generic - Spend Management,Other,269,1192,49,0.0
+2025-01,Generic - Procurement Software,DE,3206,10250,469,5.1
+2025-01,Generic - Procurement Software,US,2139,5218,256,2.2
+2025-01,Generic - Procurement Software,UK,1255,3468,165,0.7
+2025-01,Generic - Procurement Software,NL,737,2225,109,0.2
+2025-01,Generic - Procurement Software,AT,677,1734,87,0.6
+2025-01,Generic - Procurement Software,CH,658,1764,90,0.1
+2025-01,Generic - Procurement Software,Other,178,594,26,0.0
+2025-01,Generic - Invoice Automation,DE,2329,8913,343,2.4
+2025-01,Generic - Invoice Automation,US,1321,4969,199,1.1
+2025-01,Generic - Invoice Automation,UK,793,2578,113,0.6
+2025-01,Generic - Invoice Automation,NL,547,1693,72,0.5
+2025-01,Generic - Invoice Automation,AT,529,1359,62,0.9
+2025-01,Generic - Invoice Automation,CH,436,1538,61,0.1
+2025-01,Generic - Invoice Automation,Other,124,417,19,0.0
+2025-01,Competitor - Spendara,DE,1429,7171,157,3.4
+2025-01,Competitor - Spendara,US,902,4444,92,1.2
+2025-01,Competitor - Spendara,UK,484,2419,54,1.5
+2025-01,Competitor - Spendara,NL,368,1644,38,1.5
+2025-01,Competitor - Spendara,AT,301,1693,37,1.4
+2025-01,Competitor - Spendara,CH,253,1268,29,0.8
+2025-01,Competitor - Spendara,Other,75,420,9,0.0
+2025-02,Brand,DE,1617,3951,978,6.7
+2025-02,Brand,US,1096,2686,649,3.2
+2025-02,Brand,UK,570,1369,348,1.6
+2025-02,Brand,NL,428,747,213,0.9
+2025-02,Brand,AT,366,783,205,2.1
+2025-02,Brand,CH,328,618,170,0.2
+2025-02,Brand,Other,78,199,48,0.0
+2025-02,Generic - Spend Management,DE,4669,11882,688,7.0
+2025-02,Generic - Spend Management,US,3457,7982,424,4.0
+2025-02,Generic - Spend Management,UK,1974,4019,229,2.4
+2025-02,Generic - Spend Management,NL,1240,3019,162,0.9
+2025-02,Generic - Spend Management,AT,1154,2660,149,1.5
+2025-02,Generic - Spend Management,CH,946,1806,112,0.9
+2025-02,Generic - Spend Management,Other,281,651,37,0.0
+2025-02,Generic - Procurement Software,DE,3244,10797,551,4.0
+2025-02,Generic - Procurement Software,US,2254,7017,322,2.6
+2025-02,Generic - Procurement Software,UK,1056,3280,169,1.3
+2025-02,Generic - Procurement Software,NL,765,2404,115,2.1
+2025-02,Generic - Procurement Software,AT,655,2301,107,1.2
+2025-02,Generic - Procurement Software,CH,578,2110,106,0.2
+2025-02,Generic - Procurement Software,Other,190,585,26,0.0
+2025-02,Generic - Invoice Automation,DE,2072,7602,310,1.7
+2025-02,Generic - Invoice Automation,US,1425,4887,208,3.0
+2025-02,Generic - Invoice Automation,UK,721,2749,104,0.3
+2025-02,Generic - Invoice Automation,NL,586,1872,70,0.2
+2025-02,Generic - Invoice Automation,AT,448,1762,69,1.6
+2025-02,Generic - Invoice Automation,CH,415,1468,64,0.6
+2025-02,Generic - Invoice Automation,Other,111,481,17,0.0
+2025-02,Competitor - Spendara,DE,1258,6608,155,4.3
+2025-02,Competitor - Spendara,US,897,3900,103,2.0
+2025-02,Competitor - Spendara,UK,492,2059,51,1.0
+2025-02,Competitor - Spendara,NL,332,1434,37,0.9
+2025-02,Competitor - Spendara,AT,300,1407,31,0.2
+2025-02,Competitor - Spendara,CH,266,1299,30,0.8
+2025-02,Competitor - Spendara,Other,70,358,8,0.0
+2025-03,Brand,DE,1481,2552,830,2.5
+2025-03,Brand,US,1029,1400,522,2.7
+2025-03,Brand,UK,520,700,255,0.7
+2025-03,Brand,NL,396,607,204,0.2
+2025-03,Brand,AT,347,457,175,1.0
+2025-03,Brand,CH,296,360,133,1.0
+2025-03,Brand,Other,92,122,43,0.0
+2025-03,Generic - Spend Management,DE,5397,14488,736,2.4
+2025-03,Generic - Spend Management,US,3465,10518,493,1.4
+2025-03,Generic - Spend Management,UK,1841,5103,264,1.3
+2025-03,Generic - Spend Management,NL,1314,3224,173,1.2
+2025-03,Generic - Spend Management,AT,1009,3269,174,1.6
+2025-03,Generic - Spend Management,CH,991,2648,139,0.5
+2025-03,Generic - Spend Management,Other,287,849,41,0.0
+2025-03,Generic - Procurement Software,DE,3392,8205,411,2.2
+2025-03,Generic - Procurement Software,US,2131,5558,267,2.1
+2025-03,Generic - Procurement Software,UK,1114,3202,158,0.9
+2025-03,Generic - Procurement Software,NL,760,1976,95,0.5
+2025-03,Generic - Procurement Software,AT,681,1978,94,0.4
+2025-03,Generic - Procurement Software,CH,641,1764,84,0.1
+2025-03,Generic - Procurement Software,Other,170,448,25,0.0
+2025-03,Generic - Invoice Automation,DE,2213,6467,341,1.9
+2025-03,Generic - Invoice Automation,US,1476,3543,216,0.7
+2025-03,Generic - Invoice Automation,UK,690,2007,113,0.8
+2025-03,Generic - Invoice Automation,NL,459,1489,83,0.5
+2025-03,Generic - Invoice Automation,AT,487,1394,73,0.4
+2025-03,Generic - Invoice Automation,CH,367,934,54,0.8
+2025-03,Generic - Invoice Automation,Other,122,312,16,0.0
+2025-03,Competitor - Spendara,DE,1340,9086,212,1.7
+2025-03,Competitor - Spendara,US,956,5332,141,1.5
+2025-03,Competitor - Spendara,UK,508,3099,79,0.8
+2025-03,Competitor - Spendara,NL,376,2173,55,0.4
+2025-03,Competitor - Spendara,AT,297,1883,46,0.1
+2025-03,Competitor - Spendara,CH,265,1364,37,0.7
+2025-03,Competitor - Spendara,Other,74,469,11,0.0
+2025-04,Brand,DE,1549,1930,688,6.3
+2025-04,Brand,US,1082,1467,471,2.0
+2025-04,Brand,UK,564,742,234,0.8
+2025-04,Brand,NL,401,551,181,0.7
+2025-04,Brand,AT,366,443,141,1.2
+2025-04,Brand,CH,344,404,138,0.6
+2025-04,Brand,Other,89,139,41,0.0
+2025-04,Generic - Spend Management,DE,4833,13388,712,4.6
+2025-04,Generic - Spend Management,US,3524,8558,530,2.4
+2025-04,Generic - Spend Management,UK,1914,4867,288,0.9
+2025-04,Generic - Spend Management,NL,1174,3269,185,0.8
+2025-04,Generic - Spend Management,AT,992,3042,166,1.4
+2025-04,Generic - Spend Management,CH,952,2543,147,1.4
+2025-04,Generic - Spend Management,Other,262,782,42,0.0
+2025-04,Generic - Procurement Software,DE,3213,7067,400,3.0
+2025-04,Generic - Procurement Software,US,2058,4354,268,3.3
+2025-04,Generic - Procurement Software,UK,1055,2577,161,0.7
+2025-04,Generic - Procurement Software,NL,670,1947,109,1.1
+2025-04,Generic - Procurement Software,AT,705,1429,85,0.2
+2025-04,Generic - Procurement Software,CH,579,1373,83,0.1
+2025-04,Generic - Procurement Software,Other,171,381,21,0.0
+2025-04,Generic - Invoice Automation,DE,2155,6922,294,2.4
+2025-04,Generic - Invoice Automation,US,1542,4725,191,0.8
+2025-04,Generic - Invoice Automation,UK,816,1954,93,0.7
+2025-04,Generic - Invoice Automation,NL,615,1760,72,0.6
+2025-04,Generic - Invoice Automation,AT,536,1477,65,0.1
+2025-04,Generic - Invoice Automation,CH,469,1293,52,0.6
+2025-04,Generic - Invoice Automation,Other,123,408,16,0.0
+2025-04,Competitor - Spendara,DE,1306,6519,179,2.4
+2025-04,Competitor - Spendara,US,945,4304,112,2.1
+2025-04,Competitor - Spendara,UK,474,2097,61,0.3
+2025-04,Competitor - Spendara,NL,305,1343,37,1.3
+2025-04,Competitor - Spendara,AT,279,1306,36,1.2
+2025-04,Competitor - Spendara,CH,249,1140,32,0.2
+2025-04,Competitor - Spendara,Other,77,351,10,0.0
+2025-05,Brand,DE,1635,2531,635,4.1
+2025-05,Brand,US,1121,1693,480,2.7
+2025-05,Brand,UK,552,847,234,1.4
+2025-05,Brand,NL,389,575,174,0.3
+2025-05,Brand,AT,325,502,147,0.3
+2025-05,Brand,CH,290,459,136,0.3
+2025-05,Brand,Other,89,156,39,0.0
+2025-05,Generic - Spend Management,DE,5696,11567,720,6.4
+2025-05,Generic - Spend Management,US,3454,8089,481,1.7
+2025-05,Generic - Spend Management,UK,2110,4907,275,1.4
+2025-05,Generic - Spend Management,NL,1466,3510,198,1.9
+2025-05,Generic - Spend Management,AT,1179,2928,175,0.2
+2025-05,Generic - Spend Management,CH,1117,2684,153,0.7
+2025-05,Generic - Spend Management,Other,314,783,47,0.0
+2025-05,Generic - Procurement Software,DE,3407,11487,535,3.2
+2025-05,Generic - Procurement Software,US,2376,7619,353,3.4
+2025-05,Generic - Procurement Software,UK,1186,3720,191,0.7
+2025-05,Generic - Procurement Software,NL,909,2414,115,0.7
+2025-05,Generic - Procurement Software,AT,816,2190,99,0.6
+2025-05,Generic - Procurement Software,CH,666,2339,102,0.6
+2025-05,Generic - Procurement Software,Other,198,540,27,0.0
+2025-05,Generic - Invoice Automation,DE,2143,4365,280,2.3
+2025-05,Generic - Invoice Automation,US,1338,3014,183,1.2
+2025-05,Generic - Invoice Automation,UK,737,1766,97,1.0
+2025-05,Generic - Invoice Automation,NL,512,1036,58,0.6
+2025-05,Generic - Invoice Automation,AT,506,1038,58,0.1
+2025-05,Generic - Invoice Automation,CH,392,930,52,0.5
+2025-05,Generic - Invoice Automation,Other,128,266,15,0.0
+2025-05,Competitor - Spendara,DE,1478,6135,204,2.0
+2025-05,Competitor - Spendara,US,915,4165,135,2.6
+2025-05,Competitor - Spendara,UK,456,2165,74,0.7
+2025-05,Competitor - Spendara,NL,322,1644,54,1.0
+2025-05,Competitor - Spendara,AT,313,1425,48,1.4
+2025-05,Competitor - Spendara,CH,247,1065,37,0.1
+2025-05,Competitor - Spendara,Other,70,370,12,0.0
+2025-06,Brand,DE,1684,3230,759,3.0
+2025-06,Brand,US,1047,2198,525,4.4
+2025-06,Brand,UK,606,1224,312,1.9
+2025-06,Brand,NL,367,734,201,0.2
+2025-06,Brand,AT,345,830,187,2.4
+2025-06,Brand,CH,299,569,148,1.3
+2025-06,Brand,Other,94,170,43,0.0
+2025-06,Generic - Spend Management,DE,5094,13507,615,4.9
+2025-06,Generic - Spend Management,US,3163,9054,386,3.7
+2025-06,Generic - Spend Management,UK,1663,5010,226,2.6
+2025-06,Generic - Spend Management,NL,1108,3502,150,1.0
+2025-06,Generic - Spend Management,AT,951,3258,128,1.8
+2025-06,Generic - Spend Management,CH,909,3082,123,1.7
+2025-06,Generic - Spend Management,Other,229,902,37,0.0
+2025-06,Generic - Procurement Software,DE,3102,9360,462,4.1
+2025-06,Generic - Procurement Software,US,2229,5568,290,2.7
+2025-06,Generic - Procurement Software,UK,1238,2865,155,0.9
+2025-06,Generic - Procurement Software,NL,794,1945,104,2.4
+2025-06,Generic - Procurement Software,AT,746,1763,95,1.8
+2025-06,Generic - Procurement Software,CH,575,1546,78,1.3
+2025-06,Generic - Procurement Software,Other,159,455,22,0.0
+2025-06,Generic - Invoice Automation,DE,2207,5136,282,3.8
+2025-06,Generic - Invoice Automation,US,1300,3253,207,2.2
+2025-06,Generic - Invoice Automation,UK,691,1754,102,0.6
+2025-06,Generic - Invoice Automation,NL,551,1294,68,0.5
+2025-06,Generic - Invoice Automation,AT,487,1039,60,0.1
+2025-06,Generic - Invoice Automation,CH,452,987,53,0.5
+2025-06,Generic - Invoice Automation,Other,110,302,16,0.0
+2025-06,Competitor - Spendara,DE,1573,8315,207,5.6
+2025-06,Competitor - Spendara,US,891,6214,156,2.2
+2025-06,Competitor - Spendara,UK,479,3119,80,0.4
+2025-06,Competitor - Spendara,NL,349,1883,48,0.3
+2025-06,Competitor - Spendara,AT,295,2000,50,0.2
+2025-06,Competitor - Spendara,CH,277,1614,45,1.0
+2025-06,Competitor - Spendara,Other,75,456,11,0.0
+2025-07,Brand,DE,1493,3036,757,2.7
+2025-07,Brand,US,897,1741,493,3.4
+2025-07,Brand,UK,541,881,260,0.7
+2025-07,Brand,NL,358,702,196,1.1
+2025-07,Brand,AT,331,686,185,0.2
+2025-07,Brand,CH,249,594,164,1.1
+2025-07,Brand,Other,84,154,45,0.0
+2025-07,Generic - Spend Management,DE,4887,12477,740,4.1
+2025-07,Generic - Spend Management,US,3466,7215,434,2.7
+2025-07,Generic - Spend Management,UK,1707,4135,253,0.3
+2025-07,Generic - Spend Management,NL,1242,2785,174,0.8
+2025-07,Generic - Spend Management,AT,975,2738,151,1.3
+2025-07,Generic - Spend Management,CH,884,2126,122,0.7
+2025-07,Generic - Spend Management,Other,249,652,35,0.0
+2025-07,Generic - Procurement Software,DE,3800,13773,603,5.1
+2025-07,Generic - Procurement Software,US,2190,8230,349,1.3
+2025-07,Generic - Procurement Software,UK,1257,5033,192,0.7
+2025-07,Generic - Procurement Software,NL,820,3873,149,1.0
+2025-07,Generic - Procurement Software,AT,788,3029,132,0.1
+2025-07,Generic - Procurement Software,CH,688,2324,106,0.6
+2025-07,Generic - Procurement Software,Other,193,838,33,0.0
+2025-07,Generic - Invoice Automation,DE,2196,6810,278,1.5
+2025-07,Generic - Invoice Automation,US,1454,5046,201,1.2
+2025-07,Generic - Invoice Automation,UK,762,2714,104,0.9
+2025-07,Generic - Invoice Automation,NL,518,1764,65,0.8
+2025-07,Generic - Invoice Automation,AT,463,1547,62,0.2
+2025-07,Generic - Invoice Automation,CH,356,1316,57,0.7
+2025-07,Generic - Invoice Automation,Other,111,381,15,0.0
+2025-07,Competitor - Spendara,DE,1310,4209,173,2.3
+2025-07,Competitor - Spendara,US,819,2921,116,2.1
+2025-07,Competitor - Spendara,UK,485,1898,68,0.6
+2025-07,Competitor - Spendara,NL,301,1245,43,0.1
+2025-07,Competitor - Spendara,AT,263,1178,44,1.4
+2025-07,Competitor - Spendara,CH,241,826,32,0.1
+2025-07,Competitor - Spendara,Other,72,264,10,0.0
+2025-08,Brand,DE,1561,2051,652,3.5
+2025-08,Brand,US,906,1173,409,1.5
+2025-08,Brand,UK,546,669,218,0.9
+2025-08,Brand,NL,340,465,167,0.5
+2025-08,Brand,AT,288,388,140,0.8
+2025-08,Brand,CH,286,398,131,0.1
+2025-08,Brand,Other,75,106,33,0.0
+2025-08,Generic - Spend Management,DE,5125,16715,840,4.6
+2025-08,Generic - Spend Management,US,3046,9376,491,1.8
+2025-08,Generic - Spend Management,UK,1639,5653,299,1.0
+2025-08,Generic - Spend Management,NL,1172,3669,211,0.9
+2025-08,Generic - Spend Management,AT,1056,3326,170,0.8
+2025-08,Generic - Spend Management,CH,998,2743,157,1.4
+2025-08,Generic - Spend Management,Other,280,724,43,0.0
+2025-08,Generic - Procurement Software,DE,3311,8425,416,1.9
+2025-08,Generic - Procurement Software,US,2073,5939,272,0.5
+2025-08,Generic - Procurement Software,UK,1176,2924,141,1.4
+2025-08,Generic - Procurement Software,NL,771,2055,95,0.2
+2025-08,Generic - Procurement Software,AT,677,1916,93,2.4
+2025-08,Generic - Procurement Software,CH,607,1494,68,1.8
+2025-08,Generic - Procurement Software,Other,183,450,22,0.0
+2025-08,Generic - Invoice Automation,DE,2437,6955,340,2.0
+2025-08,Generic - Invoice Automation,US,1396,4802,208,0.5
+2025-08,Generic - Invoice Automation,UK,847,2702,112,0.3
+2025-08,Generic - Invoice Automation,NL,556,1839,85,1.3
+2025-08,Generic - Invoice Automation,AT,487,1747,77,0.8
+2025-08,Generic - Invoice Automation,CH,425,1522,66,0.2
+2025-08,Generic - Invoice Automation,Other,123,443,18,0.0
+2025-08,Competitor - Spendara,DE,1271,7093,161,3.0
+2025-08,Competitor - Spendara,US,895,4521,94,1.8
+2025-08,Competitor - Spendara,UK,431,2924,59,1.2
+2025-08,Competitor - Spendara,NL,307,1790,36,0.2
+2025-08,Competitor - Spendara,AT,297,1477,32,0.1
+2025-08,Competitor - Spendara,CH,236,1334,30,0.1
+2025-08,Competitor - Spendara,Other,71,345,8,0.0
+2025-09,Brand,DE,1381,2432,649,6.4
+2025-09,Brand,US,998,1884,493,1.8
+2025-09,Brand,UK,499,1173,278,0.7
+2025-09,Brand,NL,327,763,192,0.6
+2025-09,Brand,AT,294,624,144,1.0
+2025-09,Brand,CH,274,548,144,0.1
+2025-09,Brand,Other,82,157,40,0.0
+2025-09,Generic - Spend Management,DE,5803,18397,807,3.5
+2025-09,Generic - Spend Management,US,4022,14349,546,3.8
+2025-09,Generic - Spend Management,UK,1925,7016,316,1.0
+2025-09,Generic - Spend Management,NL,1269,4955,194,1.5
+2025-09,Generic - Spend Management,AT,1217,4694,187,1.5
+2025-09,Generic - Spend Management,CH,1045,4362,167,1.5
+2025-09,Generic - Spend Management,Other,303,1061,42,0.0
+2025-09,Generic - Procurement Software,DE,3390,12233,530,3.2
+2025-09,Generic - Procurement Software,US,1864,8314,346,1.5
+2025-09,Generic - Procurement Software,UK,1039,4149,183,1.8
+2025-09,Generic - Procurement Software,NL,778,2663,120,1.2
+2025-09,Generic - Procurement Software,AT,663,2209,98,0.2
+2025-09,Generic - Procurement Software,CH,568,2127,102,1.1
+2025-09,Generic - Procurement Software,Other,163,558,24,0.0
+2025-09,Generic - Invoice Automation,DE,2276,5885,282,2.1
+2025-09,Generic - Invoice Automation,US,1473,4223,190,1.6
+2025-09,Generic - Invoice Automation,UK,783,2258,105,0.4
+2025-09,Generic - Invoice Automation,NL,540,1612,72,0.3
+2025-09,Generic - Invoice Automation,AT,517,1177,62,0.3
+2025-09,Generic - Invoice Automation,CH,432,1109,52,0.2
+2025-09,Generic - Invoice Automation,Other,112,320,15,0.0
+2025-09,Competitor - Spendara,DE,1471,6835,166,3.4
+2025-09,Competitor - Spendara,US,909,4594,120,2.3
+2025-09,Competitor - Spendara,UK,444,2817,65,0.7
+2025-09,Competitor - Spendara,NL,306,1637,41,0.2
+2025-09,Competitor - Spendara,AT,320,1573,37,0.6
+2025-09,Competitor - Spendara,CH,241,1346,36,0.6
+2025-09,Competitor - Spendara,Other,73,326,9,0.0
+2025-10,Brand,DE,1583,2656,813,6.5
+2025-10,Brand,US,1098,1504,520,2.4
+2025-10,Brand,UK,503,901,265,0.7
+2025-10,Brand,NL,385,577,192,0.6
+2025-10,Brand,AT,315,580,177,0.2
+2025-10,Brand,CH,280,560,165,0.1
+2025-10,Brand,Other,83,131,43,0.0
+2025-10,Generic - Spend Management,DE,5179,13917,763,5.2
+2025-10,Generic - Spend Management,US,3454,10495,530,3.5
+2025-10,Generic - Spend Management,UK,2076,6009,288,1.7
+2025-10,Generic - Spend Management,NL,1335,3632,207,0.2
+2025-10,Generic - Spend Management,AT,1189,3531,191,1.2
+2025-10,Generic - Spend Management,CH,988,3590,172,0.1
+2025-10,Generic - Spend Management,Other,335,999,49,0.0
+2025-10,Generic - Procurement Software,DE,3459,16093,536,3.8
+2025-10,Generic - Procurement Software,US,2173,8452,331,2.4
+2025-10,Generic - Procurement Software,UK,1233,5701,197,1.4
+2025-10,Generic - Procurement Software,NL,860,3636,134,0.2
+2025-10,Generic - Procurement Software,AT,830,3372,115,0.5
+2025-10,Generic - Procurement Software,CH,605,2986,100,0.1
+2025-10,Generic - Procurement Software,Other,195,852,30,0.0
+2025-10,Generic - Invoice Automation,DE,2419,6958,372,2.5
+2025-10,Generic - Invoice Automation,US,1394,4171,249,0.7
+2025-10,Generic - Invoice Automation,UK,823,2379,134,0.8
+2025-10,Generic - Invoice Automation,NL,525,1511,91,0.5
+2025-10,Generic - Invoice Automation,AT,460,1353,79,0.4
+2025-10,Generic - Invoice Automation,CH,413,1398,76,0.1
+2025-10,Generic - Invoice Automation,Other,114,380,20,0.0
+2025-10,Competitor - Spendara,DE,1248,6066,158,3.2
+2025-10,Competitor - Spendara,US,810,4037,105,1.8
+2025-10,Competitor - Spendara,UK,418,1854,49,0.3
+2025-10,Competitor - Spendara,NL,279,1417,39,0.8
+2025-10,Competitor - Spendara,AT,250,1152,32,0.2
+2025-10,Competitor - Spendara,CH,212,972,27,0.8
+2025-10,Competitor - Spendara,Other,62,284,8,0.0
+2025-11,Brand,DE,1510,2177,587,3.7
+2025-11,Brand,US,971,1580,444,2.7
+2025-11,Brand,UK,474,790,215,3.3
+2025-11,Brand,NL,320,524,147,0.1
+2025-11,Brand,AT,301,460,143,1.7
+2025-11,Brand,CH,253,374,121,0.1
+2025-11,Brand,Other,71,106,31,0.0
+2025-11,Generic - Spend Management,DE,5106,16679,745,3.7
+2025-11,Generic - Spend Management,US,3400,11213,501,2.8
+2025-11,Generic - Spend Management,UK,1851,6159,293,2.0
+2025-11,Generic - Spend Management,NL,1278,4404,198,1.9
+2025-11,Generic - Spend Management,AT,1002,3943,161,0.2
+2025-11,Generic - Spend Management,CH,960,3453,154,0.7
+2025-11,Generic - Spend Management,Other,258,986,44,0.0
+2025-11,Generic - Procurement Software,DE,3298,10932,497,3.1
+2025-11,Generic - Procurement Software,US,1806,5979,295,1.9
+2025-11,Generic - Procurement Software,UK,973,3424,150,0.2
+2025-11,Generic - Procurement Software,NL,791,2513,120,1.1
+2025-11,Generic - Procurement Software,AT,639,2216,109,0.6
+2025-11,Generic - Procurement Software,CH,558,2013,93,1.6
+2025-11,Generic - Procurement Software,Other,173,524,23,0.0
+2025-11,Generic - Invoice Automation,DE,2480,9440,358,3.6
+2025-11,Generic - Invoice Automation,US,1461,5573,239,1.0
+2025-11,Generic - Invoice Automation,UK,834,2932,128,0.7
+2025-11,Generic - Invoice Automation,NL,618,2055,90,0.2
+2025-11,Generic - Invoice Automation,AT,562,1868,77,0.2
+2025-11,Generic - Invoice Automation,CH,443,1559,62,0.1
+2025-11,Generic - Invoice Automation,Other,121,498,19,0.0
+2025-11,Competitor - Spendara,DE,1238,4478,133,2.7
+2025-11,Competitor - Spendara,US,866,3425,86,1.8
+2025-11,Competitor - Spendara,UK,432,1966,54,0.3
+2025-11,Competitor - Spendara,NL,292,1505,38,0.8
+2025-11,Competitor - Spendara,AT,284,1221,34,0.2
+2025-11,Competitor - Spendara,CH,257,910,27,1.3
+2025-11,Competitor - Spendara,Other,75,269,8,0.0
+2025-12,Brand,DE,1401,2825,759,2.8
+2025-12,Brand,US,1031,2323,557,1.0
+2025-12,Brand,UK,494,1172,282,0.8
+2025-12,Brand,NL,344,713,202,0.2
+2025-12,Brand,AT,306,699,171,0.7
+2025-12,Brand,CH,259,588,157,0.6
+2025-12,Brand,Other,80,175,45,0.0
+2025-12,Generic - Spend Management,DE,5069,12664,696,3.0
+2025-12,Generic - Spend Management,US,3599,8296,478,2.7
+2025-12,Generic - Spend Management,UK,1993,4652,258,1.4
+2025-12,Generic - Spend Management,NL,1158,2882,176,0.2
+2025-12,Generic - Spend Management,AT,1082,3104,165,0.2
+2025-12,Generic - Spend Management,CH,926,2447,133,0.2
+2025-12,Generic - Spend Management,Other,261,717,39,0.0
+2025-12,Generic - Procurement Software,DE,3248,13603,509,1.7
+2025-12,Generic - Procurement Software,US,2140,9314,329,1.0
+2025-12,Generic - Procurement Software,UK,994,4192,156,0.7
+2025-12,Generic - Procurement Software,NL,701,3144,109,0.7
+2025-12,Generic - Procurement Software,AT,732,2997,110,0.2
+2025-12,Generic - Procurement Software,CH,604,2329,96,0.1
+2025-12,Generic - Procurement Software,Other,156,679,27,0.0
+2025-12,Generic - Invoice Automation,DE,2170,5278,288,1.2
+2025-12,Generic - Invoice Automation,US,1368,3818,178,1.3
+2025-12,Generic - Invoice Automation,UK,842,2021,97,0.5
+2025-12,Generic - Invoice Automation,NL,548,1413,67,0.1
+2025-12,Generic - Invoice Automation,AT,501,1335,63,0.1
+2025-12,Generic - Invoice Automation,CH,442,955,47,0.1
+2025-12,Generic - Invoice Automation,Other,116,303,14,0.0
+2025-12,Competitor - Spendara,DE,1002,5838,168,0.9
+2025-12,Competitor - Spendara,US,1343,3872,116,1.7
+2025-12,Competitor - Spendara,UK,326,2069,59,0.2
+2025-12,Competitor - Spendara,NL,222,1360,42,0.5
+2025-12,Competitor - Spendara,AT,233,1358,40,0.8
+2025-12,Competitor - Spendara,CH,173,941,31,0.4
+2025-12,Competitor - Spendara,Other,59,312,8,0.0
+2026-01,Brand,DE,1471,2700,745,5.1
+2026-01,Brand,US,873,2062,502,3.8
+2026-01,Brand,UK,528,1049,264,1.9
+2026-01,Brand,NL,360,655,176,0.7
+2026-01,Brand,AT,302,597,159,0.2
+2026-01,Brand,CH,280,592,144,0.2
+2026-01,Brand,Other,75,157,42,0.0
+2026-01,Generic - Spend Management,DE,5156,13596,677,6.2
+2026-01,Generic - Spend Management,US,3224,8765,443,5.3
+2026-01,Generic - Spend Management,UK,1583,4114,234,0.9
+2026-01,Generic - Spend Management,NL,1255,3410,180,0.2
+2026-01,Generic - Spend Management,AT,1023,2670,151,2.5
+2026-01,Generic - Spend Management,CH,910,2524,140,0.8
+2026-01,Generic - Spend Management,Other,256,807,41,0.0
+2026-01,Generic - Procurement Software,DE,3255,10286,468,4.2
+2026-01,Generic - Procurement Software,US,2193,7367,345,1.8
+2026-01,Generic - Procurement Software,UK,1057,3980,171,0.5
+2026-01,Generic - Procurement Software,NL,765,2833,130,0.3
+2026-01,Generic - Procurement Software,AT,679,2039,98,2.2
+2026-01,Generic - Procurement Software,CH,672,1848,92,1.2
+2026-01,Generic - Procurement Software,Other,172,532,26,0.0
+2026-01,Generic - Invoice Automation,DE,2254,6445,292,2.3
+2026-01,Generic - Invoice Automation,US,1707,3986,192,1.3
+2026-01,Generic - Invoice Automation,UK,911,2727,117,1.0
+2026-01,Generic - Invoice Automation,NL,594,1778,77,1.6
+2026-01,Generic - Invoice Automation,AT,530,1415,62,0.2
+2026-01,Generic - Invoice Automation,CH,420,1268,61,0.9
+2026-01,Generic - Invoice Automation,Other,124,378,17,0.0
+2026-01,Competitor - Spendara,DE,1013,3994,152,3.6
+2026-01,Competitor - Spendara,US,1624,2916,97,1.7
+2026-01,Competitor - Spendara,UK,368,1329,46,0.9
+2026-01,Competitor - Spendara,NL,260,918,37,0.5
+2026-01,Competitor - Spendara,AT,248,776,30,0.8
+2026-01,Competitor - Spendara,CH,182,732,28,0.1
+2026-01,Competitor - Spendara,Other,52,202,7,0.0
+2026-02,Brand,DE,1511,3120,756,3.0
+2026-02,Brand,US,982,1678,445,2.0
+2026-02,Brand,UK,595,1108,263,1.7
+2026-02,Brand,NL,406,746,186,0.9
+2026-02,Brand,AT,351,673,169,1.5
+2026-02,Brand,CH,324,559,145,0.8
+2026-02,Brand,Other,79,163,43,0.0
+2026-02,Generic - Spend Management,DE,4722,11570,693,5.4
+2026-02,Generic - Spend Management,US,3129,7417,415,3.7
+2026-02,Generic - Spend Management,UK,1626,3329,209,0.7
+2026-02,Generic - Spend Management,NL,1236,2736,150,2.0
+2026-02,Generic - Spend Management,AT,1031,2608,142,0.2
+2026-02,Generic - Spend Management,CH,1050,2202,128,1.1
+2026-02,Generic - Spend Management,Other,291,680,37,0.0
+2026-02,Generic - Procurement Software,DE,3518,9234,501,3.1
+2026-02,Generic - Procurement Software,US,2352,4791,280,2.8
+2026-02,Generic - Procurement Software,UK,1422,3132,176,1.2
+2026-02,Generic - Procurement Software,NL,899,1823,107,0.2
+2026-02,Generic - Procurement Software,AT,781,1550,95,1.1
+2026-02,Generic - Procurement Software,CH,658,1608,92,0.1
+2026-02,Generic - Procurement Software,Other,223,448,25,0.0
+2026-02,Generic - Invoice Automation,DE,2448,5876,324,1.7
+2026-02,Generic - Invoice Automation,US,1606,4088,206,2.0
+2026-02,Generic - Invoice Automation,UK,851,1904,101,1.0
+2026-02,Generic - Invoice Automation,NL,628,1396,71,0.2
+2026-02,Generic - Invoice Automation,AT,517,1217,70,0.2
+2026-02,Generic - Invoice Automation,CH,453,967,53,0.2
+2026-02,Generic - Invoice Automation,Other,134,291,16,0.0
+2026-02,Competitor - Spendara,DE,1221,5899,216,3.3
+2026-02,Competitor - Spendara,US,1496,3978,140,3.1
+2026-02,Competitor - Spendara,UK,358,2204,77,0.2
+2026-02,Competitor - Spendara,NL,298,1512,60,0.6
+2026-02,Competitor - Spendara,AT,241,1264,49,1.0
+2026-02,Competitor - Spendara,CH,230,1134,39,0.1
+2026-02,Competitor - Spendara,Other,55,350,13,0.0
+2026-03,Brand,DE,1632,3122,843,5.0
+2026-03,Brand,US,994,1910,522,2.1
+2026-03,Brand,UK,586,1122,285,1.3
+2026-03,Brand,NL,414,737,192,1.7
+2026-03,Brand,AT,353,666,180,0.2
+2026-03,Brand,CH,302,597,165,0.7
+2026-03,Brand,Other,89,174,46,0.0
+2026-03,Generic - Spend Management,DE,5460,15830,621,6.0
+2026-03,Generic - Spend Management,US,3230,12993,482,2.7
+2026-03,Generic - Spend Management,UK,1689,5918,230,2.0
+2026-03,Generic - Spend Management,NL,1191,4270,178,2.0
+2026-03,Generic - Spend Management,AT,1136,3667,145,0.1
+2026-03,Generic - Spend Management,CH,875,2978,118,0.6
+2026-03,Generic - Spend Management,Other,257,940,38,0.0
+2026-03,Generic - Procurement Software,DE,3475,10046,559,4.1
+2026-03,Generic - Procurement Software,US,2217,5542,319,3.0
+2026-03,Generic - Procurement Software,UK,1304,3217,186,0.2
+2026-03,Generic - Procurement Software,NL,753,2410,135,0.2
+2026-03,Generic - Procurement Software,AT,773,2130,113,0.6
+2026-03,Generic - Procurement Software,CH,647,1777,107,0.6
+2026-03,Generic - Procurement Software,Other,199,511,30,0.0
+2026-03,Generic - Invoice Automation,DE,2343,4806,270,2.4
+2026-03,Generic - Invoice Automation,US,1387,3767,201,1.3
+2026-03,Generic - Invoice Automation,UK,710,1565,97,1.5
+2026-03,Generic - Invoice Automation,NL,557,1014,64,0.2
+2026-03,Generic - Invoice Automation,AT,431,950,57,0.1
+2026-03,Generic - Invoice Automation,CH,393,835,53,0.5
+2026-03,Generic - Invoice Automation,Other,118,238,15,0.0
+2026-03,Competitor - Spendara,DE,1124,7353,218,4.9
+2026-03,Competitor - Spendara,US,1563,5242,142,1.5
+2026-03,Competitor - Spendara,UK,426,2840,76,1.8
+2026-03,Competitor - Spendara,NL,245,2106,56,0.2
+2026-03,Competitor - Spendara,AT,229,1581,44,0.2
+2026-03,Competitor - Spendara,CH,227,1329,39,0.1
+2026-03,Competitor - Spendara,Other,64,423,12,0.0
+2026-04,Brand,DE,1551,2446,670,5.7
+2026-04,Brand,US,1167,1700,478,2.7
+2026-04,Brand,UK,587,1131,283,1.0
+2026-04,Brand,NL,417,728,182,0.2
+2026-04,Brand,AT,331,584,154,0.9
+2026-04,Brand,CH,287,531,132,0.9
+2026-04,Brand,Other,82,156,41,0.0
+2026-04,Generic - Spend Management,DE,4998,34235,1442,22.5
+2026-04,Generic - Spend Management,US,2777,19760,846,11.5
+2026-04,Generic - Spend Management,UK,1785,11098,514,2.9
+2026-04,Generic - Spend Management,NL,1037,6150,302,5.0
+2026-04,Generic - Spend Management,AT,934,5683,271,5.0
+2026-04,Generic - Spend Management,CH,954,5277,257,2.6
+2026-04,Generic - Spend Management,Other,241,1600,69,0.0
+2026-04,Generic - Procurement Software,DE,2711,12719,645,8.8
+2026-04,Generic - Procurement Software,US,1766,8043,444,7.3
+2026-04,Generic - Procurement Software,UK,959,3918,225,2.6
+2026-04,Generic - Procurement Software,NL,726,3021,153,3.5
+2026-04,Generic - Procurement Software,AT,647,2851,143,4.5
+2026-04,Generic - Procurement Software,CH,551,2288,123,1.3
+2026-04,Generic - Procurement Software,Other,178,677,39,0.0
+2026-04,Generic - Invoice Automation,DE,2170,9582,519,7.6
+2026-04,Generic - Invoice Automation,US,1464,7209,363,6.2
+2026-04,Generic - Invoice Automation,UK,760,3779,198,0.5
+2026-04,Generic - Invoice Automation,NL,483,2584,140,4.8
+2026-04,Generic - Invoice Automation,AT,419,2187,119,3.0
+2026-04,Generic - Invoice Automation,CH,385,1989,104,0.3
+2026-04,Generic - Invoice Automation,Other,103,614,31,0.0
+2026-04,Competitor - Spendara,DE,944,5253,167,9.7
+2026-04,Competitor - Spendara,US,1485,3691,114,4.1
+2026-04,Competitor - Spendara,UK,382,1709,61,4.6
+2026-04,Competitor - Spendara,NL,256,1053,39,0.4
+2026-04,Competitor - Spendara,AT,220,1001,34,2.4
+2026-04,Competitor - Spendara,CH,183,910,31,1.3
+2026-04,Competitor - Spendara,Other,56,285,9,0.0
+2026-04,PMax - Lead Gen,DE,3090,113815,1603,45.2
+2026-04,PMax - Lead Gen,US,2263,76891,1125,20.1
+2026-04,PMax - Lead Gen,UK,1212,36862,551,11.5
+2026-04,PMax - Lead Gen,NL,804,29651,420,8.6
+2026-04,PMax - Lead Gen,AT,640,22813,324,15.4
+2026-04,PMax - Lead Gen,CH,615,18270,255,9.9
+2026-04,PMax - Lead Gen,Other,3323,186327,2758,0.0
+2026-05,Brand,DE,1663,3838,942,6.7
+2026-05,Brand,US,970,2538,671,3.6
+2026-05,Brand,UK,547,1230,343,1.4
+2026-05,Brand,NL,407,1060,253,0.3
+2026-05,Brand,AT,334,801,195,0.3
+2026-05,Brand,CH,320,594,163,1.1
+2026-05,Brand,Other,89,216,51,0.0
+2026-05,Generic - Spend Management,DE,5168,23356,1301,17.4
+2026-05,Generic - Spend Management,US,2930,14636,864,9.0
+2026-05,Generic - Spend Management,UK,1651,7518,431,4.0
+2026-05,Generic - Spend Management,NL,1197,6929,352,4.9
+2026-05,Generic - Spend Management,AT,1054,4755,270,3.7
+2026-05,Generic - Spend Management,CH,917,5320,270,3.7
+2026-05,Generic - Spend Management,Other,253,1255,70,0.0
+2026-05,Generic - Procurement Software,DE,3161,23167,877,13.9
+2026-05,Generic - Procurement Software,US,2024,12802,516,12.2
+2026-05,Generic - Procurement Software,UK,1022,7326,280,5.0
+2026-05,Generic - Procurement Software,NL,742,5017,192,3.7
+2026-05,Generic - Procurement Software,AT,583,5295,185,2.6
+2026-05,Generic - Procurement Software,CH,508,4201,149,1.4
+2026-05,Generic - Procurement Software,Other,173,1448,50,0.0
+2026-05,Generic - Invoice Automation,DE,1776,7694,430,8.9
+2026-05,Generic - Invoice Automation,US,1156,5398,276,6.3
+2026-05,Generic - Invoice Automation,UK,606,2521,134,1.6
+2026-05,Generic - Invoice Automation,NL,421,2066,108,4.6
+2026-05,Generic - Invoice Automation,AT,391,1506,81,3.5
+2026-05,Generic - Invoice Automation,CH,335,1423,73,0.3
+2026-05,Generic - Invoice Automation,Other,101,465,24,0.0
+2026-05,Competitor - Spendara,DE,1043,5048,141,7.5
+2026-05,Competitor - Spendara,US,1392,3043,88,2.0
+2026-05,Competitor - Spendara,UK,341,1671,50,4.6
+2026-05,Competitor - Spendara,NL,273,1198,31,4.4
+2026-05,Competitor - Spendara,AT,204,1085,29,4.3
+2026-05,Competitor - Spendara,CH,177,927,25,0.3
+2026-05,Competitor - Spendara,Other,51,307,8,0.0
+2026-05,PMax - Lead Gen,DE,3596,135285,1869,43.4
+2026-05,PMax - Lead Gen,US,2355,101757,1470,26.2
+2026-05,PMax - Lead Gen,UK,1227,53316,823,25.8
+2026-05,PMax - Lead Gen,NL,844,30839,506,8.8
+2026-05,PMax - Lead Gen,AT,684,27275,452,11.1
+2026-05,PMax - Lead Gen,CH,678,20996,325,5.0
+2026-05,PMax - Lead Gen,Other,3274,228870,3314,0.0
+2026-06,Brand,DE,1440,2122,671,6.6
+2026-06,Brand,US,1038,1317,403,1.7
+2026-06,Brand,UK,565,789,216,0.5
+2026-06,Brand,NL,349,538,155,1.2
+2026-06,Brand,AT,331,543,142,1.2
+2026-06,Brand,CH,280,384,106,2.0
+2026-06,Brand,Other,82,121,35,0.0
+2026-06,Generic - Spend Management,DE,4673,23591,1139,25.8
+2026-06,Generic - Spend Management,US,2637,14540,784,9.4
+2026-06,Generic - Spend Management,UK,1667,8394,455,7.9
+2026-06,Generic - Spend Management,NL,1032,6352,307,3.5
+2026-06,Generic - Spend Management,AT,930,5621,275,3.5
+2026-06,Generic - Spend Management,CH,877,4465,245,1.4
+2026-06,Generic - Spend Management,Other,241,1241,67,0.0
+2026-06,Generic - Procurement Software,DE,2694,17275,730,13.7
+2026-06,Generic - Procurement Software,US,1790,10935,418,8.1
+2026-06,Generic - Procurement Software,UK,1057,5746,232,2.6
+2026-06,Generic - Procurement Software,NL,750,3887,167,4.4
+2026-06,Generic - Procurement Software,AT,575,3658,157,3.4
+2026-06,Generic - Procurement Software,CH,571,3270,130,2.3
+2026-06,Generic - Procurement Software,Other,139,962,39,0.0
+2026-06,Generic - Invoice Automation,DE,2038,12166,495,12.4
+2026-06,Generic - Invoice Automation,US,1325,8189,323,4.9
+2026-06,Generic - Invoice Automation,UK,786,4409,170,1.5
+2026-06,Generic - Invoice Automation,NL,489,3015,121,3.4
+2026-06,Generic - Invoice Automation,AT,465,2327,106,1.3
+2026-06,Generic - Invoice Automation,CH,433,2022,79,1.3
+2026-06,Generic - Invoice Automation,Other,112,616,27,0.0
+2026-06,Competitor - Spendara,DE,1144,6593,156,7.0
+2026-06,Competitor - Spendara,US,1605,4138,91,5.6
+2026-06,Competitor - Spendara,UK,368,2260,52,2.4
+2026-06,Competitor - Spendara,NL,252,1751,40,2.2
+2026-06,Competitor - Spendara,AT,232,1533,35,4.0
+2026-06,Competitor - Spendara,CH,219,1270,27,0.3
+2026-06,Competitor - Spendara,Other,56,369,8,0.0
+2026-06,PMax - Lead Gen,DE,3217,168274,1796,45.6
+2026-06,PMax - Lead Gen,US,2342,105225,1142,26.4
+2026-06,PMax - Lead Gen,UK,1198,59959,652,3.8
+2026-06,PMax - Lead Gen,NL,750,41901,475,5.8
+2026-06,PMax - Lead Gen,AT,638,38827,365,12.5
+2026-06,PMax - Lead Gen,CH,589,34961,340,8.0
+2026-06,PMax - Lead Gen,Other,2983,273003,3067,0.0
+2026-07,Brand,DE,1639,3111,855,8.3
+2026-07,Brand,US,999,2117,505,1.7
+2026-07,Brand,UK,601,1142,270,1.3
+2026-07,Brand,NL,422,709,190,1.2
+2026-07,Brand,AT,361,671,191,1.2
+2026-07,Brand,CH,284,594,158,0.2
+2026-07,Brand,Other,93,161,42,0.0
+2026-07,Generic - Spend Management,DE,4813,20481,1192,16.0
+2026-07,Generic - Spend Management,US,3357,15220,743,5.1
+2026-07,Generic - Spend Management,UK,1729,8749,429,2.6
+2026-07,Generic - Spend Management,NL,1199,5138,291,7.6
+2026-07,Generic - Spend Management,AT,1057,5080,268,4.5
+2026-07,Generic - Spend Management,CH,1082,3573,207,5.4
+2026-07,Generic - Spend Management,Other,272,1124,58,0.0
+2026-07,Generic - Procurement Software,DE,2598,13977,764,13.4
+2026-07,Generic - Procurement Software,US,1764,7577,422,2.9
+2026-07,Generic - Procurement Software,UK,965,5598,272,4.5
+2026-07,Generic - Procurement Software,NL,584,3201,163,1.3
+2026-07,Generic - Procurement Software,AT,551,2729,153,5.3
+2026-07,Generic - Procurement Software,CH,489,2913,145,0.3
+2026-07,Generic - Procurement Software,Other,136,773,39,0.0
+2026-07,Generic - Invoice Automation,DE,2000,9068,552,9.9
+2026-07,Generic - Invoice Automation,US,1311,6930,388,4.7
+2026-07,Generic - Invoice Automation,UK,697,3300,185,3.3
+2026-07,Generic - Invoice Automation,NL,496,2038,125,1.3
+2026-07,Generic - Invoice Automation,AT,428,2300,129,1.2
+2026-07,Generic - Invoice Automation,CH,402,1837,114,2.1
+2026-07,Generic - Invoice Automation,Other,108,504,31,0.0
+2026-07,Competitor - Spendara,DE,1036,4893,155,6.8
+2026-07,Competitor - Spendara,US,1576,2641,97,4.5
+2026-07,Competitor - Spendara,UK,352,1573,51,2.3
+2026-07,Competitor - Spendara,NL,253,958,35,2.2
+2026-07,Competitor - Spendara,AT,200,863,30,2.1
+2026-07,Competitor - Spendara,CH,212,937,29,0.3
+2026-07,Competitor - Spendara,Other,51,269,8,0.0
+2026-07,PMax - Lead Gen,DE,3201,168252,1833,32.2
+2026-07,PMax - Lead Gen,US,2152,119879,1392,25.2
+2026-07,PMax - Lead Gen,UK,1089,66699,780,8.2
+2026-07,PMax - Lead Gen,NL,760,50404,532,8.1
+2026-07,PMax - Lead Gen,AT,708,41055,452,9.1
+2026-07,PMax - Lead Gen,CH,549,30887,347,4.6
+2026-07,PMax - Lead Gen,Other,3325,279663,2985,0.0
+2026-08,Brand,DE,1713,3353,922,4.3
+2026-08,Brand,US,1039,2067,536,5.7
+2026-08,Brand,UK,561,1266,344,0.5
+2026-08,Brand,NL,408,759,216,1.3
+2026-08,Brand,AT,378,835,206,0.3
+2026-08,Brand,CH,320,644,183,1.2
+2026-08,Brand,Other,83,174,48,0.0
+2026-08,Generic - Spend Management,DE,4676,24076,1037,11.1
+2026-08,Generic - Spend Management,US,2686,15455,678,9.3
+2026-08,Generic - Spend Management,UK,1507,8164,388,7.7
+2026-08,Generic - Spend Management,NL,1114,6726,292,5.1
+2026-08,Generic - Spend Management,AT,871,5502,232,6.2
+2026-08,Generic - Spend Management,CH,744,5624,225,3.9
+2026-08,Generic - Spend Management,Other,248,1432,65,0.0
+2026-08,Generic - Procurement Software,DE,2903,10552,669,13.5
+2026-08,Generic - Procurement Software,US,1629,7349,426,6.4
+2026-08,Generic - Procurement Software,UK,849,4184,245,2.7
+2026-08,Generic - Procurement Software,NL,688,2402,151,1.5
+2026-08,Generic - Procurement Software,AT,584,2749,156,1.4
+2026-08,Generic - Procurement Software,CH,550,2467,133,2.5
+2026-08,Generic - Procurement Software,Other,158,538,34,0.0
+2026-08,Generic - Invoice Automation,DE,2102,14457,543,7.6
+2026-08,Generic - Invoice Automation,US,1367,8653,313,5.0
+2026-08,Generic - Invoice Automation,UK,656,4849,186,1.5
+2026-08,Generic - Invoice Automation,NL,454,3365,115,3.4
+2026-08,Generic - Invoice Automation,AT,455,3184,116,2.4
+2026-08,Generic - Invoice Automation,CH,384,2549,98,0.3
+2026-08,Generic - Invoice Automation,Other,111,728,25,0.0
+2026-08,Competitor - Spendara,DE,921,8004,170,6.8
+2026-08,Competitor - Spendara,US,1298,5261,114,7.3
+2026-08,Competitor - Spendara,UK,328,2221,52,0.6
+2026-08,Competitor - Spendara,NL,241,1758,39,2.5
+2026-08,Competitor - Spendara,AT,211,1576,35,2.4
+2026-08,Competitor - Spendara,CH,195,1401,30,2.4
+2026-08,Competitor - Spendara,Other,53,394,9,0.0
+2026-08,PMax - Lead Gen,DE,3125,61155,1168,43.1
+2026-08,PMax - Lead Gen,US,2324,56125,1000,22.4
+2026-08,PMax - Lead Gen,UK,1125,32810,570,15.7
+2026-08,PMax - Lead Gen,NL,904,21835,352,10.5
+2026-08,PMax - Lead Gen,AT,678,16240,274,9.1
+2026-08,PMax - Lead Gen,CH,584,13970,220,10.4
+2026-08,PMax - Lead Gen,Other,3013,130307,2193,0.0
+2026-09,Brand,DE,1475,2264,771,6.9
+2026-09,Brand,US,1007,1567,527,3.7
+2026-09,Brand,UK,493,760,290,3.2
+2026-09,Brand,NL,389,606,208,0.3
+2026-09,Brand,AT,355,458,187,0.3
+2026-09,Brand,CH,302,378,145,0.3
+2026-09,Brand,Other,76,100,41,0.0
+2026-09,Generic - Spend Management,DE,4380,26155,1232,14.6
+2026-09,Generic - Spend Management,US,3094,15529,760,13.0
+2026-09,Generic - Spend Management,UK,1579,8820,437,6.0
+2026-09,Generic - Spend Management,NL,1233,5871,276,2.5
+2026-09,Generic - Spend Management,AT,1065,6611,282,5.8
+2026-09,Generic - Spend Management,CH,853,4803,211,6.8
+2026-09,Generic - Spend Management,Other,243,1254,63,0.0
+2026-09,Generic - Procurement Software,DE,2493,17219,733,9.0
+2026-09,Generic - Procurement Software,US,1758,9685,415,9.6
+2026-09,Generic - Procurement Software,UK,843,5772,261,9.1
+2026-09,Generic - Procurement Software,NL,655,3473,174,3.6
+2026-09,Generic - Procurement Software,AT,575,3231,140,2.5
+2026-09,Generic - Procurement Software,CH,485,2836,132,2.4
+2026-09,Generic - Procurement Software,Other,126,743,37,0.0
+2026-09,Generic - Invoice Automation,DE,2112,11817,584,7.3
+2026-09,Generic - Invoice Automation,US,1130,7289,322,4.9
+2026-09,Generic - Invoice Automation,UK,718,3998,205,3.4
+2026-09,Generic - Invoice Automation,NL,427,2706,122,3.3
+2026-09,Generic - Invoice Automation,AT,411,2171,111,1.3
+2026-09,Generic - Invoice Automation,CH,348,2430,110,1.3
+2026-09,Generic - Invoice Automation,Other,99,605,28,0.0
+2026-09,Competitor - Spendara,DE,984,7062,205,9.2
+2026-09,Competitor - Spendara,US,1544,5262,137,6.8
+2026-09,Competitor - Spendara,UK,420,2196,65,2.5
+2026-09,Competitor - Spendara,NL,283,1490,45,2.3
+2026-09,Competitor - Spendara,AT,258,1218,38,1.3
+2026-09,Competitor - Spendara,CH,192,1245,37,0.3
+2026-09,Competitor - Spendara,Other,55,385,11,0.0
+2026-09,PMax - Lead Gen,DE,3344,142778,2025,32.5
+2026-09,PMax - Lead Gen,US,2292,96720,1543,19.4
+2026-09,PMax - Lead Gen,UK,1361,51289,741,16.8
+2026-09,PMax - Lead Gen,NL,902,36170,529,10.8
+2026-09,PMax - Lead Gen,AT,714,26590,416,6.1
+2026-09,PMax - Lead Gen,CH,687,26805,384,8.4
+2026-09,PMax - Lead Gen,Other,3089,225260,3485,0.0
+2026-10,Brand,DE,1572,2897,990,4.4
+2026-10,Brand,US,1146,1655,626,4.9
+2026-10,Brand,UK,655,973,322,1.5
+2026-10,Brand,NL,433,670,219,3.3
+2026-10,Brand,AT,353,557,193,0.3
+2026-10,Brand,CH,305,474,175,1.2
+2026-10,Brand,Other,98,147,47,0.0
+2026-10,Generic - Spend Management,DE,5195,23771,1089,24.5
+2026-10,Generic - Spend Management,US,3035,17335,721,4.5
+2026-10,Generic - Spend Management,UK,1624,10140,415,7.4
+2026-10,Generic - Spend Management,NL,1046,5597,247,2.7
+2026-10,Generic - Spend Management,AT,983,6369,248,2.6
+2026-10,Generic - Spend Management,CH,863,4935,210,1.5
+2026-10,Generic - Spend Management,Other,263,1434,56,0.0
+2026-10,Generic - Procurement Software,DE,3077,18110,730,14.1
+2026-10,Generic - Procurement Software,US,1899,10351,428,6.7
+2026-10,Generic - Procurement Software,UK,1021,7207,260,4.0
+2026-10,Generic - Procurement Software,NL,730,4189,176,3.8
+2026-10,Generic - Procurement Software,AT,656,3444,140,2.6
+2026-10,Generic - Procurement Software,CH,531,3675,143,2.6
+2026-10,Generic - Procurement Software,Other,181,1115,40,0.0
+2026-10,Generic - Invoice Automation,DE,2172,15210,569,8.5
+2026-10,Generic - Invoice Automation,US,1398,9600,369,3.0
+2026-10,Generic - Invoice Automation,UK,674,5281,187,1.5
+2026-10,Generic - Invoice Automation,NL,505,3326,123,3.3
+2026-10,Generic - Invoice Automation,AT,411,3137,113,3.3
+2026-10,Generic - Invoice Automation,CH,417,2792,107,0.3
+2026-10,Generic - Invoice Automation,Other,117,766,29,0.0
+2026-10,Competitor - Spendara,DE,1142,5097,178,8.8
+2026-10,Competitor - Spendara,US,1592,2606,107,5.2
+2026-10,Competitor - Spendara,UK,341,1593,61,4.7
+2026-10,Competitor - Spendara,NL,287,1137,42,3.5
+2026-10,Competitor - Spendara,AT,224,938,39,0.3
+2026-10,Competitor - Spendara,CH,200,863,31,0.3
+2026-10,Competitor - Spendara,Other,55,212,9,0.0
+2026-10,PMax - Lead Gen,DE,3474,115740,1765,62.7
+2026-10,PMax - Lead Gen,US,2138,69477,1089,23.4
+2026-10,PMax - Lead Gen,UK,1277,45562,731,15.5
+2026-10,PMax - Lead Gen,NL,842,31301,493,12.9
+2026-10,PMax - Lead Gen,AT,680,25001,367,6.5
+2026-10,PMax - Lead Gen,CH,636,20802,316,10.3
+2026-10,PMax - Lead Gen,Other,2912,201518,2927,0.0

@@ -4,6 +4,7 @@ Hi, Jan here (Sales Ops). Anna asked me to pull everything we have. I did not ha
 
 ## HubSpot
 - hubspot_contacts_export.csv: all contacts. became_mql_date is when they became an MQL. contact_owner is the current owner.
+- hubspot_contact_attribution_export.csv: the source drill-downs, first page seen and UTM fields for the same contacts. The main export timed out with those columns in it, so they are a separate file.
 - hubspot_contact_property_history.csv: change history for lifecycle stage, contact owner and lead status. Mia set this up for an audit last year, I just exported it.
 - hubspot_companies_export.csv: all companies. I removed the duplicates from the Pipedrive migration (I think all of them).
 - hubspot_deals_export.csv: all deals, both pipelines. Amounts are in EUR.
@@ -20,8 +21,8 @@ Hi, Jan here (Sales Ops). Anna asked me to pull everything we have. I did not ha
 ## Other systems
 - stripe_subscriptions.csv: self-serve customers. These are not in HubSpot as customers (the sync is off).
 - finance_arr_by_motion_monthly.csv: Martin's ARR sheet. It never matches HubSpot. Martin says HubSpot is wrong.
-- google_ads_*, linkedin_ads_campaigns_monthly.csv: from Clara in marketing.
-- search_console_queries_monthly.csv, ai_search_visibility_monthly.csv, website_traffic_daily.csv: from the website team.
+- google_ads_*, linkedin_ads_*: from Clara in marketing and the paid agency. The ad exports start in January 2025. Performance Max does not report search terms. The LinkedIn demographics file covers January to October 2026 only and leaves out small segments.
+- search_console_*, ai_search_*, ahrefs_domain_overview_monthly.csv, website_content_inventory.csv, website_traffic_daily.csv: from the website team. The Search Console query file is only the 12 queries they track by hand.
 - marketing_events.csv, g2_reviews.csv, productboard_top_requests.csv, gtm_team_roster.csv, gtm_tool_licenses.csv: various.
 
 ## Things I know are off
