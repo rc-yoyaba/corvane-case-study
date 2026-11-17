@@ -8,13 +8,13 @@ Corvane is a fictional company. Every person, number and message in these files 
 
 ```text
 data/
-├── context/   10 documents Anna forwarded: kickoff notes, emails,
+├── context/   Documents Anna forwarded: kickoff notes, emails,
 │              Slack threads, a handover note and plan summaries
-└── *.csv      26 exports from Corvane's systems, data to 31 October 2026
+└── *.csv      Exports from Corvane's systems, data to 31 October 2026
 ```
 
 - `data/context/` is the background. Start with `00_README_from_Jan.md`, Jan's note (Sales Ops) on what each export is and what Jan knows is off.
-- The CSV files come from HubSpot, Stripe, Gong, Outreach, Google Ads, LinkedIn Ads, Search Console, web analytics, finance and the board reporting dashboard. File names say which system each one comes from.
+- Each CSV file name says which system it comes from: HubSpot, Stripe, Gong, Outreach, Google Ads, LinkedIn Ads, Search Console, web analytics, finance, the board reporting dashboard and others.
 
 ## Getting the files
 
