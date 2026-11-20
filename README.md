@@ -18,7 +18,23 @@ data/
 
 ## Getting the files
 
-Click **Code**, then **Download ZIP**, or clone the repository:
+The quickest way is this direct link, which downloads everything as one ZIP file:
+
+**[Download the dataset (ZIP)](https://github.com/yoyaba-gmbh/corvane-case-study/archive/refs/heads/main.zip)**
+
+You can also download it from this page. GitHub shows the word **Code** twice: a tab at the top left, and a green button on the right, level with **main** and **Branch**. You need the green button.
+
+1. Click the green **Code** button on the right.
+
+   ![The green Code button, on the right of the row with main, Branch and Tags](docs/01_code_button.png)
+
+2. In the menu that opens, click **Download ZIP** at the bottom.
+
+   ![The Download ZIP option at the bottom of the Code menu](docs/02_download_zip.png)
+
+Unzip the file and open the `data/` folder.
+
+If you use git, you can clone the repository instead:
 
 ```bash
 git clone https://github.com/yoyaba-gmbh/corvane-case-study.git
