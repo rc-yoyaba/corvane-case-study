@@ -21,5 +21,5 @@ data/
 Click **Code**, then **Download ZIP**, or clone the repository:
 
 ```bash
-git clone https://github.com/rc-yoyaba/corvane-case-study.git
+git clone https://github.com/yoyaba-gmbh/corvane-case-study.git
 ```
